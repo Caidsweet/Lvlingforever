@@ -105,14 +105,18 @@
   "checked": "2026-10-11",
   "fonts": {
     "ClassicUI": {
-      "font": "assets/fonts/Marcellus-Regular.ttf",
-      "source": "https://github.com/google/fonts/tree/main/ofl/marcellus",
-      "license": "licenses/marcellus-OFL.txt"
+      "font": "assets/fonts/FrizQuadrata-Regular.ttf",
+      "family": "Friz Quadrata",
+      "source": "https://raw.githubusercontent.com/ArjanDeo/old-bnet-tauri/660f07745af20baeccf82b124e3e4277835e8e82/static/font/friz-quadrata-regular.ttf",
+      "copyright": "URW Software, Copyright 1994 by URW",
+      "sha256": "26cd94f10568ddb6d3386417653c84d5b330d5193893a2c5cc84c40ebdb008fe"
     },
     "ClassicQuest": {
-      "font": "assets/fonts/IMFeENsc28P.ttf",
-      "source": "https://github.com/google/fonts/tree/main/ofl/imfellenglishsc",
-      "license": "licenses/imfellenglishsc-OFL.txt"
+      "font": "assets/fonts/FrizQuadrata-Regular.ttf",
+      "family": "Friz Quadrata",
+      "source": "https://raw.githubusercontent.com/ArjanDeo/old-bnet-tauri/660f07745af20baeccf82b124e3e4277835e8e82/static/font/friz-quadrata-regular.ttf",
+      "copyright": "URW Software, Copyright 1994 by URW",
+      "sha256": "26cd94f10568ddb6d3386417653c84d5b330d5193893a2c5cc84c40ebdb008fe"
     }
   },
   "sourceCommit": "312a6e61bab69370c65ccc0a08f1075d62196294"
