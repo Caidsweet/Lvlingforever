@@ -1,0 +1,36 @@
+{
+  "id": "1651",
+  "name": "The Tome of Valor",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Daphne Stilwell",
+      "entityId": 6182,
+      "entityType": 1,
+      "zone": "Westfall",
+      "zoneId": "40",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1651",
+      "checked": "2026-10-10",
+      "x": 41.4,
+      "y": 88.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Daphne Stilwell",
+      "entityId": 6182,
+      "entityType": 1,
+      "zone": "Westfall",
+      "zoneId": "40",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1651",
+      "checked": "2026-10-10",
+      "x": 41.4,
+      "y": 88.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1651",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "92415",
+  "name": "Remember That I Love You",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Orphan Matron Nightingale",
+      "entityId": 14450,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92415",
+      "checked": "2026-10-10",
+      "x": 47.2,
+      "y": 38.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=92415",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "95189",
+  "name": "Crest of Lordaeron",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Lady Dena Kennedy",
+      "entityId": 15991,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95189",
+      "checked": "2026-10-10",
+      "x": 62.6,
+      "y": 5.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=95189",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

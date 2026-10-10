@@ -1,0 +1,36 @@
+{
+  "id": "166",
+  "name": "The Defias Brotherhood",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Gryan Stoutmantle",
+      "entityId": 234,
+      "entityType": 1,
+      "zone": "Westfall",
+      "zoneId": "40",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=166",
+      "checked": "2026-10-10",
+      "x": 56.2,
+      "y": 47.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Gryan Stoutmantle",
+      "entityId": 234,
+      "entityType": 1,
+      "zone": "Westfall",
+      "zoneId": "40",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=166",
+      "checked": "2026-10-10",
+      "x": 56.2,
+      "y": 47.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=166",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

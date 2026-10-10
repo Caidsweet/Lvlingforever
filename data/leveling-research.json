@@ -1,0 +1,39 @@
+{
+  "compiled": "2026-10-10",
+  "scope": "Alliance, levels 1–30",
+  "basis": "User-supplied research summary. The linked guide articles and Blizzard post could not be opened from this runtime; their contents have not been independently checked here.",
+  "zoneBands": [
+    {"range": "1–10/12", "zones": "Humans: Elwynn Forest. Dwarves/Gnomes: Dun Morogh. Night Elves: Teldrassil. Skyborne: Zephras Isle, approximately 1–12."},
+    {"range": "10–20", "zones": "Westfall, Loch Modan or Darkshore. Use Redridge Mountains to fill gaps."},
+    {"range": "20–30", "zones": "Ashenvale, Wetlands or Duskwood. Remaining Redridge quests can supplement these zones."}
+  ],
+  "routeAssessment": "These are overlapping alternatives. Choose quests that fit your level, current location and remaining objectives; you do not need to finish every zone. Some ranges derive from Classic quests present in the Forever client. This general route has not been tested as an optimal Forever speedrun.",
+  "practical": [
+    "Collect nearby quests and complete them in one shared circuit.",
+    "Discover flight paths along the route and set your Hearthstone at the current quest hub.",
+    "Prepare dungeon quests before travelling; combine dungeon visits with nearby questing and turn-ins.",
+    "Log out at an inn or in a capital for rested XP.",
+    "Train important abilities, prioritise weapon upgrades for weapon-dependent classes, and choose talents that support steady damage and less recovery time.",
+    "Move on from broken beta quests rather than spending the session on a blocked objective."
+  ],
+  "patch": {
+    "date": "2026-10-08",
+    "title": "Blizzard beta development notes — October 8",
+    "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-8/2360696/5",
+    "status": "Official-source claims reported in the supplied research; direct verification pending.",
+    "changes": [
+      "XP from killed dungeon enemies increased by approximately 20%.",
+      "Group XP calculations returned to Classic Era behaviour.",
+      "City of Dalaran opened for beta testing."
+    ],
+    "implication": "The dungeon-enemy XP change does not establish a 20% increase to total run XP or prove that dungeon farming beats questing. Older speed comparisons need checking against this patch. Beta access to Dalaran does not establish launch availability or a safe level for a complete run."
+  },
+  "sources": [
+    {"name": "ForeverDB — Leveling to 30", "url": "https://foreverdb.net/guide/leveling", "role": "Primary route reference", "assessment": "Main basis for the supplied zone plan: routes, cities, flight paths and dungeons. Zone ranges partly reflect Classic quests in the Forever client, and are approximate rather than a fully tested optimal route."},
+    {"name": "ForeverDB — Class Guides", "url": "https://foreverdb.net/guides", "role": "Class reference", "assessment": "Level-30 class guides for abilities, talents, rotations, class quests and equipment. Use the guide for each player's actual class; this page does not infer classes from party roles."},
+    {"name": "WoW Forever Guides — Leveling", "url": "https://wowforeverguides.com/leveling", "role": "Primary Forever complement", "assessment": "Complements the route with Forever changes, travel, dungeon quests, rested XP and beta content. Its distinction between confirmed information, client data and planned content is retained here. Material above level 30 is later planning."},
+    {"name": "Overgear — Leveling Guide", "url": "https://overgear.com/guides/wow-forever/1-60-leveling-guide/", "role": "Secondary overview", "assessment": "Supports combining questing with selected dungeon visits, prepared dungeon quests and short journeys. Contains commercial advertising; it is not used as evidence of measured levelling speed."},
+    {"name": "WoW Forever Wiki — Leveling 1–30", "url": "https://wowforeversite.wiki/guides/leveling-1-30/", "role": "Limited early-game reference", "assessment": "Useful starting advice and early dungeon context. At the supplied review it still described level 30 as a future phase, so it is not a primary source for current levels 20–30."},
+    {"name": "Forever Playbook — Level 20–30 Fastest Path", "url": "https://www.wowforever.games/906.html", "role": "Low confidence for speed claims", "assessment": "Exact XP-per-hour and completion-time claims lack a published measurement basis. Those figures are not used as verified facts or route targets."}
+  ]
+}

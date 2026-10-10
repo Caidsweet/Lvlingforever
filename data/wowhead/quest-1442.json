@@ -1,0 +1,36 @@
+{
+  "id": "1442",
+  "name": "Seeking the Kor Gem",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Thundris Windweaver",
+      "entityId": 3649,
+      "entityType": 1,
+      "zone": "Darkshore",
+      "zoneId": "148",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1442",
+      "checked": "2026-10-10",
+      "x": 37.4,
+      "y": 40.2
+    },
+    {
+      "kind": "turnin",
+      "npc": "Thundris Windweaver",
+      "entityId": 3649,
+      "entityType": 1,
+      "zone": "Darkshore",
+      "zoneId": "148",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1442",
+      "checked": "2026-10-10",
+      "x": 37.4,
+      "y": 40.2
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1442",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

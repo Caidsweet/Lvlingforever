@@ -1,0 +1,23 @@
+{
+  "id": "1649",
+  "name": "The Tome of Valor",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Duthorian Rall",
+      "entityId": 6171,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1649",
+      "checked": "2026-10-10",
+      "x": 39.4,
+      "y": 30.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1649",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

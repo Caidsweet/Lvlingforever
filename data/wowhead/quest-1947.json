@@ -1,0 +1,88 @@
+{
+  "id": "1947",
+  "name": "Journey to the Marsh",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Ursyn Ghull",
+      "entityId": 3048,
+      "entityType": 1,
+      "zone": "Thunder Bluff",
+      "zoneId": "1638",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1947",
+      "checked": "2026-10-10",
+      "x": 25.4,
+      "y": 14.4
+    },
+    {
+      "kind": "pickup",
+      "npc": "Anastasia Hartwell",
+      "entityId": 4568,
+      "entityType": 1,
+      "zone": "Undercity",
+      "zoneId": "1497",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1947",
+      "checked": "2026-10-10",
+      "x": 84.4,
+      "y": 11
+    },
+    {
+      "kind": "pickup",
+      "npc": "Bink",
+      "entityId": 5144,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1947",
+      "checked": "2026-10-10",
+      "x": 26.4,
+      "y": 9.4
+    },
+    {
+      "kind": "pickup",
+      "npc": "Jennea Cannon",
+      "entityId": 5497,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1947",
+      "checked": "2026-10-10",
+      "x": 38.4,
+      "y": 79.4
+    },
+    {
+      "kind": "pickup",
+      "npc": "Deino",
+      "entityId": 5885,
+      "entityType": 1,
+      "zone": "Orgrimmar",
+      "zoneId": "1637",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1947",
+      "checked": "2026-10-10",
+      "x": 37.8,
+      "y": 86.6
+    },
+    {
+      "kind": "turnin",
+      "npc": "Tabetha",
+      "entityId": 6546,
+      "entityType": 1,
+      "zone": "Dustwallow Marsh",
+      "zoneId": "15",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1947",
+      "checked": "2026-10-10",
+      "x": 46,
+      "y": 57
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1947",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

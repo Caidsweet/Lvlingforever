@@ -1,0 +1,36 @@
+{
+  "id": "962",
+  "name": "Serpentbloom",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Apothecary Zamah",
+      "entityId": 3419,
+      "entityType": 1,
+      "zone": "Thunder Bluff",
+      "zoneId": "1638",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=962",
+      "checked": "2026-10-10",
+      "x": 22.4,
+      "y": 19.8
+    },
+    {
+      "kind": "turnin",
+      "npc": "Apothecary Zamah",
+      "entityId": 3419,
+      "entityType": 1,
+      "zone": "Thunder Bluff",
+      "zoneId": "1638",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=962",
+      "checked": "2026-10-10",
+      "x": 22.4,
+      "y": 19.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=962",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

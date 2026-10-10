@@ -1,0 +1,36 @@
+{
+  "id": "377",
+  "name": "Crime and Punishment",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Councilman Millstipe",
+      "entityId": 270,
+      "entityType": 1,
+      "zone": "Duskwood",
+      "zoneId": "10",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=377",
+      "checked": "2026-10-10",
+      "x": 72,
+      "y": 47.8
+    },
+    {
+      "kind": "turnin",
+      "npc": "Councilman Millstipe",
+      "entityId": 270,
+      "entityType": 1,
+      "zone": "Duskwood",
+      "zoneId": "10",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=377",
+      "checked": "2026-10-10",
+      "x": 72,
+      "y": 47.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=377",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

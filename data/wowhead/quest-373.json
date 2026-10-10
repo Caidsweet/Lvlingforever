@@ -1,0 +1,23 @@
+{
+  "id": "373",
+  "name": "The Unsent Letter",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Baros Alexston",
+      "entityId": 1646,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=373",
+      "checked": "2026-10-10",
+      "x": 49,
+      "y": 30.2
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=373",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

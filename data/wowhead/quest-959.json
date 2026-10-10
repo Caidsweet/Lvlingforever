@@ -1,0 +1,36 @@
+{
+  "id": "959",
+  "name": "Trouble at the Docks",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Crane Operator Bigglefuzz",
+      "entityId": 3665,
+      "entityType": 1,
+      "zone": "The Barrens",
+      "zoneId": "17",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=959",
+      "checked": "2026-10-10",
+      "x": 63,
+      "y": 37.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Crane Operator Bigglefuzz",
+      "entityId": 3665,
+      "entityType": 1,
+      "zone": "The Barrens",
+      "zoneId": "17",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=959",
+      "checked": "2026-10-10",
+      "x": 63,
+      "y": 37.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=959",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

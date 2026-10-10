@@ -1,0 +1,36 @@
+{
+  "id": "2924",
+  "name": "Essential Artificials",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Klockmort Spannerspan",
+      "entityId": 6169,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2924",
+      "checked": "2026-10-10",
+      "x": 68,
+      "y": 46.8
+    },
+    {
+      "kind": "turnin",
+      "npc": "Klockmort Spannerspan",
+      "entityId": 6169,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2924",
+      "checked": "2026-10-10",
+      "x": 68,
+      "y": 46.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=2924",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

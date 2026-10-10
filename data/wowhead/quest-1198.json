@@ -1,0 +1,35 @@
+{
+  "id": "1198",
+  "name": "In Search of Thaelrid",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Dawnwatcher Shaedlass",
+      "entityId": 4786,
+      "entityType": 1,
+      "zone": "Darnassus",
+      "zoneId": "1657",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1198",
+      "checked": "2026-10-10",
+      "x": 55.4,
+      "y": 24.4
+    }
+  ],
+  "unmapped": [
+    {
+      "kind": "turnin",
+      "npc": "Argent Guard Thaelrid",
+      "entityId": 4787,
+      "entityType": 1,
+      "zone": "Blackfathom Deeps",
+      "zoneId": "719",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1198",
+      "checked": "2026-10-10"
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/quest=1198",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

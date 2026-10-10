@@ -1,0 +1,36 @@
+{
+  "id": "2930",
+  "name": "Data Rescue",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Master Mechanic Castpipe",
+      "entityId": 7950,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2930",
+      "checked": "2026-10-10",
+      "x": 69.4,
+      "y": 47.6
+    },
+    {
+      "kind": "turnin",
+      "npc": "Master Mechanic Castpipe",
+      "entityId": 7950,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2930",
+      "checked": "2026-10-10",
+      "x": 69.4,
+      "y": 47.6
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=2930",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

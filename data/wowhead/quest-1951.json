@@ -1,0 +1,36 @@
+{
+  "id": "1951",
+  "name": "Rituals of Power",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Magus Tirth",
+      "entityId": 6548,
+      "entityType": 1,
+      "zone": "Thousand Needles",
+      "zoneId": "400",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1951",
+      "checked": "2026-10-10",
+      "x": 78.2,
+      "y": 75.8
+    },
+    {
+      "kind": "turnin",
+      "npc": "Tabetha",
+      "entityId": 6546,
+      "entityType": 1,
+      "zone": "Dustwallow Marsh",
+      "zoneId": "15",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1951",
+      "checked": "2026-10-10",
+      "x": 46,
+      "y": 57
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1951",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

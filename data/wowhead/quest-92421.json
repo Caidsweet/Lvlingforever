@@ -1,0 +1,36 @@
+{
+  "id": "92421",
+  "name": "Light's Justice",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Morbin Lightbane",
+      "entityId": 266484,
+      "entityType": 1,
+      "zone": "Undercity",
+      "zoneId": "1497",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92421",
+      "checked": "2026-10-10",
+      "x": 57.4,
+      "y": 90.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Morbin Lightbane",
+      "entityId": 266484,
+      "entityType": 1,
+      "zone": "Undercity",
+      "zoneId": "1497",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92421",
+      "checked": "2026-10-10",
+      "x": 57.4,
+      "y": 90.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=92421",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

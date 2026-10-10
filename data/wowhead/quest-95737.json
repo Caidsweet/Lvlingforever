@@ -1,0 +1,36 @@
+{
+  "id": "95737",
+  "name": "Seeking Caitlin",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Llana",
+      "entityId": 3970,
+      "entityType": 1,
+      "zone": "Ashenvale",
+      "zoneId": "331",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95737",
+      "checked": "2026-10-10",
+      "x": 35,
+      "y": 48.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Caitlin Grassman",
+      "entityId": 1480,
+      "entityType": 1,
+      "zone": "Wetlands",
+      "zoneId": "11",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95737",
+      "checked": "2026-10-10",
+      "x": 11.6,
+      "y": 58.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=95737",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

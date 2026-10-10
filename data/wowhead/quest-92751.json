@@ -1,0 +1,36 @@
+{
+  "id": "92751",
+  "name": "Detonation at a Distance",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Jasper Fel",
+      "entityId": 1325,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92751",
+      "checked": "2026-10-10",
+      "x": 77.8,
+      "y": 59.6
+    },
+    {
+      "kind": "turnin",
+      "npc": "Sprite Jumpsprocket",
+      "entityId": 11026,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92751",
+      "checked": "2026-10-10",
+      "x": 54.6,
+      "y": 8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=92751",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

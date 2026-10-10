@@ -1,0 +1,36 @@
+{
+  "id": "96393",
+  "name": "Old Ironforge Incursion",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Earthseer Farsen",
+      "entityId": 264936,
+      "entityType": 1,
+      "zone": "Dun Morogh",
+      "zoneId": "1",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96393",
+      "checked": "2026-10-10",
+      "x": 64.8,
+      "y": 58.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "King Magni Bronzebeard",
+      "entityId": 2784,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96393",
+      "checked": "2026-10-10",
+      "x": 39.4,
+      "y": 55.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=96393",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "168",
+  "name": "Collecting Memories",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Wilder Thistlenettle",
+      "entityId": 656,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=168",
+      "checked": "2026-10-10",
+      "x": 65.2,
+      "y": 21.2
+    },
+    {
+      "kind": "turnin",
+      "npc": "Wilder Thistlenettle",
+      "entityId": 656,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=168",
+      "checked": "2026-10-10",
+      "x": 65.2,
+      "y": 21.2
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=168",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

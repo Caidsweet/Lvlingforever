@@ -1,0 +1,23 @@
+{
+  "id": "98423",
+  "name": "The Treaty of Understanding",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "King Magni Bronzebeard",
+      "entityId": 2784,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=98423",
+      "checked": "2026-10-10",
+      "x": 39.4,
+      "y": 55.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=98423",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

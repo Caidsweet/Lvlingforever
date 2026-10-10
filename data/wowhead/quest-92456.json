@@ -1,0 +1,36 @@
+{
+  "id": "92456",
+  "name": "A Green Sample",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Shylamiir",
+      "entityId": 5502,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92456",
+      "checked": "2026-10-10",
+      "x": 15,
+      "y": 49.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Shylamiir",
+      "entityId": 5502,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92456",
+      "checked": "2026-10-10",
+      "x": 15,
+      "y": 49.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=92456",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

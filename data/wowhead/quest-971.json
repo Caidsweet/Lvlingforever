@@ -1,0 +1,36 @@
+{
+  "id": "971",
+  "name": "Knowledge in the Deeps",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Gerrig Bonegrip",
+      "entityId": 2786,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=971",
+      "checked": "2026-10-10",
+      "x": 50.2,
+      "y": 7
+    },
+    {
+      "kind": "turnin",
+      "npc": "Gerrig Bonegrip",
+      "entityId": 2786,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=971",
+      "checked": "2026-10-10",
+      "x": 50.2,
+      "y": 7
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=971",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "96984",
+  "name": "Heart of Disruption",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Image of Archmage Modera",
+      "entityId": 269127,
+      "entityType": 1,
+      "zone": "Silverpine Forest",
+      "zoneId": "130",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96984",
+      "checked": "2026-10-10",
+      "x": 68.4,
+      "y": 45.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Magus Wordeen Voidglare",
+      "entityId": 2410,
+      "entityType": 1,
+      "zone": "Hillsbrad Foothills",
+      "zoneId": "267",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96984",
+      "checked": "2026-10-10",
+      "x": 61.4,
+      "y": 20.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=96984",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

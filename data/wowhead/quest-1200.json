@@ -1,0 +1,35 @@
+{
+  "id": "1200",
+  "name": "Blackfathom Villainy",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Dawnwatcher Selgorm",
+      "entityId": 4783,
+      "entityType": 1,
+      "zone": "Darnassus",
+      "zoneId": "1657",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1200",
+      "checked": "2026-10-10",
+      "x": 55.4,
+      "y": 23.6
+    }
+  ],
+  "unmapped": [
+    {
+      "kind": "pickup",
+      "npc": "Argent Guard Thaelrid",
+      "entityId": 4787,
+      "entityType": 1,
+      "zone": "Blackfathom Deeps",
+      "zoneId": "719",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1200",
+      "checked": "2026-10-10"
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/quest=1200",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

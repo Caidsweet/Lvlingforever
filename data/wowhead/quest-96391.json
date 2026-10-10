@@ -1,0 +1,23 @@
+{
+  "id": "96391",
+  "name": "Underground Map",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Earthseer Farsen",
+      "entityId": 264936,
+      "entityType": 1,
+      "zone": "Dun Morogh",
+      "zoneId": "1",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96391",
+      "checked": "2026-10-10",
+      "x": 64.8,
+      "y": 58.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=96391",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

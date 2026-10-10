@@ -1,0 +1,36 @@
+{
+  "id": "389",
+  "name": "Bazil Thredd",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Baros Alexston",
+      "entityId": 1646,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=389",
+      "checked": "2026-10-10",
+      "x": 49,
+      "y": 30.2
+    },
+    {
+      "kind": "turnin",
+      "npc": "Warden Thelwater",
+      "entityId": 1719,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=389",
+      "checked": "2026-10-10",
+      "x": 41,
+      "y": 57
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=389",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1052",
+  "name": "Down the Scarlet Path",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Brother Anton",
+      "entityId": 1182,
+      "entityType": 1,
+      "zone": "Desolace",
+      "zoneId": "405",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1052",
+      "checked": "2026-10-10",
+      "x": 66.4,
+      "y": 7.8
+    },
+    {
+      "kind": "turnin",
+      "npc": "Raleigh the Devout",
+      "entityId": 3980,
+      "entityType": 1,
+      "zone": "Hillsbrad Foothills",
+      "zoneId": "267",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1052",
+      "checked": "2026-10-10",
+      "x": 51.4,
+      "y": 58.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1052",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

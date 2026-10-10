@@ -1,0 +1,49 @@
+{
+  "id": "79360",
+  "name": "Elemental Aid",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Rau Cliffrunner",
+      "entityId": 4722,
+      "entityType": 1,
+      "zone": "Thousand Needles",
+      "zoneId": "400",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=79360",
+      "checked": "2026-10-10",
+      "x": 46,
+      "y": 51.4
+    },
+    {
+      "kind": "pickup",
+      "npc": "Prate Cloudseer",
+      "entityId": 5905,
+      "entityType": 1,
+      "zone": "Thousand Needles",
+      "zoneId": "400",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=79360",
+      "checked": "2026-10-10",
+      "x": 53.4,
+      "y": 42.6
+    },
+    {
+      "kind": "turnin",
+      "npc": "Bath'rah the Windwatcher",
+      "entityId": 6176,
+      "entityType": 1,
+      "zone": "Alterac Mountains",
+      "zoneId": "36",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=79360",
+      "checked": "2026-10-10",
+      "x": 80.2,
+      "y": 62.6
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=79360",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

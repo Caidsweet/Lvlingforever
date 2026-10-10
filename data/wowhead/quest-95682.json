@@ -1,0 +1,36 @@
+{
+  "id": "95682",
+  "name": "Open the Maw",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Deathstalker Agent",
+      "entityId": 13155,
+      "entityType": 1,
+      "zone": "Wetlands",
+      "zoneId": "11",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95682",
+      "checked": "2026-10-10",
+      "x": 51.4,
+      "y": 59.2
+    },
+    {
+      "kind": "turnin",
+      "npc": "Deathstalker Agent",
+      "entityId": 13155,
+      "entityType": 1,
+      "zone": "Wetlands",
+      "zoneId": "11",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95682",
+      "checked": "2026-10-10",
+      "x": 51.4,
+      "y": 59.2
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=95682",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

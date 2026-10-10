@@ -1,0 +1,36 @@
+{
+  "id": "95697",
+  "name": "Changing Tastes",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Borstan",
+      "entityId": 3368,
+      "entityType": 1,
+      "zone": "Orgrimmar",
+      "zoneId": "1637",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95697",
+      "checked": "2026-10-10",
+      "x": 57.4,
+      "y": 53.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Borstan",
+      "entityId": 3368,
+      "entityType": 1,
+      "zone": "Orgrimmar",
+      "zoneId": "1637",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95697",
+      "checked": "2026-10-10",
+      "x": 57.4,
+      "y": 53.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=95697",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

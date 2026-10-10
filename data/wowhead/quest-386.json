@@ -1,0 +1,36 @@
+{
+  "id": "386",
+  "name": "What Comes Around...",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Guard Berton",
+      "entityId": 859,
+      "entityType": 1,
+      "zone": "Redridge Mountains",
+      "zoneId": "44",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=386",
+      "checked": "2026-10-10",
+      "x": 21.2,
+      "y": 46.6
+    },
+    {
+      "kind": "turnin",
+      "npc": "Guard Berton",
+      "entityId": 859,
+      "entityType": 1,
+      "zone": "Redridge Mountains",
+      "zoneId": "44",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=386",
+      "checked": "2026-10-10",
+      "x": 21.2,
+      "y": 46.6
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=386",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

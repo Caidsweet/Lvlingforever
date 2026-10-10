@@ -1,0 +1,36 @@
+{
+  "id": "2841",
+  "name": "Rig Wars",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Nogg",
+      "entityId": 3412,
+      "entityType": 1,
+      "zone": "Orgrimmar",
+      "zoneId": "1637",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2841",
+      "checked": "2026-10-10",
+      "x": 75.4,
+      "y": 24.8
+    },
+    {
+      "kind": "turnin",
+      "npc": "Nogg",
+      "entityId": 3412,
+      "entityType": 1,
+      "zone": "Orgrimmar",
+      "zoneId": "1637",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2841",
+      "checked": "2026-10-10",
+      "x": 75.4,
+      "y": 24.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=2841",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

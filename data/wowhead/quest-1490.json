@@ -1,0 +1,36 @@
+{
+  "id": "1490",
+  "name": "Nara Wildmane",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Arch Druid Hamuul Runetotem",
+      "entityId": 5769,
+      "entityType": 1,
+      "zone": "Thunder Bluff",
+      "zoneId": "1638",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1490",
+      "checked": "2026-10-10",
+      "x": 78.2,
+      "y": 28.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Nara Wildmane",
+      "entityId": 5770,
+      "entityType": 1,
+      "zone": "Thunder Bluff",
+      "zoneId": "1638",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1490",
+      "checked": "2026-10-10",
+      "x": 75.2,
+      "y": 30.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1490",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

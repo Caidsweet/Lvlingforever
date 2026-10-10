@@ -1,0 +1,23 @@
+{
+  "id": "95647",
+  "name": "Lost in the Thicket Things",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Caitlin Grassman",
+      "entityId": 1480,
+      "entityType": 1,
+      "zone": "Wetlands",
+      "zoneId": "11",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95647",
+      "checked": "2026-10-10",
+      "x": 11.6,
+      "y": 58.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=95647",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

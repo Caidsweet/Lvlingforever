@@ -1,0 +1,36 @@
+{
+  "id": "96403",
+  "name": "Important Heirlooms",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Thom Filch",
+      "entityId": 265003,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96403",
+      "checked": "2026-10-10",
+      "x": 31.4,
+      "y": 45.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Thom Filch",
+      "entityId": 265003,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96403",
+      "checked": "2026-10-10",
+      "x": 31.4,
+      "y": 45.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=96403",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

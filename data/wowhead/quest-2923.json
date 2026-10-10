@@ -1,0 +1,36 @@
+{
+  "id": "2923",
+  "name": "Tinkmaster Overspark",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Brother Sarno",
+      "entityId": 7917,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2923",
+      "checked": "2026-10-10",
+      "x": 40.4,
+      "y": 30.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Tinkmaster Overspark",
+      "entityId": 7944,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2923",
+      "checked": "2026-10-10",
+      "x": 69.4,
+      "y": 50.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=2923",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "2925",
+  "name": "Klockmort's Essentials",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Mathiel",
+      "entityId": 6142,
+      "entityType": 1,
+      "zone": "Darnassus",
+      "zoneId": "1657",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2925",
+      "checked": "2026-10-10",
+      "x": 59.2,
+      "y": 45.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Klockmort Spannerspan",
+      "entityId": 6169,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2925",
+      "checked": "2026-10-10",
+      "x": 68,
+      "y": 46.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=2925",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

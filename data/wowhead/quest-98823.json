@@ -1,0 +1,36 @@
+{
+  "id": "98823",
+  "name": "Earthen Echo",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Bashana Runetotem",
+      "entityId": 9087,
+      "entityType": 1,
+      "zone": "Thunder Bluff",
+      "zoneId": "1638",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=98823",
+      "checked": "2026-10-10",
+      "x": 70.2,
+      "y": 33.6
+    },
+    {
+      "kind": "turnin",
+      "npc": "Muln Earthfury",
+      "entityId": 259118,
+      "entityType": 1,
+      "zone": "Mulgore",
+      "zoneId": "215",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=98823",
+      "checked": "2026-10-10",
+      "x": 33.4,
+      "y": 22.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=98823",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

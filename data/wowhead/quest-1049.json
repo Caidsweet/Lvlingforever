@@ -1,0 +1,36 @@
+{
+  "id": "1049",
+  "name": "Compendium of the Fallen",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Sage Truthseeker",
+      "entityId": 3978,
+      "entityType": 1,
+      "zone": "Thunder Bluff",
+      "zoneId": "1638",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1049",
+      "checked": "2026-10-10",
+      "x": 34.4,
+      "y": 47.2
+    },
+    {
+      "kind": "turnin",
+      "npc": "Sage Truthseeker",
+      "entityId": 3978,
+      "entityType": 1,
+      "zone": "Thunder Bluff",
+      "zoneId": "1638",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1049",
+      "checked": "2026-10-10",
+      "x": 34.4,
+      "y": 47.2
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1049",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

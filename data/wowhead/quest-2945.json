@@ -1,0 +1,21 @@
+{
+  "id": "2945",
+  "name": "Grime-Encrusted Ring",
+  "points": [],
+  "unmapped": [
+    {
+      "kind": "turnin",
+      "npc": "The Sparklematic 5200",
+      "entityId": 142487,
+      "entityType": 2,
+      "zone": "Gnomeregan",
+      "zoneId": "721",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2945",
+      "checked": "2026-10-10"
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/quest=2945",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

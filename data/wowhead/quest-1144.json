@@ -1,0 +1,32 @@
+{
+  "id": "1144",
+  "name": "Willix the Importer",
+  "points": [],
+  "unmapped": [
+    {
+      "kind": "pickup",
+      "npc": "Willix the Importer",
+      "entityId": 4508,
+      "entityType": 1,
+      "zone": "Razorfen Kraul",
+      "zoneId": "491",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1144",
+      "checked": "2026-10-10"
+    },
+    {
+      "kind": "turnin",
+      "npc": "Willix the Importer",
+      "entityId": 4508,
+      "entityType": 1,
+      "zone": "Razorfen Kraul",
+      "zoneId": "491",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1144",
+      "checked": "2026-10-10"
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/quest=1144",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

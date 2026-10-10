@@ -1,0 +1,36 @@
+{
+  "id": "98824",
+  "name": "Prehistoric Prism",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Prospector Whelgar",
+      "entityId": 1077,
+      "entityType": 1,
+      "zone": "Wetlands",
+      "zoneId": "11",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=98824",
+      "checked": "2026-10-10",
+      "x": 38.8,
+      "y": 52.2
+    },
+    {
+      "kind": "turnin",
+      "npc": "High Explorer Magellas",
+      "entityId": 5387,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=98824",
+      "checked": "2026-10-10",
+      "x": 69,
+      "y": 19.6
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=98824",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

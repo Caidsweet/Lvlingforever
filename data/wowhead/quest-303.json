@@ -1,0 +1,36 @@
+{
+  "id": "303",
+  "name": "The Dark Iron War",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Motley Garmason",
+      "entityId": 1074,
+      "entityType": 1,
+      "zone": "Wetlands",
+      "zoneId": "11",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=303",
+      "checked": "2026-10-10",
+      "x": 49.6,
+      "y": 18.2
+    },
+    {
+      "kind": "turnin",
+      "npc": "Motley Garmason",
+      "entityId": 1074,
+      "entityType": 1,
+      "zone": "Wetlands",
+      "zoneId": "11",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=303",
+      "checked": "2026-10-10",
+      "x": 49.6,
+      "y": 18.2
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=303",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

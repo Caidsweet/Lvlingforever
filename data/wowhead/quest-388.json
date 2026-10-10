@@ -1,0 +1,36 @@
+{
+  "id": "388",
+  "name": "The Color of Blood",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Nikova Raskol",
+      "entityId": 1721,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=388",
+      "checked": "2026-10-10",
+      "x": 66.8,
+      "y": 46.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Nikova Raskol",
+      "entityId": 1721,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=388",
+      "checked": "2026-10-10",
+      "x": 66.8,
+      "y": 46.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=388",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

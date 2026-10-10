@@ -1,0 +1,35 @@
+{
+  "id": "1098",
+  "name": "Deathstalkers in Shadowfang",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "High Executor Hadrec",
+      "entityId": 1952,
+      "entityType": 1,
+      "zone": "Silverpine Forest",
+      "zoneId": "130",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1098",
+      "checked": "2026-10-10",
+      "x": 43.4,
+      "y": 40.8
+    }
+  ],
+  "unmapped": [
+    {
+      "kind": "turnin",
+      "npc": "Deathstalker Vincent",
+      "entityId": 4444,
+      "entityType": 1,
+      "zone": "Shadowfang Keep",
+      "zoneId": "209",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1098",
+      "checked": "2026-10-10"
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/quest=1098",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

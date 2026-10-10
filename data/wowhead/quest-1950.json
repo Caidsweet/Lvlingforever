@@ -1,0 +1,36 @@
+{
+  "id": "1950",
+  "name": "Get the Scoop",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Magus Tirth",
+      "entityId": 6548,
+      "entityType": 1,
+      "zone": "Thousand Needles",
+      "zoneId": "400",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1950",
+      "checked": "2026-10-10",
+      "x": 78.2,
+      "y": 75.8
+    },
+    {
+      "kind": "turnin",
+      "npc": "Magus Tirth",
+      "entityId": 6548,
+      "entityType": 1,
+      "zone": "Thousand Needles",
+      "zoneId": "400",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1950",
+      "checked": "2026-10-10",
+      "x": 78.2,
+      "y": 75.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1950",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "391",
+  "name": "The Stockade Riots",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Warden Thelwater",
+      "entityId": 1719,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=391",
+      "checked": "2026-10-10",
+      "x": 41,
+      "y": 57
+    },
+    {
+      "kind": "turnin",
+      "npc": "Warden Thelwater",
+      "entityId": 1719,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=391",
+      "checked": "2026-10-10",
+      "x": 41,
+      "y": 57
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=391",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

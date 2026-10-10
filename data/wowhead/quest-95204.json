@@ -1,0 +1,23 @@
+{
+  "id": "95204",
+  "name": "Crest of Lordaeron",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Oran Snakewrithe",
+      "entityId": 7825,
+      "entityType": 1,
+      "zone": "Undercity",
+      "zoneId": "1497",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95204",
+      "checked": "2026-10-10",
+      "x": 73.4,
+      "y": 32.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=95204",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

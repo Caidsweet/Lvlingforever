@@ -1,0 +1,36 @@
+{
+  "id": "92749",
+  "name": "A Dynamite Plan",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Sprite Jumpsprocket",
+      "entityId": 11026,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92749",
+      "checked": "2026-10-10",
+      "x": 54.6,
+      "y": 8
+    },
+    {
+      "kind": "turnin",
+      "npc": "Sprite Jumpsprocket",
+      "entityId": 11026,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92749",
+      "checked": "2026-10-10",
+      "x": 54.6,
+      "y": 8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=92749",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

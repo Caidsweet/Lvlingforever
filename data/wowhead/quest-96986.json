@@ -1,0 +1,36 @@
+{
+  "id": "96986",
+  "name": "The Grave Knight",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Melisara",
+      "entityId": 2278,
+      "entityType": 1,
+      "zone": "Hillsbrad Foothills",
+      "zoneId": "267",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96986",
+      "checked": "2026-10-10",
+      "x": 62.4,
+      "y": 20.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Melisara",
+      "entityId": 2278,
+      "entityType": 1,
+      "zone": "Hillsbrad Foothills",
+      "zoneId": "267",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96986",
+      "checked": "2026-10-10",
+      "x": 62.4,
+      "y": 20.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=96986",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

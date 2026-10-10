@@ -1,0 +1,36 @@
+{
+  "id": "1102",
+  "name": "A Vengeful Fate",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Auld Stonespire",
+      "entityId": 4451,
+      "entityType": 1,
+      "zone": "Thunder Bluff",
+      "zoneId": "1638",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1102",
+      "checked": "2026-10-10",
+      "x": 36.2,
+      "y": 59.8
+    },
+    {
+      "kind": "turnin",
+      "npc": "Auld Stonespire",
+      "entityId": 4451,
+      "entityType": 1,
+      "zone": "Thunder Bluff",
+      "zoneId": "1638",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1102",
+      "checked": "2026-10-10",
+      "x": 36.2,
+      "y": 59.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1102",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

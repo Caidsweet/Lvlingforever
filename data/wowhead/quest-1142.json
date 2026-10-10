@@ -1,0 +1,35 @@
+{
+  "id": "1142",
+  "name": "Mortality Wanes",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Treshala Fallowbrook",
+      "entityId": 4521,
+      "entityType": 1,
+      "zone": "Darnassus",
+      "zoneId": "1657",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1142",
+      "checked": "2026-10-10",
+      "x": 69.2,
+      "y": 66.4
+    }
+  ],
+  "unmapped": [
+    {
+      "kind": "pickup",
+      "npc": "Heralath Fallowbrook",
+      "entityId": 4510,
+      "entityType": 1,
+      "zone": "Razorfen Kraul",
+      "zoneId": "491",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1142",
+      "checked": "2026-10-10"
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/quest=1142",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

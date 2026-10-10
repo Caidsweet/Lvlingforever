@@ -1,0 +1,36 @@
+{
+  "id": "92457",
+  "name": "Starving Arcane",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Image of Archmage Modera",
+      "entityId": 269127,
+      "entityType": 1,
+      "zone": "Silverpine Forest",
+      "zoneId": "130",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92457",
+      "checked": "2026-10-10",
+      "x": 68.4,
+      "y": 45.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Image of Archmage Modera",
+      "entityId": 269127,
+      "entityType": 1,
+      "zone": "Silverpine Forest",
+      "zoneId": "130",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92457",
+      "checked": "2026-10-10",
+      "x": 68.4,
+      "y": 45.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=92457",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

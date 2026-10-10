@@ -1,0 +1,36 @@
+{
+  "id": "1101",
+  "name": "The Crone of the Kraul",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Falfindel Waywarder",
+      "entityId": 4048,
+      "entityType": 1,
+      "zone": "Feralas",
+      "zoneId": "357",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1101",
+      "checked": "2026-10-10",
+      "x": 89.4,
+      "y": 45.8
+    },
+    {
+      "kind": "turnin",
+      "npc": "Falfindel Waywarder",
+      "entityId": 4048,
+      "entityType": 1,
+      "zone": "Feralas",
+      "zoneId": "357",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1101",
+      "checked": "2026-10-10",
+      "x": 89.4,
+      "y": 45.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1101",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

@@ -1,0 +1,7 @@
+{
+  "checked": "2026-10-10",
+  "quest": "https://www.wowhead.com/forever/quest=78916",
+  "items": [211451, 211450, 211449],
+  "finding": "The Forever quest page references these reward IDs, but its item records have blank names and icons, quality -1 and attainable 0. The three Forever item tooltip endpoints returned HTTP 404. The old community reward names are retained as unresolved references, with no confirmed stats or icons.",
+  "tooltipEndpoint": "https://nether.wowhead.com/forever/tooltip/item/{id}"
+}

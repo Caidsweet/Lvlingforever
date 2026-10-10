@@ -1,0 +1,23 @@
+{
+  "id": "78916",
+  "name": "The Heart of the Void",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Dawnwatcher Selgorm",
+      "entityId": 4783,
+      "entityType": 1,
+      "zone": "Darnassus",
+      "zoneId": "1657",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=78916",
+      "checked": "2026-10-10",
+      "x": 55.4,
+      "y": 23.6
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=78916",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

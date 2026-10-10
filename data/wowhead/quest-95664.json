@@ -1,0 +1,23 @@
+{
+  "id": "95664",
+  "name": "Elder Knowledge",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Bashana Runetotem",
+      "entityId": 9087,
+      "entityType": 1,
+      "zone": "Thunder Bluff",
+      "zoneId": "1638",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95664",
+      "checked": "2026-10-10",
+      "x": 70.2,
+      "y": 33.6
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=95664",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

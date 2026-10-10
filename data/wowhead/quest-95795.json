@@ -1,0 +1,23 @@
+{
+  "id": "95795",
+  "name": "Fallen in the Fen",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Dorin Songblade",
+      "entityId": 956,
+      "entityType": 1,
+      "zone": "Redridge Mountains",
+      "zoneId": "44",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95795",
+      "checked": "2026-10-10",
+      "x": 25.6,
+      "y": 46.6
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=95795",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

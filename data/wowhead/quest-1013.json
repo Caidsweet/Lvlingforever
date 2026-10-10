@@ -1,0 +1,36 @@
+{
+  "id": "1013",
+  "name": "The Book of Ur",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Keeper Bel'dugur",
+      "entityId": 2934,
+      "entityType": 1,
+      "zone": "Undercity",
+      "zoneId": "1497",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1013",
+      "checked": "2026-10-10",
+      "x": 53.4,
+      "y": 53
+    },
+    {
+      "kind": "turnin",
+      "npc": "Keeper Bel'dugur",
+      "entityId": 2934,
+      "entityType": 1,
+      "zone": "Undercity",
+      "zoneId": "1497",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1013",
+      "checked": "2026-10-10",
+      "x": 53.4,
+      "y": 53
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1013",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

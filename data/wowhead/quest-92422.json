@@ -1,0 +1,36 @@
+{
+  "id": "92422",
+  "name": "The Wrath of Rath'mael",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Deathguard Kristof",
+      "entityId": 251001,
+      "entityType": 1,
+      "zone": "Tirisfal Glades",
+      "zoneId": "85",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92422",
+      "checked": "2026-10-10",
+      "x": 65.2,
+      "y": 60.2
+    },
+    {
+      "kind": "turnin",
+      "npc": "Deathguard Kristof",
+      "entityId": 251001,
+      "entityType": 1,
+      "zone": "Tirisfal Glades",
+      "zoneId": "85",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92422",
+      "checked": "2026-10-10",
+      "x": 65.2,
+      "y": 60.2
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=92422",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

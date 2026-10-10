@@ -1,0 +1,36 @@
+{
+  "id": "1654",
+  "name": "The Test of Righteousness",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Jordan Stilwell",
+      "entityId": 6181,
+      "entityType": 1,
+      "zone": "Dun Morogh",
+      "zoneId": "1",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1654",
+      "checked": "2026-10-10",
+      "x": 52.4,
+      "y": 36.8
+    },
+    {
+      "kind": "turnin",
+      "npc": "Jordan Stilwell",
+      "entityId": 6181,
+      "entityType": 1,
+      "zone": "Dun Morogh",
+      "zoneId": "1",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1654",
+      "checked": "2026-10-10",
+      "x": 52.4,
+      "y": 36.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1654",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

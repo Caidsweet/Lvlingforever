@@ -1,0 +1,35 @@
+{
+  "id": "2947",
+  "name": "Return of the Ring",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Talvash del Kissel",
+      "entityId": 6826,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2947",
+      "checked": "2026-10-10",
+      "x": 36,
+      "y": 3.4
+    }
+  ],
+  "unmapped": [
+    {
+      "kind": "pickup",
+      "npc": "The Sparklematic 5200",
+      "entityId": 142487,
+      "entityType": 2,
+      "zone": "Gnomeregan",
+      "zoneId": "721",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2947",
+      "checked": "2026-10-10"
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/quest=2947",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1489",
+  "name": "Hamuul Runetotem",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Tonga Runetotem",
+      "entityId": 3448,
+      "entityType": 1,
+      "zone": "The Barrens",
+      "zoneId": "17",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1489",
+      "checked": "2026-10-10",
+      "x": 52.2,
+      "y": 31.8
+    },
+    {
+      "kind": "turnin",
+      "npc": "Arch Druid Hamuul Runetotem",
+      "entityId": 5769,
+      "entityType": 1,
+      "zone": "Thunder Bluff",
+      "zoneId": "1638",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1489",
+      "checked": "2026-10-10",
+      "x": 78.2,
+      "y": 28.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1489",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "1199",
+  "name": "Twilight Falls",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Argent Guard Manados",
+      "entityId": 4784,
+      "entityType": 1,
+      "zone": "Darnassus",
+      "zoneId": "1657",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1199",
+      "checked": "2026-10-10",
+      "x": 55.2,
+      "y": 23.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Argent Guard Manados",
+      "entityId": 4784,
+      "entityType": 1,
+      "zone": "Darnassus",
+      "zoneId": "1657",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1199",
+      "checked": "2026-10-10",
+      "x": 55.2,
+      "y": 23.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1199",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

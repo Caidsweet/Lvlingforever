@@ -1,0 +1,35 @@
+{
+  "id": "6561",
+  "name": "Blackfathom Villainy",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Bashana Runetotem",
+      "entityId": 9087,
+      "entityType": 1,
+      "zone": "Thunder Bluff",
+      "zoneId": "1638",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=6561",
+      "checked": "2026-10-10",
+      "x": 70.2,
+      "y": 33.6
+    }
+  ],
+  "unmapped": [
+    {
+      "kind": "pickup",
+      "npc": "Argent Guard Thaelrid",
+      "entityId": 4787,
+      "entityType": 1,
+      "zone": "Blackfathom Deeps",
+      "zoneId": "719",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=6561",
+      "checked": "2026-10-10"
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/quest=6561",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "6981",
+  "name": "The Glowing Shard",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Falla Sagewind",
+      "entityId": 8418,
+      "entityType": 1,
+      "zone": "The Barrens",
+      "zoneId": "17",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=6981",
+      "checked": "2026-10-10",
+      "x": 48.2,
+      "y": 32.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=6981",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

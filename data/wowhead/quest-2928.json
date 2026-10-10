@@ -1,0 +1,36 @@
+{
+  "id": "2928",
+  "name": "Gyrodrillmatic Excavationators",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Shoni the Shilent",
+      "entityId": 6579,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2928",
+      "checked": "2026-10-10",
+      "x": 55.4,
+      "y": 12.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Shoni the Shilent",
+      "entityId": 6579,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2928",
+      "checked": "2026-10-10",
+      "x": 55.4,
+      "y": 12.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=2928",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

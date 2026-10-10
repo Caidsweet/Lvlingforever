@@ -1,0 +1,36 @@
+{
+  "id": "96264",
+  "name": "Elemental Aid",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Veyric Thunderhame",
+      "entityId": 259023,
+      "entityType": 1,
+      "zone": "Arathi Highlands",
+      "zoneId": "45",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96264",
+      "checked": "2026-10-10",
+      "x": 59.8,
+      "y": 27.6
+    },
+    {
+      "kind": "turnin",
+      "npc": "Veyric Thunderhame",
+      "entityId": 259023,
+      "entityType": 1,
+      "zone": "Arathi Highlands",
+      "zoneId": "45",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96264",
+      "checked": "2026-10-10",
+      "x": 59.8,
+      "y": 27.6
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=96264",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

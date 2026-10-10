@@ -1,0 +1,870 @@
+{
+  "items": {
+    "1264": {
+      "name": "Headbasher",
+      "quality": 3,
+      "icon": "inv_mace_07",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Headbasher</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->43 - 66 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(23.70 damage per second)<br><span><!--stat4-->+9 Strength</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat5-->+10 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">61</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=1264"
+    },
+    "1317": {
+      "name": "Hardened Root Staff",
+      "quality": 2,
+      "icon": "inv_staff_16",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Hardened Root Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->36 - 54 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(13.64 damage per second)<br><span><!--stat4-->+1 Strength</span><br><span><!--stat6-->+9 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->20</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">50</span> <span class=\"moneycopper\">62</span></div></td></tr></table><!--i?1317:1:60:22-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=1317"
+    },
+    "15109": {
+      "name": "Staff of Soran'ruk",
+      "quality": 3,
+      "icon": "inv_staff_09",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Staff of Soran'ruk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->36 - 55 Damage</span></td>\n    <th>Speed <!--spd-->2.90</th>\n</tr></table><!--dps-->(15.69 damage per second)<br><span><!--stat7-->+14 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 75 / 75<div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/forever/class=9/warlock\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage done by Fire spells and effects by up to <!--rtg85-->34.</span><br><span class=\"q2\">Equip: Increases damage done by Shadow spells and effects by up to <!--rtg88-->34.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">40</span> <span class=\"moneycopper\">72</span></div></td></tr></table><!--i?15109:1:60:20-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=15109"
+    },
+    "1710": {
+      "name": "Greater Healing Potion",
+      "quality": 1,
+      "icon": "inv_potion_52",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Greater Healing Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->31</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->21<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=2024/healing-potion\" class=\"q2\">Restores 455 to 585 health.</a> (2 Min Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">25</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=1710"
+    },
+    "1893": {
+      "name": "Miner's Revenge",
+      "quality": 2,
+      "icon": "inv_pick_03",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Miner's Revenge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->36 - 55 Damage</span></td>\n    <th>Speed <!--spd-->3.50</th>\n</tr></table><!--dps-->(13.00 damage per second)<br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=1893"
+    },
+    "2033": {
+      "name": "Ambassador's Boots",
+      "quality": 2,
+      "icon": "inv_boots_08",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ambassador's Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->68 Armor</span><br><span><!--stat3-->+3 Agility</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=2033"
+    },
+    "2036": {
+      "name": "Dusty Mining Gloves",
+      "quality": 2,
+      "icon": "inv_gauntlets_05",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Dusty Mining Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->46 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat3-->+2 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">58</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=2036"
+    },
+    "2037": {
+      "name": "Tunneler's Boots",
+      "quality": 2,
+      "icon": "inv_boots_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Tunneler's Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->111 Armor</span><br><span><!--stat7-->+3 Stamina</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">69</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=2037"
+    },
+    "2041": {
+      "name": "Tunic of Westfall",
+      "quality": 3,
+      "icon": "inv_chest_leather_07",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Tunic of Westfall</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->92 Armor</span><br><span><!--stat3-->+11 Agility</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">41</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=2041"
+    },
+    "2042": {
+      "name": "Staff of Westfall",
+      "quality": 3,
+      "icon": "inv_staff_10",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Staff of Westfall</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->36 - 55 Damage</span></td>\n    <th>Speed <!--spd-->3.00</th>\n</tr></table><!--dps-->(15.17 damage per second)<br><span><!--stat5-->+5 Intellect</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases healing done by up to <span><!--rtg41-->48</span> and damage done by up to <span><!--rtg42-->16</span> for all magical spells and effects.</span><br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Equip: <!--useEffect:0:1--><a href=\"/forever/spell=1292011/staff-of-westfall\" class=\"q2\">Movement speed increased by 2% in Elwynn Forest, Westfall, Redridge Mountains, and the Deadmines.</a><!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">4</span></div></td></tr></table><!--i?2042:1:60:14-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=2042"
+    },
+    "2074": {
+      "name": "Solid Shortblade",
+      "quality": 2,
+      "icon": "inv_sword_23",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Solid Shortblade</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->16 - 31 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(9.40 damage per second)<br><span><!--stat4-->+1 Strength</span><br><span><!--stat7-->+1 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=2074"
+    },
+    "2089": {
+      "name": "Scrimshaw Dagger",
+      "quality": 2,
+      "icon": "inv_weapon_shortblade_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Scrimshaw Dagger</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:15--><span class=\"q1\">Dagger</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->12 - 23 Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(9.72 damage per second)<br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=2089"
+    },
+    "2459": {
+      "name": "Swiftness Potion",
+      "quality": 1,
+      "icon": "inv_potion_95",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Swiftness Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->15</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->5<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=2379/speed\" class=\"q2\">Increases run speed by 50% for 15 sec.</a> (2 Min Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneycopper\">25</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=2459"
+    },
+    "251962": {
+      "name": "Violet Sash",
+      "quality": 2,
+      "icon": "inv_belt_04",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Violet Sash</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->29 Armor</span><br><span><!--stat5-->+9 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->6</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">2</span></div></td></tr></table><!--i?251962:1:60:24-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=251962"
+    },
+    "270005": {
+      "name": "Monastic Hammer",
+      "quality": 2,
+      "icon": "inv_hammer_11",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Monastic Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:4--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->9 - 18 Damage</span></td>\n    <th>Speed <!--spd-->2.10</th>\n</tr></table><!--dps-->(6.43 damage per second)<br><span><!--stat5-->+2 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->12</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">53</span></div></td></tr></table><!--i?270005:1:60:14-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270005"
+    },
+    "270007": {
+      "name": "Worn Miner's Waistcord",
+      "quality": 2,
+      "icon": "inv_belt_22",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Worn Miner's Waistcord</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->18 Armor</span><br><span><!--stat7-->+2 Stamina</span><br><span><!--stat5-->+3 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">81</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270007"
+    },
+    "270012": {
+      "name": "Miner's Workgloves",
+      "quality": 2,
+      "icon": "inv_gauntlets_16",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Miner's Workgloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->21 Armor</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">75</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270012"
+    },
+    "270013": {
+      "name": "Miner's Workboots",
+      "quality": 2,
+      "icon": "inv_boots_05",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Miner's Workboots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->53 Armor</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">47</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270013"
+    },
+    "270015": {
+      "name": "Bravo's Armbands",
+      "quality": 2,
+      "icon": "inv_bracer_07",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Bravo's Armbands</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->35 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat3-->+3 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">62</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270015"
+    },
+    "270016": {
+      "name": "Dreamer's Leggings",
+      "quality": 2,
+      "icon": "inv_pants_06",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Dreamer's Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->71 Armor</span><br><span><!--stat5-->+6 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->2</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">21</span></div></td></tr></table><!--i?270016:1:60:15-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270016"
+    },
+    "270021": {
+      "name": "Staghide Armguards",
+      "quality": 2,
+      "icon": "inv_bracer_07",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Staghide Armguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->42 Armor</span><br><span><!--stat3-->+3 Agility</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">26</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270021"
+    },
+    "270025": {
+      "name": "Silvered Gauntlets",
+      "quality": 2,
+      "icon": "inv_gauntlets_21",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Silvered Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->130 Armor</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases healing done by up to <span><!--rtg41-->9</span> and damage done by up to <span><!--rtg42-->3</span> for all magical spells and effects.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">62</span></div></td></tr></table><!--i?270025:1:60:20-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270025"
+    },
+    "270027": {
+      "name": "Ursine Hammer",
+      "quality": 2,
+      "icon": "inv_hammer_16",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ursine Hammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->47 - 71 Damage</span></td>\n    <th>Speed <!--spd-->3.20</th>\n</tr></table><!--dps-->(18.44 damage per second)<br><span><!--stat3-->+5 Agility</span><br><span><!--stat5-->+5 Intellect</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 95 / 95</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">99</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270027"
+    },
+    "270029": {
+      "name": "Town Clerk's Mittens",
+      "quality": 2,
+      "icon": "inv_gauntlets_27",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Town Clerk's Mittens</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->29 Armor</span><br><span><!--stat5-->+7 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->3</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">50</span></div></td></tr></table><!--i?270029:1:60:22-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270029"
+    },
+    "270031": {
+      "name": "Dark Ritual Leggings",
+      "quality": 3,
+      "icon": "inv_pants_02",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Dark Ritual Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->88 Armor</span><br><span><!--stat7-->+9 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->14</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">55</span></div></td></tr></table><!--i?270031:1:60:18-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270031"
+    },
+    "270032": {
+      "name": "Cultist's Armguards",
+      "quality": 3,
+      "icon": "inv_bracer_12",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Cultist's Armguards</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->44 Armor</span><br><span><!--stat7-->+7 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: +<!--rtg38-->10 Attack Power.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">91</span></div></td></tr></table><!--i?270032:1:60:18-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270032"
+    },
+    "270036": {
+      "name": "Magistrate's Pantaloons",
+      "quality": 3,
+      "icon": "inv_pants_14",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Magistrate's Pantaloons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->41 Armor</span><br><span><!--stat5-->+13 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->7</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">20</span></div></td></tr></table><!--i?270036:1:60:22-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270036"
+    },
+    "270042": {
+      "name": "Technician's Bracers",
+      "quality": 2,
+      "icon": "inv_bracer_02",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Technician's Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->47 Armor</span><br><span><!--stat4-->+4 Strength</span><br><span><!--stat7-->+4 Stamina</span><br><span><!--stat5-->+4 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">90</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270042"
+    },
+    "270045": {
+      "name": "Operator's Gloves",
+      "quality": 2,
+      "icon": "inv_gauntlets_22",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Operator's Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->67 Armor</span><br><span><!--stat4-->+6 Strength</span><br><span><!--stat7-->+4 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">8</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270045"
+    },
+    "270047": {
+      "name": "Sentinel's Boots",
+      "quality": 2,
+      "icon": "inv_boots_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Sentinel's Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->154 Armor</span><br><span><!--stat4-->+4 Strength</span><br><span><!--stat7-->+4 Stamina</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">30</span> <span class=\"moneycopper\">85</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=270047"
+    },
+    "271664": {
+      "name": "Hornbeam Heft",
+      "quality": 2,
+      "icon": "inv_axe_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Hornbeam Heft</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>One-Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->19 - 36 Damage</span></td>\n    <th>Speed <!--spd-->2.40</th>\n</tr></table><!--dps-->(11.46 damage per second)<br><span><!--stat4-->+6 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->26</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">57</span> <span class=\"moneycopper\">6</span></div></td></tr></table><!--i?271664:1:60:24-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=271664"
+    },
+    "271667": {
+      "name": "Ironwood Destroyer",
+      "quality": 2,
+      "icon": "inv_hammer_16",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Ironwood Destroyer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->60 - 91 Damage</span></td>\n    <th>Speed <!--spd-->3.40</th>\n</tr></table><!--dps-->(22.21 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage done by Nature spells and effects by up to <!--rtg86-->19.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">72</span> <span class=\"moneycopper\">15</span></div></td></tr></table><!--i?271667:1:60:24-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=271667"
+    },
+    "271670": {
+      "name": "Curl of Life",
+      "quality": 2,
+      "icon": "inv_jewelry_ring_12",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Curl of Life</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br>Binds when picked up<br>Unique-Equipped<!--ue--><!--ue--><table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->5</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">35</span></div></td></tr></table><!--i?271670:1:60:24-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=271670"
+    },
+    "271716": {
+      "name": "Explorer's League Dustcover",
+      "quality": 3,
+      "icon": "inv_misc_cape_21",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Explorer's League Dustcover</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->25 Armor</span><br><span><!--stat3-->+5 Agility</span><br><span><!--stat5-->+5 Intellect</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">22</span> <span class=\"moneycopper\">5</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=271716"
+    },
+    "271766": {
+      "name": "Heavehammer",
+      "quality": 3,
+      "icon": "inv_hammer_09",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Heavehammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->73 - 110 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(27.73 damage per second)<br><span><!--stat50-->+60 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: +<!--rtg38-->32 Attack Power.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">57</span></div></td></tr></table><!--i?271766:1:60:24-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=271766"
+    },
+    "271767": {
+      "name": "Healer's Staff",
+      "quality": 3,
+      "icon": "inv_staff_10",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Healer's Staff</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:10--><span class=\"q1\">Staff</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->43 - 65 Damage</span></td>\n    <th>Speed <!--spd-->2.60</th>\n</tr></table><!--dps-->(20.77 damage per second)<br><span><!--stat7-->+12 Stamina</span><!--ebstats--><br><span class=\"q2\">Restores +<!--rtg43-->5 mana per 5 sec.</span><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases healing done by up to <span><!--rtg41-->67</span> and damage done by up to <span><!--rtg42-->22</span> for all magical spells and effects.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">88</span> <span class=\"moneycopper\">89</span></div></td></tr></table><!--i?271767:1:60:24-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=271767"
+    },
+    "271768": {
+      "name": "Songblade Stabilizer",
+      "quality": 2,
+      "icon": "inv_belt_35",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Songblade Stabilizer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->128 Armor</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases your chance to Dodge an attack by 0.4%.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">88</span></div></td></tr></table><!--i?271768:1:60:24-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=271768"
+    },
+    "271769": {
+      "name": "Daewyn's Girdle",
+      "quality": 2,
+      "icon": "inv_belt_16",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Daewyn's Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->25 Armor</span><br><span><!--stat6-->+6 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->7</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">94</span></div></td></tr></table><!--i?271769:1:60:24-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=271769"
+    },
+    "274078": {
+      "name": "Boar Signet",
+      "quality": 2,
+      "icon": "inv_jewelry_ring_26",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Boar Signet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases your chance to Block attacks with a shield by 1.0%.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">25</span> <span class=\"moneycopper\">68</span></div></td></tr></table><!--i?274078:1:60:22-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=274078"
+    },
+    "274084": {
+      "name": "Quilboar Blaster",
+      "quality": 3,
+      "icon": "inv_weapon_rifle_05",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Quilboar Blaster</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->36 - 68 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(18.57 damage per second)<br><span><!--stat3-->+4 Agility</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">72</span> <span class=\"moneycopper\">7</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=274084"
+    },
+    "276898": {
+      "name": "Salve and Salvation",
+      "quality": 3,
+      "icon": "inv_misc_book_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Salve and Salvation</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat6-->+9 Spirit</span><br><span><!--stat50-->+50 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases healing done by up to <span><!--rtg41-->9</span> and damage done by up to <span><!--rtg42-->3</span> for all magical spells and effects.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">43</span> <span class=\"moneycopper\">83</span></div></td></tr></table><!--i?276898:1:60:1-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=276898"
+    },
+    "276899": {
+      "name": "Knucklebound Thimble",
+      "quality": 3,
+      "icon": "inv_jewelry_ring_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Knucklebound Thimble</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->38</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat7-->+8 Stamina</span><br><span><!--stat50-->+50 Armor</span><!--ebstats--><br><span class=\"q2\">Restores +<!--rtg46-->9 health per 5 sec.</span><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">43</span> <span class=\"moneycopper\">99</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=276899"
+    },
+    "279835": {
+      "name": "Vine Pruner's Cloak",
+      "quality": 2,
+      "icon": "inv_misc_cape_13",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Vine Pruner's Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->26 Armor</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->5</span>.</span><br><span class=\"q2\">Equip: Increases damage done to Elementals by magical spells and effects by up to <!--rtg134-->5.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">32</span></div></td></tr></table><!--i?279835:1:60:1-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279835"
+    },
+    "279836": {
+      "name": "Thorn Protecting Girdle",
+      "quality": 2,
+      "icon": "inv_belt_12",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Thorn Protecting Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->134 Armor</span><br><span><!--stat7-->+8 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: +<!--rtg38-->12 Attack Power.</span><br><span class=\"q2\">Equip: +<!--rtg126-->9 Attack Power against Elementals.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">42</span></div></td></tr></table><!--i?279836:1:60:1-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279836"
+    },
+    "279837": {
+      "name": "Fallen Guard's Pendant",
+      "quality": 2,
+      "icon": "inv_jewelry_necklace_44",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Fallen Guard's Pendant</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat4-->+3 Strength</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">38</span> <span class=\"moneycopper\">4</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279837"
+    },
+    "279838": {
+      "name": "Arcane Infused Rod",
+      "quality": 2,
+      "icon": "inv_wand_04",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Arcane Infused Rod</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage done by Arcane spells and effects by up to <!--rtg89-->11.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">38</span> <span class=\"moneycopper\">18</span></div></td></tr></table><!--i?279838:1:60:1-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279838"
+    },
+    "279839": {
+      "name": "Spellguard Pauldrons",
+      "quality": 3,
+      "icon": "inv_shoulder_12",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Spellguard Pauldrons</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->178 Armor</span><br><span><!--stat4-->+4 Strength</span><br><span><!--stat7-->+11 Stamina</span><br><span><!--stat5-->+7 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">43</span> <span class=\"moneycopper\">31</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279839"
+    },
+    "279840": {
+      "name": "Renewing Footpads",
+      "quality": 3,
+      "icon": "inv_boots_03",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Renewing Footpads</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->78 Armor</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat5-->+11 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases healing done by up to <span><!--rtg41-->11</span> and damage done by up to <span><!--rtg42-->4</span> for all magical spells and effects.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">15</span></div></td></tr></table><!--i?279840:1:60:1-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279840"
+    },
+    "279841": {
+      "name": "Defender of Dalaran",
+      "quality": 3,
+      "icon": "inv_hammer_04",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Defender of Dalaran</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->82 - 124 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(31.21 damage per second)<br><span><!--stat4-->+9 Strength</span><br><span><!--stat7-->+13 Stamina</span><br><span><!--stat5-->+9 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneygold\">1</span> <span class=\"moneysilver\">20</span> <span class=\"moneycopper\">65</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279841"
+    },
+    "279849": {
+      "name": "Runebound Gloves",
+      "quality": 2,
+      "icon": "inv_gauntlets_15",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Runebound Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->71 Armor</span><br><span><!--stat7-->+7 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: +<!--rtg38-->12 Attack Power.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">23</span> <span class=\"moneycopper\">25</span></div></td></tr></table><!--i?279849:1:60:1-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279849"
+    },
+    "279864": {
+      "name": "Monstrous Cleaver",
+      "quality": 2,
+      "icon": "inv_sword_23",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Monstrous Cleaver</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:8--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->40 - 60 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(15.15 damage per second)<br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: +<!--rtg38-->4 Attack Power.</span><br><span class=\"q2\">Equip: +<!--rtg128-->6 Attack Power against Undead.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">27</span> <span class=\"moneycopper\">85</span></div></td></tr></table><!--i?279864:1:60:1-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279864"
+    },
+    "279865": {
+      "name": "Grave Shroud",
+      "quality": 2,
+      "icon": "inv_misc_cape_10",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Grave Shroud</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->18 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">6</span> <span class=\"moneycopper\">7</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279865"
+    },
+    "279867": {
+      "name": "Slain Baron's Signet",
+      "quality": 2,
+      "icon": "inv_jewelry_ring_19",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Slain Baron's Signet</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increased Defense +<!--rtg12-->1.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">8</span> <span class=\"moneycopper\">15</span></div></td></tr></table><!--i?279867:1:60:1-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279867"
+    },
+    "279868": {
+      "name": "Duty Bound Leggings",
+      "quality": 2,
+      "icon": "inv_pants_06",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Duty Bound Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->73 Armor</span><br><span><!--stat3-->+6 Agility</span><br><span><!--stat5-->+4 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">56</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279868"
+    },
+    "279869": {
+      "name": "Remembrance Armor",
+      "quality": 2,
+      "icon": "inv_chest_chain",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Remembrance Armor</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->180 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat5-->+3 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 105 / 105</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">93</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279869"
+    },
+    "279894": {
+      "name": "Calibrated Blunderbuss",
+      "quality": 3,
+      "icon": "inv_weapon_rifle_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Calibrated Blunderbuss</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:3--><span class=\"q1\">Gun</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->15 - 29 Damage</span></td>\n    <th>Speed <!--spd-->2.30</th>\n</tr></table><!--dps-->(9.57 damage per second)<br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">79</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279894"
+    },
+    "279895": {
+      "name": "Ironforge Greathammer",
+      "quality": 3,
+      "icon": "inv_hammer_21",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Ironforge Greathammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->39 - 60 Damage</span></td>\n    <th>Speed <!--spd-->3.10</th>\n</tr></table><!--dps-->(15.97 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td><!--rr--><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Chance on hit: <!--useEffect:0:1--><a href=\"/forever/spell=1322295/firebolt\" class=\"q2\">Blasts a target for 42 Fire damage.</a><!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">16</span> <span class=\"moneycopper\">37</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279895"
+    },
+    "279896": {
+      "name": "Deepblaze",
+      "quality": 3,
+      "icon": "inv_wand_11",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Deepblaze</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->18</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->22 - 41 Fire Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(18.53 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><br>+3 Fire Resistance<!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><span class=\"q\">&quot;The Great Forge burns within it still.&quot;</span><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">9</span> <span class=\"moneycopper\">86</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279896"
+    },
+    "279897": {
+      "name": "Dusty Belt",
+      "quality": 2,
+      "icon": "inv_belt_03",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Dusty Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->41 Armor</span><br><span><!--stat3-->+2 Agility</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">40</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279897"
+    },
+    "279898": {
+      "name": "Dwarven Tome",
+      "quality": 2,
+      "icon": "inv_misc_book_07",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Dwarven Tome</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat6-->+1 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->3</span>.</span><!--itemEffects:1--><br><span class=\"q\">&quot;Details the history of dwarves long since forgotten.&quot;</span><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">3</span> <span class=\"moneycopper\">83</span></div></td></tr></table><!--i?279898:1:60:1-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279898"
+    },
+    "279899": {
+      "name": "Catacomb Cloak",
+      "quality": 2,
+      "icon": "inv_misc_cape_11",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Catacomb Cloak</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->15 Armor</span><br><span><!--stat7-->+2 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: +<!--rtg38-->3 Attack Power.</span><br><span class=\"q2\">Equip: +<!--rtg125-->4 Attack Power against Humanoids.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">88</span></div></td></tr></table><!--i?279899:1:60:1-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279899"
+    },
+    "279900": {
+      "name": "Deepgrave Trousers",
+      "quality": 2,
+      "icon": "inv_pants_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Deepgrave Trousers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->64 Armor</span><br><span><!--stat3-->+3 Agility</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">4</span> <span class=\"moneycopper\">83</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=279900"
+    },
+    "280095": {
+      "name": "Cryptwalker Bracers",
+      "quality": 2,
+      "icon": "inv_bracer_03",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Cryptwalker Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->69 Armor</span><br><span><!--stat4-->+2 Strength</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">2</span> <span class=\"moneycopper\">71</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=280095"
+    },
+    "280096": {
+      "name": "Tomb Robber's Gloves",
+      "quality": 2,
+      "icon": "inv_gauntlets_18",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Tomb Robber's Gloves</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->17</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->19 Armor</span><br><span><!--stat7-->+1 Stamina</span><br><span><!--stat5-->+2 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 20 / 20</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">81</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=280096"
+    },
+    "280567": {
+      "name": "Small Sack of Gems",
+      "quality": 1,
+      "icon": "inv_misc_bag_10",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Small Sack of Gems</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->1</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td><!--itemEffects:0--><span class=\"q2\">&lt;Right Click to Open&gt;</span><br><!--pvpEquip--><!--pvpEquip--></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=280567"
+    },
+    "280766": {
+      "name": "Satchel of Potions",
+      "quality": 2,
+      "icon": "inv_misc_bag_08",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Satchel of Potions</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->33</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Trinket</td><th><!--scstart4:-4--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1309685/satchel-of-potions\" class=\"q2\">Reach into the bag and hope for the best.</a> (10 Min Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><span class=\"q\">&quot;Not every potion is meant for consumption.&quot;</span><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">24</span> <span class=\"moneycopper\">89</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=280766"
+    },
+    "2906": {
+      "name": "Darkshire Mail Leggings",
+      "quality": 2,
+      "icon": "inv_pants_03",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Darkshire Mail Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->28</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->185 Armor</span><br><span><!--stat4-->+7 Strength</span><br><span><!--stat6-->+7 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 70 / 70</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">73</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=2906"
+    },
+    "3400": {
+      "name": "Lucine Longsword",
+      "quality": 2,
+      "icon": "inv_sword_20",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lucine Longsword</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Main Hand</td><th><!--scstart2:7--><span class=\"q1\">Sword</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->24 - 46 Damage</span></td>\n    <th>Speed <!--spd-->2.50</th>\n</tr></table><!--dps-->(14.00 damage per second)<br><span><!--stat7-->+3 Stamina</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">40</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=3400"
+    },
+    "3562": {
+      "name": "Belt of Vindication",
+      "quality": 3,
+      "icon": "inv_belt_05",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Belt of Vindication</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->57 Armor</span><br><span><!--stat3-->+7 Agility</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">34</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=3562"
+    },
+    "3827": {
+      "name": "Mana Potion",
+      "quality": 1,
+      "icon": "inv_potion_72",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mana Potion</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->32</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires Level <!--rlvl-->22<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=2023/restore-mana\" class=\"q2\">Restores 455 to 585 mana.</a> (2 Min Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 5</div><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">1</span> <span class=\"moneycopper\">20</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=3827"
+    },
+    "4197": {
+      "name": "Berylline Pads",
+      "quality": 3,
+      "icon": "inv_shoulder_05",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Berylline Pads</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->39 Armor</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat5-->+10 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 50 / 50</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->7</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">64</span></div></td></tr></table><!--i?4197:1:60:29-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=4197"
+    },
+    "6087": {
+      "name": "Chausses of Westfall",
+      "quality": 3,
+      "icon": "inv_pants_03",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Chausses of Westfall</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->24</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->173 Armor</span><br><span><!--stat4-->+11 Strength</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">17</span> <span class=\"moneycopper\">30</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6087"
+    },
+    "6094": {
+      "name": "Piercing Axe",
+      "quality": 2,
+      "icon": "inv_throwingaxe_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Piercing Axe</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->19</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:1--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->33 - 50 Damage</span></td>\n    <th>Speed <!--spd-->3.30</th>\n</tr></table><!--dps-->(12.58 damage per second)<br><span><!--stat3-->+6 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 60 / 60</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">15</span> <span class=\"moneycopper\">46</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6094"
+    },
+    "6476": {
+      "name": "Pattern: Deviate Scale Belt",
+      "quality": 2,
+      "icon": "inv_scroll_06",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Pattern: Deviate Scale Belt</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->23</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=165/leatherworking\" class=\"q1\">Leatherworking</a> (90)<!--itemEffects:1--><br><span class=\"q\">&quot;Teaches you how to craft a Deviate Scale Belt.&quot;</span><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6476"
+    },
+    "6480": {
+      "name": "Slick Deviate Leggings",
+      "quality": 2,
+      "icon": "inv_pants_02",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Slick Deviate Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->20</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->75 Armor</span><br><span><!--stat3-->+4 Agility</span><br><span><!--stat7-->+4 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 55 / 55</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">13</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6480"
+    },
+    "6481": {
+      "name": "Dagmire Gauntlets",
+      "quality": 2,
+      "icon": "inv_gauntlets_05",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Dagmire Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->122 Armor</span><br><span><!--stat4-->+5 Strength</span><br><span><!--stat3-->+2 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">7</span> <span class=\"moneycopper\">65</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6481"
+    },
+    "6725": {
+      "name": "Marbled Buckler",
+      "quality": 3,
+      "icon": "inv_shield_10",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Marbled Buckler</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->776 Armor</span><br>17 Block<br><span><!--stat4-->+5 Strength</span><br><span><!--stat3-->+5 Agility</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">61</span> <span class=\"moneycopper\">11</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6725"
+    },
+    "6742": {
+      "name": "Stonefist Girdle",
+      "quality": 3,
+      "icon": "inv_belt_35",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Stonefist Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->36</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->134 Armor</span><br><span><!--stat4-->+6 Strength</span><br><span><!--stat7-->+5 Stamina</span><br><span><!--stat50-->+100 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 40 / 40</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">28</span> <span class=\"moneycopper\">64</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6742"
+    },
+    "6743": {
+      "name": "Sustaining Ring",
+      "quality": 2,
+      "icon": "inv_jewelry_ring_08",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Sustaining Ring</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat7-->+4 Stamina</span><!--ebstats--><br><span class=\"q2\">Restores +<!--rtg46-->4 health per 5 sec.</span><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">3</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6743"
+    },
+    "6748": {
+      "name": "Monkey Ring",
+      "quality": 2,
+      "icon": "inv_jewelry_ring_14",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Monkey Ring</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat3-->+5 Agility</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6748"
+    },
+    "6749": {
+      "name": "Tiger Band",
+      "quality": 2,
+      "icon": "inv_jewelry_ring_13",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Tiger Band</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat4-->+5 Strength</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">9</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6749"
+    },
+    "6750": {
+      "name": "Snake Hoop",
+      "quality": 2,
+      "icon": "inv_jewelry_ring_06",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Snake Hoop</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Finger</td><th><!--scstart4:-2--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat5-->+5 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->6</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">26</span> <span class=\"moneycopper\">9</span></div></td></tr></table><!--i?6750:1:60:22-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6750"
+    },
+    "6751": {
+      "name": "Mourning Shawl",
+      "quality": 2,
+      "icon": "inv_misc_cape_11",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mourning Shawl</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->24 Armor</span><br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->-4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">56</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6751"
+    },
+    "6752": {
+      "name": "Lancer Boots",
+      "quality": 2,
+      "icon": "inv_boots_03",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Lancer Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->73 Armor</span><br><span><!--stat3-->+5 Agility</span><br><span><!--stat7-->+6 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">24</span> <span class=\"moneycopper\">52</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6752"
+    },
+    "6755": {
+      "name": "A Small Container of Gems",
+      "quality": 1,
+      "icon": "inv_misc_ornatebox",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">A Small Container of Gems</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->25</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td><!--itemEffects:0--><span class=\"q2\">&lt;Right Click to Open&gt;</span><br><!--pvpEquip--><!--pvpEquip--></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6755"
+    },
+    "6898": {
+      "name": "Orb of Soran'ruk",
+      "quality": 3,
+      "icon": "inv_misc_orb_03",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Orb of Soran'ruk</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Held In Off-hand</td><th><!--scstart4:-5--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><div class=\"wowhead-tooltip-item-classes\">Classes: <a href=\"/forever/class=9/warlock\" class=\"c9\">Warlock</a></div></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage done by Fire spells and effects by up to <!--rtg85-->9.</span><br><span class=\"q2\">Equip: Increases damage done by Shadow spells and effects by up to <!--rtg88-->9.</span><br><br><!--useText:0:3--><span id=\"useText3\" class=\"q2\">Use: <!--useEffect:0:3--><a href=\"/forever/spell=18956/restore-life\" class=\"q2\">Restores 48 health every 3 sec for 30 sec.</a> (10 Min Cooldown)<!--useEffect:3--></span><!--useText:3--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">3</span></div></td></tr></table><!--i?6898:1:60:20-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6898"
+    },
+    "6998": {
+      "name": "Nimbus Boots",
+      "quality": 2,
+      "icon": "inv_boots_05",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Nimbus Boots</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Feet</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->31 Armor</span><br><span><!--stat3-->+5 Agility</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases healing done by up to <span><!--rtg41-->10</span> and damage done by up to <span><!--rtg42-->3</span> for all magical spells and effects.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">15</span></div></td></tr></table><!--i?6998:1:60:20-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=6998"
+    },
+    "7000": {
+      "name": "Heartwood Girdle",
+      "quality": 2,
+      "icon": "inv_belt_04",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Heartwood Girdle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->27</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Waist</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->55 Armor</span><br><span><!--stat7-->+5 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->6</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">10</span> <span class=\"moneycopper\">20</span></div></td></tr></table><!--i?7000:1:60:20-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=7000"
+    },
+    "7001": {
+      "name": "Gravestone Scepter",
+      "quality": 3,
+      "icon": "inv_wand_04",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Gravestone Scepter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->30 - 57 Shadow Damage</span></td>\n    <th>Speed <!--spd-->1.50</th>\n</tr></table><!--dps-->(29.00 damage per second)<br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><br>+4 Shadow Resistance<!--e--><!--ps--><br>Durability 65 / 65</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage done by Shadow spells and effects by up to <!--rtg88-->6.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">36</span> <span class=\"moneycopper\">75</span></div></td></tr></table><!--i?7001:1:60:18-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=7001"
+    },
+    "7002": {
+      "name": "Arctic Buckler",
+      "quality": 3,
+      "icon": "inv_shield_02",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Arctic Buckler</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->29</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart4:6--><span class=\"q1\">Shield</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->642 Armor</span><br>13 Block<br><span><!--stat7-->+8 Stamina</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><br>+5 Frost Resistance<!--e--><!--ps--><br>Durability 100 / 100</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">31</span> <span class=\"moneycopper\">36</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=7002"
+    },
+    "7003": {
+      "name": "Beetle Clasps",
+      "quality": 2,
+      "icon": "inv_bracer_06",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Beetle Clasps</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->89 Armor</span><br><span><!--stat7-->+3 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: +<!--rtg38-->6 Attack Power.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">4</span></div></td></tr></table><!--i?7003:1:60:18-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=7003"
+    },
+    "7004": {
+      "name": "Prelacy Cape",
+      "quality": 2,
+      "icon": "inv_misc_cape_18",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Prelacy Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->26</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->22 Armor</span><br><span><!--stat6-->+3 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases healing done by up to <span><!--rtg41-->7</span> and damage done by up to <span><!--rtg42-->2</span> for all magical spells and effects.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">11</span> <span class=\"moneycopper\">4</span></div></td></tr></table><!--i?7004:1:60:18-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=7004"
+    },
+    "7606": {
+      "name": "Polar Gauntlets",
+      "quality": 2,
+      "icon": "inv_gauntlets_04",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Polar Gauntlets</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->109 Armor</span><br><span><!--stat4-->+4 Strength</span><br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 30 / 30</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">5</span> <span class=\"moneycopper\">64</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=7606"
+    },
+    "7607": {
+      "name": "Sable Wand",
+      "quality": 2,
+      "icon": "inv_staff_02",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Sable Wand</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->22</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->21 - 40 Shadow Damage</span></td>\n    <th>Speed <!--spd-->1.80</th>\n</tr></table><!--dps-->(16.94 damage per second)<br><span><!--stat6-->+2 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">14</span> <span class=\"moneycopper\">11</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=7607"
+    },
+    "7746": {
+      "name": "Explorers' League Commendation",
+      "quality": 3,
+      "icon": "inv_jewelry_talisman_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Explorers' League Commendation</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->40</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Neck</td><th><!--scstart4:-3--><span class=\"q1\"></span><!--scend--></th></tr></table><!--rf--><span><!--stat7-->+9 Stamina</span><br><span><!--stat6-->+9 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">93</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=7746"
+    },
+    "8071": {
+      "name": "Sizzle Stick",
+      "quality": 2,
+      "icon": "inv_staff_02",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Sizzle Stick</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->23</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Ranged</td><th><!--scstart2:19--><span class=\"q1\">Wand</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->21 - 39 Fire Damage</span></td>\n    <th>Speed <!--spd-->1.70</th>\n</tr></table><!--dps-->(17.65 damage per second)<!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->2</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">13</span></div></td></tr></table><!--i?8071:1:60:15-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=8071"
+    },
+    "918": {
+      "name": "Deviate Hide Pack",
+      "quality": 1,
+      "icon": "inv_misc_bag_07_black",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Deviate Hide Pack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->25</span><!--bo--><br>Binds when picked up<br>Unique<!--ue--><!--ue--><br />10 Slot Bag<!--rf--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">12</span> <span class=\"moneycopper\">50</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=918"
+    },
+    "9535": {
+      "name": "Fire-welded Bracers",
+      "quality": 2,
+      "icon": "inv_bracer_02",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Fire-welded Bracers</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Wrist</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->98 Armor</span><br><span><!--stat3-->+4 Agility</span><br><span><!--stat7-->+1 Stamina</span><br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 35 / 35</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">56</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=9535"
+    },
+    "9536": {
+      "name": "Fairywing Mantle",
+      "quality": 2,
+      "icon": "inv_shoulder_02",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Fairywing Mantle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Shoulder</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->37 Armor</span><br><span><!--stat7-->+1 Stamina</span><br><span><!--stat5-->+6 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 45 / 45</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->4</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">56</span></div></td></tr></table><!--i?9536:1:60:20-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=9536"
+    },
+    "9604": {
+      "name": "Mechanic's Pipehammer",
+      "quality": 2,
+      "icon": "inv_mace_04",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Mechanic's Pipehammer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Two-Hand</td><th><!--scstart2:5--><span class=\"q1\">Mace</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->48 - 73 Damage</span></td>\n    <th>Speed <!--spd-->2.80</th>\n</tr></table><!--dps-->(21.61 damage per second)<br><span><!--stat5-->+12 Intellect</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 85 / 85</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">81</span> <span class=\"moneycopper\">53</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=9604"
+    },
+    "9605": {
+      "name": "Repairman's Cape",
+      "quality": 2,
+      "icon": "inv_misc_cape_06",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Repairman's Cape</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Back</td></tr></table><!--rf--><span><!--amr-->24 Armor</span><br><span><!--stat5-->+3 Intellect</span><br><span><!--stat6-->+5 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--></td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases healing done by up to <span><!--rtg41-->6</span> and damage done by up to <span><!--rtg42-->2</span> for all magical spells and effects.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">19</span> <span class=\"moneycopper\">56</span></div></td></tr></table><!--i?9605:1:60:25-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=9605"
+    },
+    "9608": {
+      "name": "Shoni's Disarming Tool",
+      "quality": 2,
+      "icon": "inv_misc_wrench_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Shoni's Disarming Tool</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Off Hand</td><th><!--scstart2:0--><span class=\"q1\">Axe</span><!--scend--></th></tr></table><!--rf--><table width=\"100%\"><tr>\n    <td><span><!--dmg-->22 - 41 Damage</span></td>\n    <th>Speed <!--spd-->1.90</th>\n</tr></table><!--dps-->(16.58 damage per second)<br><span><!--stat6-->+4 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td><!--rr--><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Chance on hit: <!--useEffect:0:1--><a href=\"/forever/spell=11879/disarm\" class=\"q2\">Disarm target's weapon for 5 sec.</a><!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">65</span> <span class=\"moneycopper\">22</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=9608"
+    },
+    "9609": {
+      "name": "Shilly Mitts",
+      "quality": 2,
+      "icon": "inv_gauntlets_27",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q2\">Shilly Mitts</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->32</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Hands</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->31 Armor</span><br><span><!--stat6-->+6 Spirit</span><br><span><!--stat50-->+40 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 25 / 25</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases damage and healing done by magical spells and effects by up to <span><!--rtg41-->5</span>.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">13</span> <span class=\"moneycopper\">4</span></div></td></tr></table><!--i?9609:1:60:20-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=9609"
+    },
+    "9623": {
+      "name": "Civinad Robes",
+      "quality": 3,
+      "icon": "inv_chest_cloth_18",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Civinad Robes</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Chest</td><th><!--scstart4:1--><span class=\"q1\">Cloth</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->54 Armor</span><br><span><!--stat7-->+7 Stamina</span><br><span><!--stat6-->+12 Spirit</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 80 / 80</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increases healing done by up to <span><!--rtg41-->26</span> and damage done by up to <span><!--rtg42-->9</span> for all magical spells and effects.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">42</span> <span class=\"moneycopper\">2</span></div></td></tr></table><!--i?9623:1:60:25-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=9623"
+    },
+    "9624": {
+      "name": "Triprunner Dungarees",
+      "quality": 3,
+      "icon": "inv_pants_08",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Triprunner Dungarees</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:2--><span class=\"q1\">Leather</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->101 Armor</span><br><span><!--stat4-->+3 Strength</span><br><span><!--stat3-->+18 Agility</span><br><span><!--stat7-->+6 Stamina</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 75 / 75</td></tr></table><table><tr><td><!--rr--><!--itemEffects:0--><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">52</span> <span class=\"moneycopper\">52</span></div></td></tr></table>",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=9624"
+    },
+    "9625": {
+      "name": "Dual Reinforced Leggings",
+      "quality": 3,
+      "icon": "inv_pants_03",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Dual Reinforced Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->211 Armor</span><br><span><!--stat4-->+12 Strength</span><br><span><!--stat50-->+120 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increased Defense +<!--rtg12-->5.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">63</span> <span class=\"moneycopper\">3</span></div></td></tr></table><!--i?9625:1:60:25-->",
+      "checked": "2026-10-10",
+      "source": "https://www.wowhead.com/forever/item=9625"
+    }
+  },
+  "lastAttempt": "2026-10-10",
+  "failures": [
+    {
+      "id": "211449",
+      "error": "HTTP Error 404: Not Found",
+      "retained": false
+    },
+    {
+      "id": "211450",
+      "error": "HTTP Error 404: Not Found",
+      "retained": false
+    },
+    {
+      "id": "211451",
+      "error": "HTTP Error 404: Not Found",
+      "retained": false
+    }
+  ]
+}

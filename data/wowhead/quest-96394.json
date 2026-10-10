@@ -1,0 +1,36 @@
+{
+  "id": "96394",
+  "name": "The Restless Dead",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Afadra Dunwall",
+      "entityId": 264943,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96394",
+      "checked": "2026-10-10",
+      "x": 32.8,
+      "y": 48.6
+    },
+    {
+      "kind": "turnin",
+      "npc": "Afadra Dunwall",
+      "entityId": 264943,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96394",
+      "checked": "2026-10-10",
+      "x": 32.8,
+      "y": 48.6
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=96394",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

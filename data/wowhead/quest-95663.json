@@ -1,0 +1,36 @@
+{
+  "id": "95663",
+  "name": "Dragonmaw Rumors",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Zaruk",
+      "entityId": 2787,
+      "entityType": 1,
+      "zone": "Arathi Highlands",
+      "zoneId": "45",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95663",
+      "checked": "2026-10-10",
+      "x": 74.4,
+      "y": 35.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Deathstalker Agent",
+      "entityId": 13155,
+      "entityType": 1,
+      "zone": "Wetlands",
+      "zoneId": "11",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95663",
+      "checked": "2026-10-10",
+      "x": 51.4,
+      "y": 59.2
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=95663",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

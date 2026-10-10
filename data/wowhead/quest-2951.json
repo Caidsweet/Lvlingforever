@@ -1,0 +1,32 @@
+{
+  "id": "2951",
+  "name": "The Sparklematic 5200!",
+  "points": [],
+  "unmapped": [
+    {
+      "kind": "pickup",
+      "npc": "The Sparklematic 5200",
+      "entityId": 142487,
+      "entityType": 2,
+      "zone": "Gnomeregan",
+      "zoneId": "721",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2951",
+      "checked": "2026-10-10"
+    },
+    {
+      "kind": "turnin",
+      "npc": "The Sparklematic 5200",
+      "entityId": 142487,
+      "entityType": 2,
+      "zone": "Gnomeregan",
+      "zoneId": "721",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2951",
+      "checked": "2026-10-10"
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/quest=2951",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

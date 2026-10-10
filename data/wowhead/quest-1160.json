@@ -1,0 +1,36 @@
+{
+  "id": "1160",
+  "name": "Test of Lore",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Parqual Fintallas",
+      "entityId": 4488,
+      "entityType": 1,
+      "zone": "Undercity",
+      "zoneId": "1497",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1160",
+      "checked": "2026-10-10",
+      "x": 57.4,
+      "y": 65.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Parqual Fintallas",
+      "entityId": 4488,
+      "entityType": 1,
+      "zone": "Undercity",
+      "zoneId": "1497",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1160",
+      "checked": "2026-10-10",
+      "x": 57.4,
+      "y": 65.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1160",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

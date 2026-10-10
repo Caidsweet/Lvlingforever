@@ -1,0 +1,36 @@
+{
+  "id": "2931",
+  "name": "Castpipe's Task",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Gaxim Rustfizzle",
+      "entityId": 4077,
+      "entityType": 1,
+      "zone": "Stonetalon Mountains",
+      "zoneId": "406",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2931",
+      "checked": "2026-10-10",
+      "x": 59.4,
+      "y": 67.2
+    },
+    {
+      "kind": "turnin",
+      "npc": "Master Mechanic Castpipe",
+      "entityId": 7950,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2931",
+      "checked": "2026-10-10",
+      "x": 69.4,
+      "y": 47.6
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=2931",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

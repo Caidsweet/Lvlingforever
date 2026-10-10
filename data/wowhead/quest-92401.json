@@ -1,0 +1,36 @@
+{
+  "id": "92401",
+  "name": "A Frightened Request",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Tabitha Heartweaver",
+      "entityId": 250686,
+      "entityType": 1,
+      "zone": "Silverpine Forest",
+      "zoneId": "130",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92401",
+      "checked": "2026-10-10",
+      "x": 44.4,
+      "y": 42.8
+    },
+    {
+      "kind": "turnin",
+      "npc": "Tabitha Heartweaver",
+      "entityId": 250686,
+      "entityType": 1,
+      "zone": "Silverpine Forest",
+      "zoneId": "130",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92401",
+      "checked": "2026-10-10",
+      "x": 44.4,
+      "y": 42.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=92401",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

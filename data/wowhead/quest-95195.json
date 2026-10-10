@@ -1,0 +1,23 @@
+{
+  "id": "95195",
+  "name": "Bloodied Insignia",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "General Marcus Jonathan",
+      "entityId": 466,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=95195",
+      "checked": "2026-10-10",
+      "x": 63.4,
+      "y": 75.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=95195",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

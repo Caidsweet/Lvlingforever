@@ -1,0 +1,36 @@
+{
+  "id": "2926",
+  "name": "Gnogaine",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Ozzie Togglevolt",
+      "entityId": 1268,
+      "entityType": 1,
+      "zone": "Dun Morogh",
+      "zoneId": "1",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2926",
+      "checked": "2026-10-10",
+      "x": 45.8,
+      "y": 49.2
+    },
+    {
+      "kind": "turnin",
+      "npc": "Ozzie Togglevolt",
+      "entityId": 1268,
+      "entityType": 1,
+      "zone": "Dun Morogh",
+      "zoneId": "1",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2926",
+      "checked": "2026-10-10",
+      "x": 45.8,
+      "y": 49.2
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=2926",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

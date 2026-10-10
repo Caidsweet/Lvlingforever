@@ -1,0 +1,35 @@
+{
+  "id": "2904",
+  "name": "A Fine Mess",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Scooty",
+      "entityId": 7853,
+      "entityType": 1,
+      "zone": "Stranglethorn Vale",
+      "zoneId": "33",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2904",
+      "checked": "2026-10-10",
+      "x": 27.4,
+      "y": 77.4
+    }
+  ],
+  "unmapped": [
+    {
+      "kind": "pickup",
+      "npc": "Kernobee",
+      "entityId": 7850,
+      "entityType": 1,
+      "zone": "Gnomeregan",
+      "zoneId": "721",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2904",
+      "checked": "2026-10-10"
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/quest=2904",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

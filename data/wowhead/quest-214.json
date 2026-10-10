@@ -1,0 +1,36 @@
+{
+  "id": "214",
+  "name": "Red Silk Bandanas",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Scout Riell",
+      "entityId": 820,
+      "entityType": 1,
+      "zone": "Westfall",
+      "zoneId": "40",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=214",
+      "checked": "2026-10-10",
+      "x": 56.6,
+      "y": 47.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Scout Riell",
+      "entityId": 820,
+      "entityType": 1,
+      "zone": "Westfall",
+      "zoneId": "40",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=214",
+      "checked": "2026-10-10",
+      "x": 56.6,
+      "y": 47.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=214",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

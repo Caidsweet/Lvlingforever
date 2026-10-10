@@ -1,0 +1,36 @@
+{
+  "id": "1275",
+  "name": "Researching the Corruption",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Gershala Nightwhisper",
+      "entityId": 8997,
+      "entityType": 1,
+      "zone": "Darkshore",
+      "zoneId": "148",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1275",
+      "checked": "2026-10-10",
+      "x": 38.4,
+      "y": 43
+    },
+    {
+      "kind": "turnin",
+      "npc": "Gershala Nightwhisper",
+      "entityId": 8997,
+      "entityType": 1,
+      "zone": "Darkshore",
+      "zoneId": "148",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1275",
+      "checked": "2026-10-10",
+      "x": 38.4,
+      "y": 43
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1275",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

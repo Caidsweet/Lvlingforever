@@ -1,0 +1,36 @@
+{
+  "id": "96988",
+  "name": "Source of Power",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Doctor Martin Felben",
+      "entityId": 11044,
+      "entityType": 1,
+      "zone": "Undercity",
+      "zoneId": "1497",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96988",
+      "checked": "2026-10-10",
+      "x": 45.8,
+      "y": 73.2
+    },
+    {
+      "kind": "turnin",
+      "npc": "Doctor Martin Felben",
+      "entityId": 11044,
+      "entityType": 1,
+      "zone": "Undercity",
+      "zoneId": "1497",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=96988",
+      "checked": "2026-10-10",
+      "x": 45.8,
+      "y": 73.2
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=96988",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

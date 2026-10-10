@@ -1,0 +1,23 @@
+{
+  "id": "97288",
+  "name": "Unending Torment",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Master Apothecary Faranell",
+      "entityId": 2055,
+      "entityType": 1,
+      "zone": "Undercity",
+      "zoneId": "1497",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=97288",
+      "checked": "2026-10-10",
+      "x": 48.4,
+      "y": 69.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=97288",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

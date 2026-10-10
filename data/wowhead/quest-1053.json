@@ -1,0 +1,36 @@
+{
+  "id": "1053",
+  "name": "In the Name of the Light",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Raleigh the Devout",
+      "entityId": 3980,
+      "entityType": 1,
+      "zone": "Hillsbrad Foothills",
+      "zoneId": "267",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1053",
+      "checked": "2026-10-10",
+      "x": 51.4,
+      "y": 58.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Raleigh the Devout",
+      "entityId": 3980,
+      "entityType": 1,
+      "zone": "Hillsbrad Foothills",
+      "zoneId": "267",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1053",
+      "checked": "2026-10-10",
+      "x": 51.4,
+      "y": 58.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1053",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

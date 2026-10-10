@@ -1,0 +1,36 @@
+{
+  "id": "2929",
+  "name": "The Grand Betrayal",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "High Tinker Mekkatorque",
+      "entityId": 7937,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2929",
+      "checked": "2026-10-10",
+      "x": 69,
+      "y": 49
+    },
+    {
+      "kind": "turnin",
+      "npc": "High Tinker Mekkatorque",
+      "entityId": 7937,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2929",
+      "checked": "2026-10-10",
+      "x": 69,
+      "y": 49
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=2929",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

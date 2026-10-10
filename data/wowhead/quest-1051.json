@@ -1,0 +1,35 @@
+{
+  "id": "1051",
+  "name": "Vorrel's Revenge",
+  "points": [
+    {
+      "kind": "turnin",
+      "npc": "Monika Sengutz",
+      "entityId": 3982,
+      "entityType": 1,
+      "zone": "Hillsbrad Foothills",
+      "zoneId": "267",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1051",
+      "checked": "2026-10-10",
+      "x": 62.6,
+      "y": 19
+    }
+  ],
+  "unmapped": [
+    {
+      "kind": "pickup",
+      "npc": "Vorrel Sengutz",
+      "entityId": 3981,
+      "entityType": 1,
+      "zone": "Scarlet Monastery",
+      "zoneId": "796",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1051",
+      "checked": "2026-10-10"
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/quest=1051",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

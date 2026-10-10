@@ -1,0 +1,36 @@
+{
+  "id": "92489",
+  "name": "Power Overwhelming",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "High Sorcerer Andromath",
+      "entityId": 5694,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92489",
+      "checked": "2026-10-10",
+      "x": 37.4,
+      "y": 81.8
+    },
+    {
+      "kind": "turnin",
+      "npc": "High Sorcerer Andromath",
+      "entityId": 5694,
+      "entityType": 1,
+      "zone": "Stormwind City",
+      "zoneId": "1519",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=92489",
+      "checked": "2026-10-10",
+      "x": 37.4,
+      "y": 81.8
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=92489",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

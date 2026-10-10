@@ -1,0 +1,36 @@
+{
+  "id": "277",
+  "name": "Fire Taboo",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Rethiel the Greenwarden",
+      "entityId": 1244,
+      "entityType": 1,
+      "zone": "Wetlands",
+      "zoneId": "11",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=277",
+      "checked": "2026-10-10",
+      "x": 56.2,
+      "y": 40.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Rethiel the Greenwarden",
+      "entityId": 1244,
+      "entityType": 1,
+      "zone": "Wetlands",
+      "zoneId": "11",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=277",
+      "checked": "2026-10-10",
+      "x": 56.2,
+      "y": 40.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=277",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

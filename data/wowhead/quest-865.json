@@ -1,0 +1,36 @@
+{
+  "id": "865",
+  "name": "Raptor Horns",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Mebok Mizzyrix",
+      "entityId": 3446,
+      "entityType": 1,
+      "zone": "The Barrens",
+      "zoneId": "17",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=865",
+      "checked": "2026-10-10",
+      "x": 62.4,
+      "y": 37.6
+    },
+    {
+      "kind": "turnin",
+      "npc": "Mebok Mizzyrix",
+      "entityId": 3446,
+      "entityType": 1,
+      "zone": "The Barrens",
+      "zoneId": "17",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=865",
+      "checked": "2026-10-10",
+      "x": 62.4,
+      "y": 37.6
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=865",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

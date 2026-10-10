@@ -1,0 +1,36 @@
+{
+  "id": "2842",
+  "name": "Chief Engineer Scooty",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Sovik",
+      "entityId": 3413,
+      "entityType": 1,
+      "zone": "Orgrimmar",
+      "zoneId": "1637",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2842",
+      "checked": "2026-10-10",
+      "x": 75,
+      "y": 24.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Scooty",
+      "entityId": 7853,
+      "entityType": 1,
+      "zone": "Stranglethorn Vale",
+      "zoneId": "33",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=2842",
+      "checked": "2026-10-10",
+      "x": 27.4,
+      "y": 77.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=2842",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

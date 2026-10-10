@@ -1,0 +1,36 @@
+{
+  "id": "1050",
+  "name": "Mythology of the Titans",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Librarian Mae Paledust",
+      "entityId": 3979,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1050",
+      "checked": "2026-10-10",
+      "x": 74,
+      "y": 13.4
+    },
+    {
+      "kind": "turnin",
+      "npc": "Librarian Mae Paledust",
+      "entityId": 3979,
+      "entityType": 1,
+      "zone": "Ironforge",
+      "zoneId": "1537",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=1050",
+      "checked": "2026-10-10",
+      "x": 74,
+      "y": 13.4
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=1050",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}

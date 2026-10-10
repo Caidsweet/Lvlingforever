@@ -1,0 +1,36 @@
+{
+  "id": "6563",
+  "name": "The Essence of Aku'Mai",
+  "points": [
+    {
+      "kind": "pickup",
+      "npc": "Je'neu Sancrea",
+      "entityId": 12736,
+      "entityType": 1,
+      "zone": "Ashenvale",
+      "zoneId": "331",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=6563",
+      "checked": "2026-10-10",
+      "x": 11.6,
+      "y": 34.2
+    },
+    {
+      "kind": "turnin",
+      "npc": "Je'neu Sancrea",
+      "entityId": 12736,
+      "entityType": 1,
+      "zone": "Ashenvale",
+      "zoneId": "331",
+      "floor": 0,
+      "source": "https://www.wowhead.com/forever/quest=6563",
+      "checked": "2026-10-10",
+      "x": 11.6,
+      "y": 34.2
+    }
+  ],
+  "unmapped": [],
+  "source": "https://www.wowhead.com/forever/quest=6563",
+  "checked": "2026-10-10",
+  "status": "fetched"
+}
