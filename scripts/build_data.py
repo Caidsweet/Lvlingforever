@@ -171,4 +171,18 @@ if 'const MAPS=' in html:
  start=html.index('const MAPS=');end=html.index('\nconst MAP_STATE=',start)
  html=html[:start]+'const MAPS='+json.dumps(map_assets,ensure_ascii=False,separators=(',',':'))+';'+html[end:]
  (ROOT/'index.html').write_text(html)
+theme_path=ROOT/'assets/ui/classic.css'
+if theme_path.exists():
+ css=theme_path.read_text()
+ def embed_asset(match):
+  path=ROOT/match.group(1)
+  mime='font/ttf' if path.suffix=='.ttf' else 'image/png'
+  return 'data:'+mime+';base64,'+base64.b64encode(path.read_bytes()).decode()
+ css=re.sub(r'asset://([A-Za-z0-9_./-]+)',embed_asset,css)
+ block='<!-- CLASSIC_THEME_START -->\n<style id="classic-theme">'+css+'</style>\n<!-- CLASSIC_THEME_END -->'
+ if '<!-- CLASSIC_THEME_START -->' in html:
+  start=html.index('<!-- CLASSIC_THEME_START -->');end=html.index('<!-- CLASSIC_THEME_END -->',start)+len('<!-- CLASSIC_THEME_END -->')
+  html=html[:start]+block+html[end:]
+ else:html=html.replace('</head>',block+'</head>',1)
+ (ROOT/'index.html').write_text(html)
 print('Built',len(output),'dungeons,',sum(len(d['quests']) for d in output),'quests,',sum(len(q['rewards']) for d in output for q in d['quests']),'rewards')

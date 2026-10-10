@@ -2,6 +2,12 @@
 
 Open **index.html** directly in your browser. The page is self-contained and needs no installation. For local development: `python -m http.server 8080 --directory /workspace/Lvlingforever`.
 
+## Classic Interface
+
+The local redesign uses original Classic interface textures for the stone panels, silver frame corners, quest-book emblem, red buttons, selection highlights, parchment and scroll arrows. The quest view places its list in the left panel and its text/rewards on the right page. Dungeon preparation is an expandable section. The window has working close/reopen controls, independent desktop scrolling and a responsive mobile layout. Progress, quest maps and cached item tooltips remain functional.
+
+Edit `assets/ui/classic.css` to change the theme. The builder embeds its `asset://` references, including the open fonts, into `index.html`, so review copies work offline. Asset sources and font licences are recorded in `data/ui-assets.json` and `THIRD-PARTY-NOTICES.md`. `forever-guide-classic-v6.html` is the local review copy. It starts in a selected quest to demonstrate the two-panel layout; the published page starts at the normal 1–10 route.
+
 Alliance, 1 tank, 1 healer and 3 DPS. Follow RestedXP for levels 1–10, then a general levelling route to **30**. Twelve dungeon views, 67 quest entries and 108 reward cards remain available, including class quests and follow-ups. Three additional Void Pearl entries are retained as unresolved references because their Forever item records are unavailable. The same quest may appear in multiple dungeons. Ragefire Chasm is excluded. Dalaran and Razorfen Kraul are optional late-20s plans with no verified full-run recommendation before 30. Gnomeregan and Scarlet Monastery notes are saved separately for later planning; quests with a minimum level above 30 are explicitly labelled.
 
 The main route is based on the user's research compiled October 10, 2026, prioritising [ForeverDB](https://foreverdb.net/guide/leveling) and [WoW Forever Guides](https://wowforeverguides.com/leveling). Research & Sources includes all six guide references, their assessed uses and limitations, class-guide links and the supplied October 8 Blizzard patch summary. The linked articles and official post could not be accessed from this runtime (proxy HTTP 403), so these summaries are attributed to the supplied research, rather than claimed as independently verified. The assessment is editable in `data/leveling-research.json` and embedded by the builder.

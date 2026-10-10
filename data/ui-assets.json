@@ -1,0 +1,119 @@
+{
+  "source": "https://github.com/Gethe/wow-ui-textures/tree/classic",
+  "assets": {
+    "UI-DialogBox-Background": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/DialogFrame/UI-DialogBox-Background.PNG",
+      "path": "assets/ui/UI-DialogBox-Background.png"
+    },
+    "UI-DialogBox-Background-Dark": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/DialogFrame/UI-DialogBox-Background-Dark.PNG",
+      "path": "assets/ui/UI-DialogBox-Background-Dark.png"
+    },
+    "UI-DialogBox-Border": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/DialogFrame/UI-DialogBox-Border.PNG",
+      "path": "assets/ui/UI-DialogBox-Border.png"
+    },
+    "UI-DialogBox-Header": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/DialogFrame/UI-DialogBox-Header.PNG",
+      "path": "assets/ui/UI-DialogBox-Header.png"
+    },
+    "UI-Tooltip-Border": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/Tooltips/UI-Tooltip-Border.PNG",
+      "path": "assets/ui/UI-Tooltip-Border.png"
+    },
+    "UI-Panel-Button-Up": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/Buttons/UI-Panel-Button-Up.PNG",
+      "path": "assets/ui/UI-Panel-Button-Up.png"
+    },
+    "UI-Panel-Button-Down": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/Buttons/UI-Panel-Button-Down.PNG",
+      "path": "assets/ui/UI-Panel-Button-Down.png"
+    },
+    "UI-DialogBox-Button-Up": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/Buttons/UI-DialogBox-Button-Up.PNG",
+      "path": "assets/ui/UI-DialogBox-Button-Up.png"
+    },
+    "UI-Panel-MinimizeButton-Up": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/Buttons/UI-Panel-MinimizeButton-Up.PNG",
+      "path": "assets/ui/UI-Panel-MinimizeButton-Up.png"
+    },
+    "UI-QuestLog-BookIcon": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/QUESTFRAME/UI-QuestLog-BookIcon.PNG",
+      "path": "assets/ui/UI-QuestLog-BookIcon.png"
+    },
+    "UI-QuestLogTitleHighlight": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/QUESTFRAME/UI-QuestLogTitleHighlight.PNG",
+      "path": "assets/ui/UI-QuestLogTitleHighlight.png"
+    },
+    "UI-TextBackground-BackdropBackground": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/QUESTFRAME/UI-TextBackground-BackdropBackground.PNG",
+      "path": "assets/ui/UI-TextBackground-BackdropBackground.png"
+    },
+    "UI-TextBackground-Backdrop": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/QUESTFRAME/UI-TextBackground-Backdrop.PNG",
+      "path": "assets/ui/UI-TextBackground-Backdrop.png"
+    },
+    "QuestBG": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/QUESTFRAME/QuestBG.PNG",
+      "path": "assets/ui/QuestBG.png"
+    },
+    "QuestBookBG": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/QUESTFRAME/QuestBookBG.PNG",
+      "path": "assets/ui/QuestBookBG.png"
+    },
+    "UI-QUESTLOG-EMPTY-TOPLEFT": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/QUESTFRAME/UI-QUESTLOG-EMPTY-TOPLEFT.PNG",
+      "path": "assets/ui/UI-QUESTLOG-EMPTY-TOPLEFT.png"
+    },
+    "UI-QUESTLOG-EMPTY-TOPRIGHT": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/QUESTFRAME/UI-QUESTLOG-EMPTY-TOPRIGHT.PNG",
+      "path": "assets/ui/UI-QUESTLOG-EMPTY-TOPRIGHT.png"
+    },
+    "UI-QUESTLOG-EMPTY-BOTLEFT": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/QUESTFRAME/UI-QUESTLOG-EMPTY-BOTLEFT.PNG",
+      "path": "assets/ui/UI-QUESTLOG-EMPTY-BOTLEFT.png"
+    },
+    "UI-QUESTLOG-EMPTY-BOTRIGHT": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/QUESTFRAME/UI-QUESTLOG-EMPTY-BOTRIGHT.PNG",
+      "path": "assets/ui/UI-QUESTLOG-EMPTY-BOTRIGHT.png"
+    },
+    "UI-QuestItemNameFrame": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/QUESTFRAME/UI-QuestItemNameFrame.PNG",
+      "path": "assets/ui/UI-QuestItemNameFrame.png"
+    },
+    "UI-ScrollBar-ScrollUpButton-Up": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/Buttons/UI-ScrollBar-ScrollUpButton-Up.PNG",
+      "path": "assets/ui/UI-ScrollBar-ScrollUpButton-Up.png"
+    },
+    "UI-ScrollBar-ScrollDownButton-Up": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/Buttons/UI-ScrollBar-ScrollDownButton-Up.PNG",
+      "path": "assets/ui/UI-ScrollBar-ScrollDownButton-Up.png"
+    },
+    "UI-DialogBox-Button-Down": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/classic/Buttons/UI-DialogBox-Button-Down.PNG",
+      "path": "assets/ui/UI-DialogBox-Button-Down.png"
+    },
+    "UI-Background-Marble": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/312a6e61bab69370c65ccc0a08f1075d62196294/FrameGeneral/UI-Background-Marble.PNG",
+      "path": "assets/ui/UI-Background-Marble.png"
+    },
+    "UI-Background-Rock": {
+      "url": "https://raw.githubusercontent.com/Gethe/wow-ui-textures/312a6e61bab69370c65ccc0a08f1075d62196294/FrameGeneral/UI-Background-Rock.PNG",
+      "path": "assets/ui/UI-Background-Rock.png"
+    }
+  },
+  "checked": "2026-10-11",
+  "fonts": {
+    "ClassicUI": {
+      "font": "assets/fonts/Marcellus-Regular.ttf",
+      "source": "https://github.com/google/fonts/tree/main/ofl/marcellus",
+      "license": "licenses/marcellus-OFL.txt"
+    },
+    "ClassicQuest": {
+      "font": "assets/fonts/IMFeENsc28P.ttf",
+      "source": "https://github.com/google/fonts/tree/main/ofl/imfellenglishsc",
+      "license": "licenses/imfellenglishsc-OFL.txt"
+    }
+  },
+  "sourceCommit": "312a6e61bab69370c65ccc0a08f1075d62196294"
+}
