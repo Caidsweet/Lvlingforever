@@ -12,6 +12,22 @@ const assert = require('node:assert/strict');
  page.on('response',r=>{if(new URL(r.url()).origin===origin&&r.status()>=400)missing.push(r.url()+' '+r.status())});
  await page.route(/https?:\/\//,route=>new URL(route.request().url()).origin===origin?route.continue():route.abort());
  await page.goto(url);assert.equal(await page.evaluate(()=>CRAFTING),null,'Recipe catalogue loaded eagerly');
+ await page.getByRole('button',{name:'Class Tips',exact:true}).click();
+ const classes=await page.evaluate(()=>CLASS_TIPS.classes);assert.equal(classes.length,9);
+ for(const cls of classes){
+  await page.getByRole('button',{name:cls.name,exact:true}).click();
+  assert(await page.locator('.class-tip').count());assert(cls.builds.length>0);
+  for(const build of cls.builds){
+   await page.locator('#classBuild').selectOption(build.id);
+   assert.equal(await page.locator('.class-talents h4').innerText(),build.title);
+   assert.equal(await page.locator('.class-point-table tbody tr').count(),build.level-9);
+  }
+ }
+ await page.getByRole('button',{name:'Druid',exact:true}).click();assert.match(await page.locator('.class-tip').first().innerText(),/baseline trainer ability/);
+ await page.getByRole('button',{name:'Shaman',exact:true}).click();assert.match(await page.locator('.class-tip').first().innerText(),/Dwarf Shaman/);
+ for(const width of [390,768]){await page.setViewportSize({width,height:950});assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth))}
+ await page.setViewportSize({width:1450,height:950});
+ assert.equal(await page.evaluate(()=>CRAFTING),null,'Class tips loaded the recipe catalogue');
  await page.getByRole('button',{name:'Professions',exact:true}).click();
  await page.locator('.profession-tab').filter({hasText:'Alchemy'}).click();
  const catalogue=await page.evaluate(()=>CRAFTING);
@@ -42,5 +58,5 @@ const assert = require('node:assert/strict');
  for(const width of [390,768]){await page.setViewportSize({width,height:950});await page.getByRole('button',{name:'Camping',exact:true}).click();assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));await page.getByRole('button',{name:'Professions',exact:true}).click();assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth))}
  const mobile=await browser.newPage({viewport:{width:390,height:844},hasTouch:true,isMobile:true});await mobile.route(/https?:\/\//,route=>new URL(route.request().url()).origin===origin?route.continue():route.abort());
  await mobile.goto(url);await mobile.getByRole('button',{name:'Camping',exact:true}).tap();await mobile.locator('.camp-feature').first().waitFor();const reward=mobile.locator('[data-item="279956"] .reward').first();await reward.tap();assert.equal(await reward.locator('.tooltip').evaluate(e=>e.hidden),false);await mobile.getByRole('button',{name:'Professions',exact:true}).tap();assert.equal(await mobile.locator('.tooltip-open').count(),0);
- assert.deepEqual(errors,[]);assert.deepEqual(missing,[]);await browser.close();console.log('PASS: recipes, ranks, sources, learned checklist, Camping, tooltip mouse/touch, maps, mobile layout; third-party requests blocked.');
+ assert.deepEqual(errors,[]);assert.deepEqual(missing,[]);await browser.close();console.log('PASS: class tips and all talent selections, recipes, ranks, sources, learned checklist, Camping, tooltip mouse/touch, maps, mobile layout; third-party requests blocked.');
 })().catch(error=>{console.error(error);process.exit(1)});

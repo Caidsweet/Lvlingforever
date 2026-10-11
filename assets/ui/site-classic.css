@@ -121,3 +121,13 @@ button{-webkit-tap-highlight-color:transparent}
 @media(max-width:700px){.craft-ranks{grid-template-columns:repeat(2,minmax(0,1fr))}.craft-rank:nth-child(2){border-right:0}.craft-rank:nth-child(-n+2){border-bottom:1px solid #70809260}}
 .craft-item-unavailable{display:inline-block;padding:8px;border:1px solid #555347;color:#aaa48c;font-size:11px;line-height:1.4}.recipe-scrolls .craft-item-unavailable{margin:4px 0}
 @media(max-width:700px){.craft-controls{flex-wrap:wrap;gap:8px}.craft-field{flex-basis:100%}.camp-grid{grid-template-columns:1fr}.craft-total{font-size:10px}.recipe-columns,.recipe-row{grid-template-columns:minmax(0,1fr) 36px 80px;gap:5px}.recipe-row{padding:5px}.recipe-name{gap:6px}.recipe-name>span{font-size:11px}.recipe-origin{font-size:9px}.craft-detail{padding:10px}.craft-heading h2{font-size:19px}.recipe-list{height:250px}.main[data-view=crafting],.main[data-view=camping]{padding:12px}.camp-feature .craft-item{font-size:12px}}
+/* Class tips share the quest-log parchment and existing type palette. */
+.class-tip,.class-talents{min-height:0;margin-bottom:18px}
+.class-tip h3,.class-talents h3{font-size:22px}
+.class-build-label{display:block;margin:14px 0 6px}
+.class-build-select{max-width:100%;width:100%;padding:9px;background:#241a10;color:#ffd100;border:1px solid #806039;font:inherit}
+.class-data-note{font-size:12px!important;line-height:1.5;color:#51391f}
+.talent-allocation{padding-left:22px;line-height:1.7}
+.class-point-table{width:100%;border-collapse:collapse;font-size:13px}
+.class-point-table th,.class-point-table td{text-align:left;padding:6px;border-bottom:1px solid #85663866}
+.class-point-table th{color:#3d2a14}

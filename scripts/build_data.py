@@ -174,6 +174,9 @@ if 'const MAPS=' in html:
  start=html.index('const MAPS=');end=html.index('\nconst MAP_STATE=',start)
  html=html[:start]+'const MAPS='+json.dumps(map_assets,ensure_ascii=False,separators=(',',':'))+';'+html[end:]
  OUTPUT.write_text(html)
+class_data=json.loads((ROOT/'data/class-tips.json').read_text())
+start=html.index('// CLASSES_UI_START');end=html.index('// CLASSES_UI_END',start)+len('// CLASSES_UI_END')
+html=html[:start]+'const CLASS_TIPS='+json.dumps(class_data,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+';\n'+(ROOT/'assets/ui/classes.js').read_text()+html[end:]
 theme_path=ROOT/'assets/ui/classic.css'
 if '// PROFESSIONS_UI_START' in html:
  start=html.index('// PROFESSIONS_UI_START');end=html.index('// PROFESSIONS_UI_END',start)+len('// PROFESSIONS_UI_END')
