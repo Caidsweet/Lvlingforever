@@ -128,9 +128,12 @@ button{-webkit-tap-highlight-color:transparent}
 .class-build-select{max-width:100%;width:100%;padding:9px;background:#241a10;color:#ffd100;border:1px solid #806039;font:inherit}
 .class-data-note{font-size:12px!important;line-height:1.5;color:#51391f}
 .talent-allocation{padding-left:22px;line-height:1.7}
-.class-point-table{width:100%;border-collapse:collapse;font-size:13px}
+.class-talents .rank-reference{color:#17110b;font-size:14px;line-height:1.6}
+.class-talents .rank-reference summary{color:#17110b;font-size:15px}
+.class-talents .rank-reference p{color:#17110b}
+.class-point-table{width:100%;border-collapse:collapse;font-size:14px;color:#17110b}
 .class-point-table th,.class-point-table td{text-align:left;padding:6px;border-bottom:1px solid #85663866}
-.class-point-table th{color:#3d2a14}
+.class-point-table th{color:#17110b}
 
 .class-tab{gap:12px;min-height:52px}
 .class-tab strong{font-size:18px;line-height:1.3}
