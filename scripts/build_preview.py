@@ -21,6 +21,11 @@ def read_constant(html, name, following):
 
 def main():
     html = (ROOT / '.pages-build/standalone.html').read_text()
+    # Keep the new class icons available in a standalone/offline preview.
+    for cls in json.loads((ROOT / 'data/class-tips.json').read_text())['classes']:
+        path = cls['icon']
+        image = 'data:image/jpeg;base64,' + base64.b64encode((ROOT / path).read_bytes()).decode()
+        html = html.replace('"' + path + '"', '"' + image + '"')
     start, end, crafting = read_constant(html, 'CRAFTING', 'const PROFESSIONS=')
     crafting['icons'] = {icon: f'https://foreverdb.net/icons/{icon}.webp' if icon.isdigit() else f'https://wow.zamimg.com/images/wow/icons/large/{icon}.jpg' for icon in crafting['icons']}
     packed = base64.b64encode(gzip.compress(json.dumps(crafting, ensure_ascii=False, separators=(',', ':')).encode(), mtime=0)).decode()
@@ -65,7 +70,7 @@ function ensureCraftingData(){
     # Native lazy images avoid eagerly decoding hundreds of off-screen icons.
     html = html.replace("const image=el('img',cls);image.src=", "const image=el('img',cls);image.loading='lazy';image.decoding='async';image.src=", 1)
     html = html.replace("const icon=el('img','reward-icon');icon.src=image", "const icon=el('img','reward-icon');icon.loading='lazy';icon.decoding='async';icon.src=image", 1)
-    assert len(html.encode()) < 1_200_000, 'Preview unexpectedly large'
+    assert len(html.encode()) < 1_350_000, 'Preview unexpectedly large'
     OUTPUT.write_text(html)
     print(f'Built {OUTPUT.name}: {OUTPUT.stat().st_size:,} bytes; original icons/maps load on demand.')
 

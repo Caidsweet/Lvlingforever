@@ -14,6 +14,13 @@ const assert = require('node:assert/strict');
  await page.goto(url);assert.equal(await page.evaluate(()=>CRAFTING),null,'Recipe catalogue loaded eagerly');
  await page.getByRole('button',{name:'Class Tips',exact:true}).click();
  const classes=await page.evaluate(()=>CLASS_TIPS.classes);assert.equal(classes.length,9);
+ assert.equal(await page.locator('.class-icon').count(),9);
+ assert(await page.locator('.class-icon').evaluateAll(async icons=>{await Promise.all(icons.map(icon=>icon.decode()));return icons.every(icon=>icon.naturalWidth>0)}));
+ const backgrounds=await page.locator('#main').evaluate(node=>({image:getComputedStyle(node).backgroundImage,color:getComputedStyle(node).backgroundColor}));
+ await page.getByRole('button',{name:'Level Route',exact:true}).click();
+ assert.deepEqual(await page.locator('#main').evaluate(node=>({image:getComputedStyle(node).backgroundImage,color:getComputedStyle(node).backgroundColor})),backgrounds,'Class tips should use the same parchment as the level route');
+ await page.getByRole('button',{name:'Class Tips',exact:true}).click();
+ assert.equal(await page.locator('.class-tab strong').first().evaluate(node=>getComputedStyle(node).fontSize),'18px');
  for(const cls of classes){
   await page.getByRole('button',{name:cls.name,exact:true}).click();
   assert(await page.locator('.class-tip').count());assert(cls.builds.length>0);

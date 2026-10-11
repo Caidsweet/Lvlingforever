@@ -3,7 +3,7 @@ let selectedClassBuild='';
 function showClasses(){view='classes';selected=null;render()}
 function renderClassSidebar(side){
  side.dataset.mode='professions';side.replaceChildren(el('div','side-title','Class Tips'),el('div','side-subtitle','Forever · Leveling & group roles'));
- for(const cls of CLASS_TIPS.classes){const b=button(cls.name,()=>{selectedClass=cls.name;selectedClassBuild='';main.scrollTop=0;render()},'route profession-tab'+(selectedClass===cls.name?' active':''));if(selectedClass===cls.name)b.setAttribute('aria-current','page');side.append(b)}
+ for(const cls of CLASS_TIPS.classes){const b=button('',()=>{selectedClass=cls.name;selectedClassBuild='';main.scrollTop=0;render()},'route profession-tab class-tab'+(selectedClass===cls.name?' active':''));const icon=el('img','class-icon');icon.src=cls.icon;icon.alt='';icon.width=32;icon.height=32;icon.decoding='async';b.append(icon,el('strong','',cls.name));if(selectedClass===cls.name)b.setAttribute('aria-current','page');side.append(b)}
 }
 function renderClasses(){
  main.dataset.view='classes';const cls=CLASS_TIPS.classes.find(c=>c.name===selectedClass);

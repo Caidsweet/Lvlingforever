@@ -751,7 +751,8 @@
         }
       ],
       "recommendationBuild": "1.60.1.70205",
-      "source": "https://foreverdb.net/class/Warrior/builds"
+      "source": "https://foreverdb.net/class/Warrior/builds",
+      "icon": "assets/icons/classicon_warrior.jpg"
     },
     {
       "name": "Paladin",
@@ -1990,7 +1991,8 @@
         }
       ],
       "recommendationBuild": "1.60.1.70291",
-      "source": "https://foreverdb.net/class/Paladin/builds"
+      "source": "https://foreverdb.net/class/Paladin/builds",
+      "icon": "assets/icons/classicon_paladin.jpg"
     },
     {
       "name": "Hunter",
@@ -2253,7 +2255,8 @@
         }
       ],
       "recommendationBuild": "1.60.1.70291",
-      "source": "https://foreverdb.net/class/Hunter/builds"
+      "source": "https://foreverdb.net/class/Hunter/builds",
+      "icon": "assets/icons/classicon_hunter.jpg"
     },
     {
       "name": "Rogue",
@@ -2511,7 +2514,8 @@
         }
       ],
       "recommendationBuild": "1.60.1.70291",
-      "source": "https://foreverdb.net/class/Rogue/builds"
+      "source": "https://foreverdb.net/class/Rogue/builds",
+      "icon": "assets/icons/classicon_rogue.jpg"
     },
     {
       "name": "Priest",
@@ -3745,7 +3749,8 @@
         }
       ],
       "recommendationBuild": "1.60.1.70291",
-      "source": "https://foreverdb.net/class/Priest/builds"
+      "source": "https://foreverdb.net/class/Priest/builds",
+      "icon": "assets/icons/classicon_priest.jpg"
     },
     {
       "name": "Shaman",
@@ -4740,7 +4745,8 @@
         }
       ],
       "recommendationBuild": "1.60.1.70291",
-      "source": "https://foreverdb.net/class/Shaman/builds"
+      "source": "https://foreverdb.net/class/Shaman/builds",
+      "icon": "assets/icons/classicon_shaman.jpg"
     },
     {
       "name": "Mage",
@@ -5003,7 +5009,8 @@
         }
       ],
       "recommendationBuild": "1.60.1.70291",
-      "source": "https://foreverdb.net/class/Mage/builds"
+      "source": "https://foreverdb.net/class/Mage/builds",
+      "icon": "assets/icons/classicon_mage.jpg"
     },
     {
       "name": "Warlock",
@@ -5266,7 +5273,8 @@
         }
       ],
       "recommendationBuild": "1.60.1.70291",
-      "source": "https://foreverdb.net/class/Warlock/builds"
+      "source": "https://foreverdb.net/class/Warlock/builds",
+      "icon": "assets/icons/classicon_warlock.jpg"
     },
     {
       "name": "Druid",
@@ -6261,7 +6269,8 @@
         }
       ],
       "recommendationBuild": "1.60.1.70291",
-      "source": "https://foreverdb.net/class/Druid/builds"
+      "source": "https://foreverdb.net/class/Druid/builds",
+      "icon": "assets/icons/classicon_druid.jpg"
     }
   ]
 }
