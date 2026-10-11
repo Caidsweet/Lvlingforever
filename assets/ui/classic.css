@@ -52,8 +52,8 @@ button:focus-visible{outline:1px solid #ecd16d;outline-offset:2px}
 .route strong{font:14px/1.28 ClassicUI,Georgia,serif;color:#cfb86e}.route small{margin-top:4px;color:#a5a38e;font:10px/1.3 ClassicUI,Georgia,serif}
 .route:hover,.quest-btn:hover{background:linear-gradient(90deg,#7c75172d,transparent);box-shadow:none}.route.active,.quest-btn.active{border-left:0;background:linear-gradient(90deg,#9c932f70,#756c1d45,transparent),var(--ui-selection) center/100% 100% no-repeat;box-shadow:none}.route.active strong,.quest-btn.active{color:#ead79b}.later-route{border-style:solid;opacity:1}.later-route strong{color:#aaa68a}
 .main{min-width:0;padding:16px 20px;overflow-y:auto;overscroll-behavior:contain;background:#0e1011 var(--ui-stone) repeat}
-.main[data-view=route],.main[data-view=detail],.main[data-view=all]{background-color:#c7a56b;background-image:var(--ui-parchment);background-position:0 0;background-repeat:no-repeat;background-size:171% 154%;box-shadow:inset 8px 0 15px #57331335,inset -5px 0 10px #61401f40;color:#17110b}
-.main[data-view=route] h2,.main[data-view=detail] h2,.main[data-view=all] h2{color:#17110b;text-shadow:none}
+.main[data-view=route],.main[data-view=detail],.main[data-view=all],.main[data-view=professions]{background-color:#c7a56b;background-image:var(--ui-parchment);background-position:0 0;background-repeat:no-repeat;background-size:171% 154%;box-shadow:inset 8px 0 15px #57331335,inset -5px 0 10px #61401f40;color:#17110b}
+.main[data-view=route] h2,.main[data-view=detail] h2,.main[data-view=all] h2,.main[data-view=professions] h2{color:#17110b;text-shadow:none}
 .stage-heading{gap:12px;margin-bottom:10px;align-items:center}.stage-heading h2{margin:0;font:24px/1.3 ClassicUI,Georgia,serif}
 .level{padding:3px 7px;border:1px solid #63543b;background:#3d2a1330;font:10px ClassicUI,Georgia,serif;color:#493018}
 .main[data-view=map] .level{color:#d6c697;background:#141411;border-color:#766e57}
@@ -95,3 +95,6 @@ input[type=checkbox]{appearance:none;width:14px;height:14px;border:1px solid #82
 .tooltip,.tooltip table{font-family:ClassicUI,Georgia,serif}.tooltip{color:#e8e4d8}
 
 button{-webkit-tap-highlight-color:transparent}
+.starting-professions{padding:14px 0 18px;border-bottom:1px solid #77522e60;margin-bottom:18px}.starting-professions h3{font-size:23px}.profession-checklist{list-style:none;padding:0;margin:12px 0 16px;font:13px/1.5 ClassicUI,Georgia,serif}.profession-checklist li{padding:6px 0}.profession-prices{width:100%;border-collapse:collapse;margin:10px 0 20px;font:13px/1.5 ClassicUI,Georgia,serif}.profession-prices th,.profession-prices td{padding:8px 10px;border-bottom:1px solid #75532e50;text-align:left}.profession-prices th{background:#64401a18;font-weight:normal}.profession-prices td:last-child,.profession-prices th:last-child{white-space:nowrap;text-align:right}
+@media(max-width:900px) and (min-width:701px){.frame{grid-template-rows:70px auto auto minmax(0,1fr) 34px}.toolbar{flex-wrap:wrap;min-height:42px}.toolbar .right{margin-left:0}.toolbar .search{flex:1;min-width:140px}}
+@media(max-width:700px){.sidebar[data-mode=professions]{display:block;overflow-x:hidden}.profession-prices th,.profession-prices td{padding:8px 4px}}

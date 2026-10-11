@@ -172,6 +172,11 @@ if 'const MAPS=' in html:
  html=html[:start]+'const MAPS='+json.dumps(map_assets,ensure_ascii=False,separators=(',',':'))+';'+html[end:]
  (ROOT/'index.html').write_text(html)
 theme_path=ROOT/'assets/ui/classic.css'
+if 'const PROFESSIONS=' in html:
+ professions=json.loads((ROOT/'data/professions.json').read_text())
+ start=html.index('const PROFESSIONS=');end=html.index('\nlet professionSection=',start)
+ html=html[:start]+'const PROFESSIONS='+json.dumps(professions,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+';'+html[end:]
+ (ROOT/'index.html').write_text(html)
 if theme_path.exists():
  css=theme_path.read_text()
  def embed_asset(match):

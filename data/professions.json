@@ -1,0 +1,36 @@
+{
+  "updated": "2026-10-11",
+  "source": "Starting-zone training, gathering tools and vendor prices supplied by the party.",
+  "recommendation": "Learn Skinning plus Herbalism or Mining in your starting zone. The local profession trainers also sell gathering tools and materials bags.",
+  "toolCost": 10,
+  "bagCost": 25,
+  "checklist": [
+    {"id": "skinning", "text": "Learn Skinning from a starting-zone trainer."},
+    {"id": "second", "text": "Choose and learn Herbalism or Mining."},
+    {"id": "tools", "text": "Buy your gathering tools — 10 copper per tool."},
+    {"id": "bag", "text": "Buy a materials bag — 25 copper per bag."}
+  ],
+  "professions": [
+    {
+      "id": "skinning",
+      "name": "Skinning",
+      "role": "Your first gathering profession",
+      "description": "Learn Skinning in your starting zone, alongside Herbalism or Mining. Skin eligible beasts after they have been looted as you follow the questing route.",
+      "steps": ["Visit a Skinning trainer in your starting zone.", "Buy the gathering tool for 10 copper and a materials bag for 25 copper from the local profession trainers.", "Loot beasts, then skin those that your current skill allows."]
+    },
+    {
+      "id": "herbalism",
+      "name": "Herbalism",
+      "role": "Choose Herbalism or Mining",
+      "description": "Pair Herbalism with Skinning if you want to collect herbs while questing. Gather nearby herb nodes along the group's route.",
+      "steps": ["Learn Herbalism from a starting-zone trainer.", "Buy your gathering tool for 10 copper and a materials bag for 25 copper from the local profession trainers.", "Collect herbs along the way, then rejoin the group."]
+    },
+    {
+      "id": "mining",
+      "name": "Mining",
+      "role": "Choose Mining or Herbalism",
+      "description": "Pair Mining with Skinning if you want to collect ore while questing. Gather nearby mineral nodes along the group's route.",
+      "steps": ["Learn Mining from a starting-zone trainer.", "Buy your gathering tool for 10 copper and a materials bag for 25 copper from the local profession trainers.", "Collect ore along the way, then rejoin the group."]
+    }
+  ]
+}
