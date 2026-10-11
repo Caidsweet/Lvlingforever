@@ -23,7 +23,7 @@ function renderProfessionSidebar(side) {
   if(kind!==group){side.append(el('div','profession-group',kind));group=kind}
   const b=button('',()=>openCrafting(profession.id),'route profession-tab'+(professionSection===profession.id?' active':''));
   if(professionSection===profession.id)b.setAttribute('aria-current','page');
-  const text=el('span');text.append(el('strong','',profession.name),el('small','',profession.recipes.length+' recipes'));
+  const text=el('span');text.append(el('strong','',profession.name));
   b.append(craftIcon(profession.icon),text);side.append(b);
  }
 }
@@ -91,7 +91,7 @@ function renderCraftingDetail(profession, recipe, target, refresh) {
  if(recipe.clientOnly)target.append(el('p','craft-data-note','Client record · current availability is not confirmed.'));
  if(recipe.unavailableItems?.length)target.append(el('p','craft-data-note','This record references items with no current Forever data, or deprecated items. Missing names, icons and stats are not substituted from another game version.'));
  if(recipe.creates){target.append(el('h4','','Creates'));const output=el('div','craft-materials');output.append(craftItem(recipe.creates[0],recipe.creates[1]));target.append(output)}
- if(recipe.effect)target.append(el('p','craft-effect',recipe.effect));
+ if(recipe.effect)target.append(el('p','craft-effect',readableItemText(recipe.effect)));
  target.append(el('h4','','Reagents'));const materials=el('div','craft-materials');for(const [id,count] of recipe.reagents)materials.append(craftItem(id,count));target.append(materials);if(!recipe.reagents.length)target.append(el('p','','No reagents listed.'));
  if(recipe.tools.length)target.append(el('p','','Tools: '+recipe.tools.join(', ')));
  if(recipe.station)target.append(el('p','','Crafting station: '+recipe.station));
@@ -117,7 +117,7 @@ function renderCamping() {
   const section=el('section','camp-profession'),title=el('div','craft-heading');title.append(craftIcon(profession.icon),el('h3','',profession.name),button('Recipes',()=>openCrafting(profession.id)));section.append(title);const grid=el('div','camp-grid');
   for(const feature of CRAFTING.camp.filter(c=>c.prof===profession.id)){
    const card=el('article','camp-feature');card.dataset.item=feature.id;card.append(el('div','camp-tier','Client tier '+feature.tier+' · '+profession.name+' '+(feature.skill??'Not listed')),craftItem(feature.id,0,feature.n));const buffs=el('ul','camp-buffs');feature.summary.forEach(s=>buffs.append(el('li','',s)));card.append(buffs);
-   const details=el('details','camp-details');details.append(el('summary','','Effects & materials'));for(const fx of feature.fx||[])details.append(el('p','',fx));if(feature.overviewSkill!==feature.skill)details.append(el('p','','ForeverDB camp overview lists skill '+feature.overviewSkill+'; recipe learn-at '+(feature.skill??'not published')+' is shown above.'));const mats=el('div','craft-materials');for(const [id,count] of feature.r||[])mats.append(craftItem(id,count));details.append(mats,craftLink('Wowhead item ↗','https://www.wowhead.com/forever/item='+feature.id));card.append(details,button('View Crafting Recipe',()=>openCrafting(profession.id,feature.recipe)));grid.append(card);
+   const details=el('details','camp-details');details.append(el('summary','','Effects & materials'));for(const fx of feature.fx||[])details.append(el('p','',readableItemText(fx)));if(feature.overviewSkill!==feature.skill)details.append(el('p','','ForeverDB camp overview lists skill '+feature.overviewSkill+'; recipe learn-at '+(feature.skill??'not published')+' is shown above.'));const mats=el('div','craft-materials');for(const [id,count] of feature.r||[])mats.append(craftItem(id,count));details.append(mats,craftLink('Wowhead item ↗','https://www.wowhead.com/forever/item='+feature.id));card.append(details,button('View Crafting Recipe',()=>openCrafting(profession.id,feature.recipe)));grid.append(card);
   }
   section.append(grid);main.append(section);
  }
