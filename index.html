@@ -10,7 +10,7 @@
 .reward,.reward:hover,.reward:focus-visible{filter:none}
 .tooltip .c1{color:#c79c6e}.tooltip .c2{color:#f58cba}.tooltip .c3{color:#abd473}.tooltip .c4{color:#fff569}.tooltip .c5{color:#fff}.tooltip .c7{color:#0070de}.tooltip .c8{color:#69ccf0}.tooltip .c9{color:#9482c9}.tooltip .c11{color:#ff7d0a}
 </style><!-- CLASSIC_THEME_START -->
-<link rel="stylesheet" href="assets/ui/site-classic.css?v=166f10451d67">
+<link rel="stylesheet" href="assets/ui/site-classic.css?v=a7dabadde7f8">
 <!-- CLASSIC_THEME_END --></head><body><div class="shell"><div class="frame"><i class="frame-corner tl" aria-hidden="true"></i><i class="frame-corner tr" aria-hidden="true"></i><i class="frame-corner bl" aria-hidden="true"></i><i class="frame-corner br" aria-hidden="true"></i><i class="frame-side left" aria-hidden="true"></i><i class="frame-side right" aria-hidden="true"></i><i class="frame-horizontal top-edge" aria-hidden="true"></i><i class="frame-horizontal bottom-edge" aria-hidden="true"></i><header class="top"><div class="crest" aria-hidden="true"></div><div class="window-title"><h1>Quest Log</h1><div class="eyebrow">WoW Forever · Alliance · From level 1 to level 30</div></div><div class="party"><span class="chip">1 Tank</span><span class="chip">1 Healer</span><span class="chip">3 DPS</span></div><button class="close-log" id="closeLog" type="button" aria-label="Close Quest Log" title="Close Quest Log"></button></header><nav class="toolbar" aria-label="View"><button id="routeTab" class="active">Level Route</button><button id="allTab">All Dungeons</button><button id="mapTab">Quest Map</button><button id="professionsTab">Professions</button><button id="campingTab">Camping</button><input id="search" class="search" type="search" placeholder="Search dungeons or quests…" aria-label="Search dungeons or quests"><span class="quest-count" id="questCount"></span><button class="right" id="importBtn">Research & Sources</button><input hidden id="importFile" type="file" accept="application/json,.json"></nav><div class="notice">Alliance · Levels 1–30 · RestedXP to level 10 · Ragefire Chasm excluded</div><div class="layout"><aside class="sidebar" id="sidebar"></aside><main class="main" id="main"></main></div><div class="footer"><span>Alliance · 5 players · Level 1–30</span><span id="saveStatus" aria-live="polite">Progress is saved in this browser</span></div></div></div><button id="reopenLog" class="reopen-log" type="button" hidden>Open Quest Log</button>
 <script>
 'use strict';
@@ -20,7 +20,7 @@ let CRAFTING=null;
 let craftingLoad=null;
 function ensureCraftingData(){
  if(CRAFTING)return Promise.resolve(CRAFTING);
- if(!craftingLoad)craftingLoad=fetch('data/site-recipes.json').then(response=>{
+ if(!craftingLoad)craftingLoad=fetch('data/site-recipes.json?v=c3c620622c3b').then(response=>{
   if(!response.ok)throw Error('Recipe request failed (HTTP '+response.status+').');
   return response.json();
  }).then(data=>{CRAFTING=data;return data}).catch(error=>{craftingLoad=null;throw error});
@@ -126,6 +126,15 @@ function craftItem(itemId, count, label) {
  renderRewardTooltip(item,b,tip,ITEM_TOOLTIPS[String(itemId)]);bindRewardTooltip(item,b,tip);return b;
 }
 let craftTipId=0;
+function recipeAcquisition(recipe){
+ const origin=el('span','recipe-origin');origin.append(el('span','recipe-origin-text',recipe.origins.join(' / ')+(recipe.clientOnly?' · Client record':'')));
+ const badges=el('span','recipe-source-icons');
+ function badge(kind,label){const mark=el('span','recipe-source-badge');mark.title=label;const image=craftIcon(CRAFTING.acquisitionReference.icons[kind],'recipe-source-icon');image.alt=label;image.width=20;image.height=20;mark.append(image);badges.append(mark)}
+ if(recipe.merchantFavor.length){const costs=[...new Set(recipe.merchantFavor.flatMap(p=>p.favorCosts))].sort((a,b)=>a-b);badge('favor',"Merchant's Favor · "+costs.join(' / ')+' per plan')}
+ else if(recipe.origins.some(o=>o.startsWith('Vendor')))badge('vendor',recipe.origins.find(o=>o.startsWith('Vendor')));
+ if(recipe.origins.some(o=>o.startsWith('Trainer')))badge('trainer',recipe.origins.find(o=>o.startsWith('Trainer')));
+ if(badges.childElementCount)origin.append(badges);return origin;
+}
 function recipeOriginMatches(recipe, source) {
  if(source==='all')return true;
  if(source==='recipe')return !!(recipe.recipeItems.length||recipe.hiddenRecipeItems.length);
@@ -153,7 +162,7 @@ function renderCraftingProfession(profession) {
   const top=resetScroll?0:list.scrollTop,term=state.search.trim().toLowerCase();
   const filtered=profession.recipes.filter(r=>recipeOriginMatches(r,state.source)&&(!term||(r.name+' '+r.reagents.map(([id])=>CRAFTING.items[String(id)]?.name||'').join(' ')+' '+r.recipeItems.map(id=>CRAFTING.items[String(id)]?.name||'').join(' ')).toLowerCase().includes(term)));
   const learned=profession.recipes.filter(r=>done.has(recipeKey(profession,r))).length;countLabel.textContent=filtered.length+' / '+profession.recipes.length+' recipes · '+learned+' marked learned';list.replaceChildren();
-  for(const recipe of filtered){const row=button('',()=>select(recipe),'recipe-row');row.dataset.recipe=recipe.id;const title=el('span','recipe-name');title.append(craftIcon(recipe.icon),el('span','',recipe.name+(done.has(recipeKey(profession,recipe))?' ✓':'')));row.append(title,el('span','recipe-skill',recipeSkill(recipe)),el('span','recipe-origin',recipe.origins.join(' / ')+(recipe.clientOnly?' · Client record':'')));list.append(row)}
+  for(const recipe of filtered){const row=button('',()=>select(recipe),'recipe-row');row.dataset.recipe=recipe.id;const title=el('span','recipe-name');title.append(craftIcon(recipe.icon),el('span','',recipe.name+(done.has(recipeKey(profession,recipe))?' ✓':'')));row.append(title,el('span','recipe-skill',recipeSkill(recipe)),recipeAcquisition(recipe));list.append(row)}
   list.scrollTop=top;
   if(!filtered.length){list.append(el('p','craft-empty','No matching recipes.'));detail.replaceChildren(el('p','craft-empty','Try another search or source.'));return}
   select(filtered.find(r=>r.id===state.selected)||filtered[0]);
@@ -178,6 +187,7 @@ function renderCraftingDetail(profession, recipe, target, refresh) {
  if(recipe.specialization)target.append(el('p','','Specialization: '+recipe.specialization));
  if(recipe.tier)target.append(el('p','','Camp feature · Client tier '+recipe.tier));
  target.append(el('h4','','Learn This Recipe'),el('p','',recipe.origins.join(' · ')));
+ if(recipe.merchantFavor.length){for(const plan of recipe.merchantFavor)target.append(el('p','recipe-favor-cost',plan.name+' — '+plan.favorCosts.join(' / ')+" Merchant's Favor"));target.append(craftLink("Merchant's Favor vendor catalogue ↗",CRAFTING.acquisitionReference.source))}
  if(recipe.trainerObserved.length)target.append(el('p','','Forever trainer observations: '+recipe.trainerObserved.join(', ')));
  if(recipe.classicTrainer)target.append(el('p','craft-provenance','Classic trainer reference: '+recipe.classicTrainer.n+' trainers'+(recipe.classicTrainer.cost!==undefined?' · Training cost '+recipe.classicTrainer.cost+' copper':'')));
  if(recipe.classicVendors)target.append(el('p','craft-provenance','Classic vendor reference: '+recipe.classicVendors+' vendors.'));

@@ -46,6 +46,15 @@ function craftItem(itemId, count, label) {
  renderRewardTooltip(item,b,tip,ITEM_TOOLTIPS[String(itemId)]);bindRewardTooltip(item,b,tip);return b;
 }
 let craftTipId=0;
+function recipeAcquisition(recipe){
+ const origin=el('span','recipe-origin');origin.append(el('span','recipe-origin-text',recipe.origins.join(' / ')+(recipe.clientOnly?' · Client record':'')));
+ const badges=el('span','recipe-source-icons');
+ function badge(kind,label){const mark=el('span','recipe-source-badge');mark.title=label;const image=craftIcon(CRAFTING.acquisitionReference.icons[kind],'recipe-source-icon');image.alt=label;image.width=20;image.height=20;mark.append(image);badges.append(mark)}
+ if(recipe.merchantFavor.length){const costs=[...new Set(recipe.merchantFavor.flatMap(p=>p.favorCosts))].sort((a,b)=>a-b);badge('favor',"Merchant's Favor · "+costs.join(' / ')+' per plan')}
+ else if(recipe.origins.some(o=>o.startsWith('Vendor')))badge('vendor',recipe.origins.find(o=>o.startsWith('Vendor')));
+ if(recipe.origins.some(o=>o.startsWith('Trainer')))badge('trainer',recipe.origins.find(o=>o.startsWith('Trainer')));
+ if(badges.childElementCount)origin.append(badges);return origin;
+}
 function recipeOriginMatches(recipe, source) {
  if(source==='all')return true;
  if(source==='recipe')return !!(recipe.recipeItems.length||recipe.hiddenRecipeItems.length);
@@ -73,7 +82,7 @@ function renderCraftingProfession(profession) {
   const top=resetScroll?0:list.scrollTop,term=state.search.trim().toLowerCase();
   const filtered=profession.recipes.filter(r=>recipeOriginMatches(r,state.source)&&(!term||(r.name+' '+r.reagents.map(([id])=>CRAFTING.items[String(id)]?.name||'').join(' ')+' '+r.recipeItems.map(id=>CRAFTING.items[String(id)]?.name||'').join(' ')).toLowerCase().includes(term)));
   const learned=profession.recipes.filter(r=>done.has(recipeKey(profession,r))).length;countLabel.textContent=filtered.length+' / '+profession.recipes.length+' recipes · '+learned+' marked learned';list.replaceChildren();
-  for(const recipe of filtered){const row=button('',()=>select(recipe),'recipe-row');row.dataset.recipe=recipe.id;const title=el('span','recipe-name');title.append(craftIcon(recipe.icon),el('span','',recipe.name+(done.has(recipeKey(profession,recipe))?' ✓':'')));row.append(title,el('span','recipe-skill',recipeSkill(recipe)),el('span','recipe-origin',recipe.origins.join(' / ')+(recipe.clientOnly?' · Client record':'')));list.append(row)}
+  for(const recipe of filtered){const row=button('',()=>select(recipe),'recipe-row');row.dataset.recipe=recipe.id;const title=el('span','recipe-name');title.append(craftIcon(recipe.icon),el('span','',recipe.name+(done.has(recipeKey(profession,recipe))?' ✓':'')));row.append(title,el('span','recipe-skill',recipeSkill(recipe)),recipeAcquisition(recipe));list.append(row)}
   list.scrollTop=top;
   if(!filtered.length){list.append(el('p','craft-empty','No matching recipes.'));detail.replaceChildren(el('p','craft-empty','Try another search or source.'));return}
   select(filtered.find(r=>r.id===state.selected)||filtered[0]);
@@ -98,6 +107,7 @@ function renderCraftingDetail(profession, recipe, target, refresh) {
  if(recipe.specialization)target.append(el('p','','Specialization: '+recipe.specialization));
  if(recipe.tier)target.append(el('p','','Camp feature · Client tier '+recipe.tier));
  target.append(el('h4','','Learn This Recipe'),el('p','',recipe.origins.join(' · ')));
+ if(recipe.merchantFavor.length){for(const plan of recipe.merchantFavor)target.append(el('p','recipe-favor-cost',plan.name+' — '+plan.favorCosts.join(' / ')+" Merchant's Favor"));target.append(craftLink("Merchant's Favor vendor catalogue ↗",CRAFTING.acquisitionReference.source))}
  if(recipe.trainerObserved.length)target.append(el('p','','Forever trainer observations: '+recipe.trainerObserved.join(', ')));
  if(recipe.classicTrainer)target.append(el('p','craft-provenance','Classic trainer reference: '+recipe.classicTrainer.n+' trainers'+(recipe.classicTrainer.cost!==undefined?' · Training cost '+recipe.classicTrainer.cost+' copper':'')));
  if(recipe.classicVendors)target.append(el('p','craft-provenance','Classic vendor reference: '+recipe.classicVendors+' vendors.'));

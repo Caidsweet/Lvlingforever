@@ -26,7 +26,11 @@ def build_site(html):
     for record in recipes['items'].values():
         icon = record.get('icon')
         if isinstance(icon, str): recipes['icons'][icon] = checked_asset(f'assets/icons/{icon.lower()}.jpg')
-    (ROOT/'data/site-recipes.json').write_text(json.dumps(recipes, ensure_ascii=False, separators=(',', ':'))+'\n')
+    for icon in recipes['acquisitionReference']['icons'].values():
+        recipes['icons'][icon] = checked_asset(f'assets/icons/{icon}.jpg')
+    recipe_path = ROOT/'data/site-recipes.json'
+    recipe_path.write_text(json.dumps(recipes, ensure_ascii=False, separators=(',', ':'))+'\n')
+    recipe_version = hashlib.sha256(recipe_path.read_bytes()).hexdigest()[:12]
     declaration = '''let CRAFTING=null;
 let craftingLoad=null;
 function ensureCraftingData(){
@@ -37,6 +41,7 @@ function ensureCraftingData(){
  }).then(data=>{CRAFTING=data;return data}).catch(error=>{craftingLoad=null;throw error});
  return craftingLoad;
 }'''
+    declaration = declaration.replace("fetch('data/site-recipes.json')", "fetch('data/site-recipes.json?v="+recipe_version+"')")
     html = html[:start]+declaration+html[end:]
     for view, name, renderer in [('professions', 'Professions', 'Profession'), ('camping', 'Camping', 'Camping')]:
         entry = "if(view==='"+view+"'){render"+renderer+"Sidebar(side);return}"

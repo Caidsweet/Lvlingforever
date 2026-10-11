@@ -10,6 +10,9 @@ SOURCE_NAMES = {0:'None',1:'Crafted',2:'Drop',3:'PvP',4:'Quest',5:'Vendor',6:'Tr
 def build_recipe_catalogue():
     index = json.loads((RAW / 'foreverdb/index.json').read_text())
     rank_reference = json.loads((ROOT/'data/profession-ranks.json').read_text())
+    favor_reference = json.loads((RAW/'wowhead/merchants-favor.json').read_text())
+    favor_items = {r['id']:r for r in favor_reference['items']}
+    favor_spells = {r['teachesSpellId']:r for r in favor_reference['items'] if r.get('teachesSpellId')}
     professions, items, icon_ids = [], {}, set()
     for summary in index['professions']:
         slug = summary['slug']
@@ -37,6 +40,12 @@ def build_recipe_catalogue():
             if source.get('vendors') and not any('Vendor' in s for s in origins): origins.append('Vendor (Classic reference)')
             if source.get('items') and not origins: origins.append('Recipe item · origin not listed')
             if not origins: origins = ['Source not listed']
+            favor_plans = [favor_items[i] for i in source.get('items', []) if i in favor_items]
+            if raw['s'] in favor_spells and not any(p['id']==favor_spells[raw['s']]['id'] for p in favor_plans):
+                favor_plans.append(favor_spells[raw['s']])
+            if favor_plans:
+                origins = [o for o in origins if o not in ['Source not listed','Recipe item · origin not listed']]
+                if not any(o.startswith('Vendor') for o in origins): origins.append('Vendor')
             colours = live.get('colors')
             recipes.append({
                 'id':raw['s'], 'name':raw['n'], 'icon':raw.get('ic'), 'skill':required,
@@ -48,6 +57,7 @@ def build_recipe_catalogue():
                 'reagents':raw.get('r', []), 'creates':raw.get('make'), 'effect':raw.get('fx'),
                 'tools':raw.get('tools', []), 'station':raw.get('focus'), 'origins':origins,
                 'recipeItems':source.get('items', []), 'hiddenRecipeItems':source.get('hidden', []),
+                'merchantFavor':favor_plans,
                 'trainerObserved':source.get('fv', []), 'classicTrainer':source.get('trainer'),
                 'classicVendors':source.get('vendors'), 'automatic':bool(source.get('auto')),
                 'newInForever':bool(raw.get('new')), 'changed':raw.get('chg', []),
@@ -91,6 +101,7 @@ def build_recipe_catalogue():
         {'name':'Wowhead Forever','url':'https://www.wowhead.com/forever/spells/professions','note':'Learn-at fields, published skill-up thresholds and acquisition categories. ForeverDB orange skill-up fields are not assumed to be learning requirements.'}
     ]}
     catalogue['coverage'] = {'recipes':sum(len(p['recipes']) for p in professions),'professions':len(professions),'missingSkills':sum(r['skill'] is None for p in professions for r in p['recipes']),'skillDifferences':sum(r['skillDifference'] for p in professions for r in p['recipes'])}
+    catalogue['acquisitionReference'] = {'checked':favor_reference['checked'],'source':favor_reference['source'],'currencyId':3402,'publishedItems':len(favor_items),'matchedRecipes':sum(bool(r['merchantFavor']) for p in professions for r in p['recipes']),'icons':{'favor':'racial_dwarf_findtreasure','vendor':'inv_misc_bag_10','trainer':'inv_misc_book_09'}}
     (ROOT/'data/recipe-catalogue.json').write_text(json.dumps(catalogue,ensure_ascii=False,indent=2)+'\n')
     assets = {}
     for icon_id in sorted(icon_ids):
@@ -101,6 +112,10 @@ def build_recipe_catalogue():
             path=ROOT/f'assets/icons/{record["icon"]}.jpg'
             if not path.exists(): raise ValueError('Missing cached item icon: '+record['icon'])
             assets[record['icon']]='data:image/jpeg;base64,'+base64.b64encode(path.read_bytes()).decode()
+    for icon in catalogue['acquisitionReference']['icons'].values():
+        path=ROOT/f'assets/icons/{icon}.jpg'
+        if not path.exists(): raise ValueError('Missing acquisition icon: '+icon)
+        assets[icon]='data:image/jpeg;base64,'+base64.b64encode(path.read_bytes()).decode()
     catalogue['icons'] = assets
     return catalogue
 

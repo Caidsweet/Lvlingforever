@@ -1,0 +1,2614 @@
+{
+  "checked": "2026-10-11",
+  "currencyId": 3402,
+  "currencyName": "Merchant's Favor",
+  "icon": "racial_dwarf_findtreasure",
+  "source": "https://www.wowhead.com/forever/currency=3402/merchants-favor",
+  "itemCount": 325,
+  "items": [
+    {
+      "id": 285288,
+      "name": "Schematic: Satchel of Dark Iron Bombs",
+      "class": 9,
+      "favorCosts": [
+        270
+      ]
+    },
+    {
+      "id": 285287,
+      "name": "Schematic: Satchel of Iron Bombs",
+      "class": 9,
+      "favorCosts": [
+        270
+      ]
+    },
+    {
+      "id": 285286,
+      "name": "Schematic: Satchel of Bronze Bombs",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 285285,
+      "name": "Schematic: Satchel of Copper Bombs",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 284664,
+      "name": "Packmule Treat",
+      "class": 15,
+      "favorCosts": [
+        1500
+      ]
+    },
+    {
+      "id": 280328,
+      "name": "Schematic: Dented Goggles",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 280327,
+      "name": "Schematic: Stuckbutton Goggles",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 280326,
+      "name": "Schematic: Bent Goggles",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 280325,
+      "name": "Schematic: Floppy Goggles",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 280323,
+      "name": "Schematic: Clanking Cord",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 280322,
+      "name": "Schematic: Gizmo Girdle",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 280321,
+      "name": "Schematic: Whimsical Waistwrap",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 274401,
+      "name": "Formula: Enchant Bracer - Greater Spellpower",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 274399,
+      "name": "Formula: Enchant Cloak - Agility",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 274398,
+      "name": "Formula: Enchant Gloves - Superior Strength",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 274394,
+      "name": "Formula: Enchant 2H Weapon - Spellblasting",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 274393,
+      "name": "Formula: Enchant Off Hand - Wisdom",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 271627,
+      "name": "Tailoring Certification",
+      "class": 15,
+      "favorCosts": [
+        1000
+      ]
+    },
+    {
+      "id": 271626,
+      "name": "Leatherworking Certification",
+      "class": 15,
+      "favorCosts": [
+        1000
+      ]
+    },
+    {
+      "id": 271625,
+      "name": "Engineering Certification",
+      "class": 15,
+      "favorCosts": [
+        1000
+      ]
+    },
+    {
+      "id": 271624,
+      "name": "Enchanting Certification",
+      "class": 15,
+      "favorCosts": [
+        1000
+      ]
+    },
+    {
+      "id": 271622,
+      "name": "Blacksmithing Certification",
+      "class": 15,
+      "favorCosts": [
+        1000
+      ]
+    },
+    {
+      "id": 271621,
+      "name": "Alchemy Certification",
+      "class": 15,
+      "favorCosts": [
+        1000
+      ]
+    },
+    {
+      "id": 270888,
+      "name": "Advertising License Application",
+      "class": 15,
+      "favorCosts": [
+        1200
+      ]
+    },
+    {
+      "id": 270887,
+      "name": "Advertising License Application",
+      "class": 15,
+      "favorCosts": [
+        1200
+      ]
+    },
+    {
+      "id": 264237,
+      "name": "Schematic: Stealthman 52",
+      "class": 9,
+      "favorCosts": [
+        360
+      ]
+    },
+    {
+      "id": 264235,
+      "name": "Schematic: Ultralight Goblin Glider",
+      "class": 9,
+      "favorCosts": [
+        360
+      ]
+    },
+    {
+      "id": 264234,
+      "name": "Schematic: Gnomish Poultryizer",
+      "class": 9,
+      "favorCosts": [
+        360
+      ]
+    },
+    {
+      "id": 264232,
+      "name": "Schematic: Ultrasafe Rechargeable Battery",
+      "class": 9,
+      "favorCosts": [
+        360
+      ]
+    },
+    {
+      "id": 264222,
+      "name": "Schematic: Loot-A-Rang",
+      "class": 9,
+      "favorCosts": [
+        270
+      ]
+    },
+    {
+      "id": 264221,
+      "name": "Schematic: Gnomish Army Knife",
+      "class": 9,
+      "favorCosts": [
+        270
+      ]
+    },
+    {
+      "id": 264220,
+      "name": "Schematic: SAF-T Disposable Parachute",
+      "class": 9,
+      "favorCosts": [
+        270
+      ]
+    },
+    {
+      "id": 264217,
+      "name": "Schematic: Compact Critter Carrier",
+      "class": 9,
+      "favorCosts": [
+        270
+      ]
+    },
+    {
+      "id": 264216,
+      "name": "Schematic: Emergency Field Cloak",
+      "class": 9,
+      "favorCosts": [
+        270
+      ]
+    },
+    {
+      "id": 264211,
+      "name": "Schematic: EZ-Thro Fireproof Fuse",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 264209,
+      "name": "Schematic: SAF-T Bell",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 264206,
+      "name": "Schematic: No Slip SAF-T Padding",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 264205,
+      "name": "Schematic: EZ-Thro Copper Bomb XL",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 264204,
+      "name": "Schematic: EZ-Thro Wrap",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 264203,
+      "name": "Schematic: SAF-T Copper Bomb",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 264202,
+      "name": "Schematic: SAF-T Dynamite",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 264201,
+      "name": "Schematic: SAF-T Tabs",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 262902,
+      "name": "Forged Delivery Receipt",
+      "class": 15,
+      "favorCosts": [
+        15
+      ]
+    },
+    {
+      "id": 262896,
+      "name": "Forger's Quill",
+      "class": 15,
+      "favorCosts": [
+        15
+      ]
+    },
+    {
+      "id": 262766,
+      "name": "Reins of the Pack Kodo",
+      "class": 15,
+      "favorCosts": [
+        6000
+      ]
+    },
+    {
+      "id": 262765,
+      "name": "Azeroth Commerce Authority Tabard",
+      "class": 4,
+      "favorCosts": [
+        200
+      ]
+    },
+    {
+      "id": 262764,
+      "name": "Durotar Supply and Logistics Tabard",
+      "class": 4,
+      "favorCosts": [
+        200
+      ]
+    },
+    {
+      "id": 254118,
+      "name": "Pattern: Radiant Sandals",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 254116,
+      "name": "Pattern: Golden Sandals",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 254114,
+      "name": "Pattern: Black Sandals",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 254112,
+      "name": "Pattern: Fiery Sandals",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 254110,
+      "name": "Pattern: Frothing Sandals",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 254108,
+      "name": "Pattern: Gilded Sandals",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 254092,
+      "name": "Pattern: Radiant Waistcord",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254090,
+      "name": "Pattern: Golden Waistcord",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254088,
+      "name": "Pattern: Black Waistcord",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254086,
+      "name": "Pattern: Fiery Waistcord",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254084,
+      "name": "Pattern: Frothing Waistcord",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254082,
+      "name": "Pattern: Gilded Waistcord",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254080,
+      "name": "Pattern: Runecloth Reagent Bag",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254072,
+      "name": "Pattern: Netherlight Cuffs",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254070,
+      "name": "Pattern: Nethershine Cuffs",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254068,
+      "name": "Pattern: Netherpearl Cuffs",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254066,
+      "name": "Pattern: Netherflame Cuffs",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254064,
+      "name": "Pattern: Netherfroth Cuffs",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254062,
+      "name": "Pattern: Nethergeld Cuffs",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254060,
+      "name": "Pattern: Netherlight Shoulders",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254058,
+      "name": "Pattern: Nethershine Shoulders",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254056,
+      "name": "Pattern: Netherpearl Shoulders",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254054,
+      "name": "Pattern: Netherflame Shoulders",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254052,
+      "name": "Pattern: Netherfroth Shoulders",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254050,
+      "name": "Pattern: Nethergeld Shoulders",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254036,
+      "name": "Pattern: Mageweave Reagent Bag",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254032,
+      "name": "Pattern: Radiant Handwraps",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254030,
+      "name": "Pattern: Golden Handwraps",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254028,
+      "name": "Pattern: Black Handwraps",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254026,
+      "name": "Pattern: Fiery Handwraps",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 254024,
+      "name": "Pattern: Frothing Handwraps",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 253998,
+      "name": "Pattern: Shining Leggings",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253996,
+      "name": "Pattern: Pearly Leggings",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253994,
+      "name": "Pattern: Shadow Leggings",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253992,
+      "name": "Pattern: Flame Leggings",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253990,
+      "name": "Pattern: Silky Leggings",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253988,
+      "name": "Pattern: Pristine Leggings",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253972,
+      "name": "Pattern: Shining Gown",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253970,
+      "name": "Pattern: Pearly Gown",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253968,
+      "name": "Pattern: Shadow Gown",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253966,
+      "name": "Pattern: Flame Gown",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253964,
+      "name": "Pattern: Silky Gown",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253962,
+      "name": "Pattern: Pristine Gown",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253960,
+      "name": "Pattern: Shining Circlet",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253958,
+      "name": "Pattern: Pearly Circlet",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253956,
+      "name": "Pattern: Shadow Circlet",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253954,
+      "name": "Pattern: Flame Circlet",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253952,
+      "name": "Pattern: Silky Circlet",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253950,
+      "name": "Pattern: Pristine Circlet",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253936,
+      "name": "Pattern: Shining Sash",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253934,
+      "name": "Pattern: Pearly Sash",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253932,
+      "name": "Pattern: Shadow Sash",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253930,
+      "name": "Pattern: Flame Sash",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253928,
+      "name": "Pattern: Silky Sash",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253926,
+      "name": "Pattern: Pristine Sash",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253924,
+      "name": "Pattern: Shining Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253922,
+      "name": "Pattern: Pearly Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253920,
+      "name": "Pattern: Shadow Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253918,
+      "name": "Pattern: Flame Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253916,
+      "name": "Pattern: Silky Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253914,
+      "name": "Pattern: Pristine Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253900,
+      "name": "Pattern: Shining Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253898,
+      "name": "Pattern: Pearly Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253896,
+      "name": "Pattern: Shadow Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253894,
+      "name": "Pattern: Flame Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253892,
+      "name": "Pattern: Silky Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 253890,
+      "name": "Pattern: Pristine Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252941,
+      "name": "Pattern: Mystic Rugged Armor Kit",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252925,
+      "name": "Pattern: Mender's Mail Belt",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252924,
+      "name": "Pattern: Skirmisher's Mail Belt",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252923,
+      "name": "Pattern: Skycaller's Mail Belt",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252922,
+      "name": "Pattern: Stalker's Mail Belt",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252913,
+      "name": "Pattern: Mender's Mail Sabatons",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252912,
+      "name": "Pattern: Skirmisher's Mail Sabatons",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252911,
+      "name": "Pattern: Skycaller's Mail Sabatons",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252910,
+      "name": "Pattern: Stalker's Mail Sabatons",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252907,
+      "name": "Pattern: Mender's Mail Bracers",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252906,
+      "name": "Pattern: Skirmisher's Mail Bracers",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252905,
+      "name": "Pattern: Skycaller's Mail Bracers",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252904,
+      "name": "Pattern: Stalker's Mail Bracers",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252903,
+      "name": "Pattern: Mender's Mail Shoulder",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252902,
+      "name": "Pattern: Skirmisher's Mail Shoulder",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252901,
+      "name": "Pattern: Skycaller's Mail Shoulder",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252900,
+      "name": "Pattern: Stalker's Mail Shoulder",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252876,
+      "name": "Pattern: Mender's Leather Waistguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252875,
+      "name": "Pattern: Skycaller's Leather Waistguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252874,
+      "name": "Pattern: Warden's Leather Waistguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252873,
+      "name": "Pattern: Skulker's Leather Waistguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252872,
+      "name": "Pattern: Prowler's Leather Waistguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252864,
+      "name": "Pattern: Mender's Leather Boots",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252863,
+      "name": "Pattern: Skycaller's Leather Boots",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252862,
+      "name": "Pattern: Warden's Leather Boots",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252861,
+      "name": "Pattern: Skulker's Leather Boots",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252860,
+      "name": "Pattern: Prowler's Leather Boots",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252857,
+      "name": "Pattern: Mender's Leather Bracers",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252856,
+      "name": "Pattern: Skycaller's Leather Bracers",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252855,
+      "name": "Pattern: Warden's Leather Bracers",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252854,
+      "name": "Pattern: Skulker's Leather Bracers",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252853,
+      "name": "Pattern: Prowler's Leather Bracers",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 252852,
+      "name": "Pattern: Mender's Leather Shoulder",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252851,
+      "name": "Pattern: Skycaller's Leather Shoulder",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252850,
+      "name": "Pattern: Warden's Leather Shoulder",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252849,
+      "name": "Pattern: Skulker's Leather Shoulder",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252848,
+      "name": "Pattern: Prowler's Leather Shoulder",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252842,
+      "name": "Pattern: Mender's Leather Gloves",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252841,
+      "name": "Pattern: Skycaller's Leather Gloves",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252840,
+      "name": "Pattern: Skirmisher's Leather Gloves",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252839,
+      "name": "Pattern: Warden's Leather Gloves",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252838,
+      "name": "Pattern: Stalker's Leather Gloves",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252837,
+      "name": "Pattern: Skulker's Leather Gloves",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252836,
+      "name": "Pattern: Prowler's Leather Gloves",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252834,
+      "name": "Pattern: Forceful Thick Armor Kit",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 252825,
+      "name": "Pattern: Wisdom's Leather Leggings",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252824,
+      "name": "Pattern: Stormrider's Leather Kilt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252823,
+      "name": "Pattern: Totemic Leather Leggings",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252822,
+      "name": "Pattern: Defender's Leather Kilt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252821,
+      "name": "Pattern: Trapper's Leather Legguards",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252820,
+      "name": "Pattern: Brawler's Leather Legguards",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252810,
+      "name": "Pattern: Wisdom's Leather Tunic",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252809,
+      "name": "Pattern: Stormrider's Leather Tunic",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252808,
+      "name": "Pattern: Totemic Leather Tunic",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252807,
+      "name": "Pattern: Defender's Leather Tunic",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252806,
+      "name": "Pattern: Trapper's Leather Tunic",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252805,
+      "name": "Pattern: Brawler's Leather Tunic",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252803,
+      "name": "Pattern: Wisdom's Leather Hood",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252802,
+      "name": "Pattern: Stormrider's Leather Hood",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252801,
+      "name": "Pattern: Totemic Leather Hood",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252800,
+      "name": "Pattern: Defender's Leather Hood",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252799,
+      "name": "Pattern: Trapper's Leather Hood",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252798,
+      "name": "Pattern: Brawler's Leather Hood",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252791,
+      "name": "Pattern: Wisdom's Leather Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252790,
+      "name": "Pattern: Stormrider's Leather Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252789,
+      "name": "Pattern: Totemic Leather Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252788,
+      "name": "Pattern: Defender's Leather Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252787,
+      "name": "Pattern: Trapper's Leather Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252786,
+      "name": "Pattern: Brawler's Leather Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252782,
+      "name": "Pattern: Wisdom's Leather Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252781,
+      "name": "Pattern: Stormrider's Leather Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252780,
+      "name": "Pattern: Totemic Leather Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252779,
+      "name": "Pattern: Defender's Leather Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252778,
+      "name": "Pattern: Trapper's Leather Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252777,
+      "name": "Pattern: Brawler's Leather Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252770,
+      "name": "Pattern: Wisdom's Leather Belt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252769,
+      "name": "Pattern: Stormrider's Leather Belt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252768,
+      "name": "Pattern: Totemic Leather Belt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252767,
+      "name": "Pattern: Defender's Leather Belt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252766,
+      "name": "Pattern: Trapper's Leather Belt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 252765,
+      "name": "Pattern: Brawler's Leather Belt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251471,
+      "name": "Plans: Legionite Glaive",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 251466,
+      "name": "Plans: Thorium Cestus",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251465,
+      "name": "Plans: Thorium Greatmace",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251449,
+      "name": "Plans: Enriched Thorium Helm",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 251448,
+      "name": "Plans: Enriched Thorium Leggings",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 251447,
+      "name": "Plans: Enriched Thorium Breastplate",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 251437,
+      "name": "Plans: Justicar's Wristguards",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251436,
+      "name": "Plans: Prefect's Wristguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251435,
+      "name": "Plans: Warder's Wristguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251434,
+      "name": "Plans: Sentinel's Wristguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251433,
+      "name": "Plans: Officer's Wristguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251432,
+      "name": "Plans: Justicar's Pauldrons",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 251431,
+      "name": "Plans: Prefect's Pauldrons",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 251430,
+      "name": "Plans: Warder's Pauldrons",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 251429,
+      "name": "Plans: Sentinel's Pauldrons",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 251428,
+      "name": "Plans: Officer's Pauldrons",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 251427,
+      "name": "Plans: Justicar's Waistguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251426,
+      "name": "Plans: Prefect's Waistguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ],
+      "teachesSpellId": 1252323,
+      "spellEvidence": "https://www.wowhead.com/forever/item=251426",
+      "spellEvidenceNote": "Item tooltip spellModifiers includes 1252323, and the created item source names the same crafting spell. The client catalogue omitted the plan item link."
+    },
+    {
+      "id": 251425,
+      "name": "Plans: Warder's Waistguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251424,
+      "name": "Plans: Sentinel's Waistguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251423,
+      "name": "Plans: Officer's Waistguard",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251422,
+      "name": "Plans: Justicar's Gauntlet",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 251421,
+      "name": "Plans: Prefect's Gauntlet",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 251420,
+      "name": "Plans: Warder's Gauntlet",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 251419,
+      "name": "Plans: Sentinel's Gauntlet",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 251418,
+      "name": "Plans: Officer's Gauntlet",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 251417,
+      "name": "Plans: Justicar's Sabatons",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251416,
+      "name": "Plans: Prefect's Sabatons",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251415,
+      "name": "Plans: Warder's Sabatons",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251414,
+      "name": "Plans: Sentinel's Sabatons",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251413,
+      "name": "Plans: Officer's Sabatons",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 251384,
+      "name": "Plans: Crusader's Silvered Chain Helm",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251383,
+      "name": "Plans: Acolyte's Silvered Chain Helm",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251382,
+      "name": "Plans: Protector's Silvered Chain Helm",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251381,
+      "name": "Plans: Guard's Silvered Chain Helm",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251380,
+      "name": "Plans: Veteran's Silvered Chain Helm",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251379,
+      "name": "Plans: Crusader's Silvered Chain Leggings",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251378,
+      "name": "Plans: Acolyte's Silvered Chain Leggings",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251377,
+      "name": "Plans: Protector's Silvered Chain Leggings",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251376,
+      "name": "Plans: Guard's Silvered Chain Leggings",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251375,
+      "name": "Plans: Veteran's Silvered Chain Leggings",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251374,
+      "name": "Plans: Crusader's Silvered Chain Shirt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251373,
+      "name": "Plans: Acolyte's Silvered Chain Shirt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251372,
+      "name": "Plans: Protector's Silvered Chain Shirt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251371,
+      "name": "Plans: Guard's Silvered Chain Shirt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251370,
+      "name": "Plans: Veteran's Silvered Chain Shirt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251369,
+      "name": "Plans: Crusader's Chain Belt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251368,
+      "name": "Plans: Acolyte's Chain Belt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251367,
+      "name": "Plans: Protector's Chain Belt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251366,
+      "name": "Plans: Guard's Chain Belt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251365,
+      "name": "Plans: Veteran's Chain Belt",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251364,
+      "name": "Plans: Crusader's Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251363,
+      "name": "Plans: Acolyte's Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251362,
+      "name": "Plans: Protector's Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251361,
+      "name": "Plans: Guard's Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251360,
+      "name": "Plans: Veteran's Gloves",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251359,
+      "name": "Plans: Crusader's Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251358,
+      "name": "Plans: Acolyte's Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251357,
+      "name": "Plans: Protector's Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251356,
+      "name": "Plans: Guard's Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 251355,
+      "name": "Plans: Veteran's Boots",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 250998,
+      "name": "Recipe: Potion of Elemental Purging",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 250997,
+      "name": "Recipe: Dragonfire Potion",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 250996,
+      "name": "Recipe: Disorienting Smog Potion",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 250995,
+      "name": "Recipe: Caustic Smog Potion",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 250994,
+      "name": "Recipe: Potion of Venomous Blood",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 250993,
+      "name": "Recipe: Major Mender's Potion",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 250990,
+      "name": "Recipe: Mender's Potion",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 250987,
+      "name": "Recipe: Major Frenzy Potion",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 250984,
+      "name": "Recipe: Frenzy Potion",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 250981,
+      "name": "Recipe: Major Spellblasting Potion",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 250978,
+      "name": "Recipe: Spellblasting Potion",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 250388,
+      "name": "Recipe: Elixir of Lesser Intellect",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 250387,
+      "name": "Recipe: Elixir of the Grizzly",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 250386,
+      "name": "Recipe: Elixir of Ferocity",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 250384,
+      "name": "Recipe: Elixir of the Whale",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 250383,
+      "name": "Recipe: Elixir of Greater Spirit",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 250381,
+      "name": "Recipe: Elixir of Lesser Spirit",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 250379,
+      "name": "Recipe: Elixir of Nature Power",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 250378,
+      "name": "Recipe: Lesser Arcane Elixir",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 250377,
+      "name": "Recipe: Greater Mageblood Elixir",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 250376,
+      "name": "Recipe: Lesser Mageblood Elixir",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 250374,
+      "name": "Recipe: Elixir of Sages",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 250373,
+      "name": "Recipe: Elixir of the Owl",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 250372,
+      "name": "Recipe: Elixir of Wicked Regeneration",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 250371,
+      "name": "Recipe: Elixir of Greater Fortitude",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 250369,
+      "name": "Recipe: Greater Cleric's Elixir",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 250367,
+      "name": "Recipe: Lesser Cleric's Elixir",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 250365,
+      "name": "Recipe: Elixir of the Phalanx",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 250364,
+      "name": "Recipe: Elixir of Cunning",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 249890,
+      "name": "Recipe: Wicked Smoothie",
+      "class": 9,
+      "favorCosts": [
+        90
+      ]
+    },
+    {
+      "id": 249889,
+      "name": "Recipe: Spicy Smoothie",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 249888,
+      "name": "Recipe: Calcified Smoothie",
+      "class": 9,
+      "favorCosts": [
+        60
+      ]
+    },
+    {
+      "id": 249887,
+      "name": "Recipe: Mrrggl Smrrthle",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 249886,
+      "name": "Recipe: Slimy Smoothie",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 249885,
+      "name": "Recipe: Venomous Smoothie",
+      "class": 9,
+      "favorCosts": [
+        30
+      ]
+    },
+    {
+      "id": 249539,
+      "name": "Formula: Enchant Bracer - Superior Deflection",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 249538,
+      "name": "Formula: Enchant Bracer - Superior Intellect",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 249537,
+      "name": "Formula: Brilliant Wand",
+      "class": 9,
+      "favorCosts": [
+        180
+      ]
+    },
+    {
+      "id": 249536,
+      "name": "Formula: Enchant Gloves - Holy Power",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 249535,
+      "name": "Formula: Enchant Gloves - Natural Power",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 249534,
+      "name": "Formula: Enchant Gloves - Arcane Power",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 249532,
+      "name": "Formula: Totem of Thunder",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 249530,
+      "name": "Formula: Libram of Holy Alacrity",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 249529,
+      "name": "Formula: Idol of the Dream",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 249526,
+      "name": "Formula: Enchant 2H Weapon - Mighty Healing Power",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 249525,
+      "name": "Formula: Enchant 2H Weapon - Mighty Spell Power",
+      "class": 9,
+      "favorCosts": [
+        240
+      ]
+    },
+    {
+      "id": 249510,
+      "name": "Formula: Enchant Chest - Absorption",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 249509,
+      "name": "Formula: Twisting Essence Jar",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 249508,
+      "name": "Formula: Truesilver Conduit",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 249507,
+      "name": "Formula: Dreamstaff",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 249506,
+      "name": "Formula: Radiant Staff",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 249505,
+      "name": "Formula: Enchant Necklace - Deflection",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 249504,
+      "name": "Formula: Enchant Necklace - Agility",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 249503,
+      "name": "Formula: Enchant Necklace - Healing Power",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 249502,
+      "name": "Formula: Enchant Necklace - Spell Power",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 249496,
+      "name": "Formula: Enchant Necklace - Strength",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 249495,
+      "name": "Formula: Totem of Ancestral Protection",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 249494,
+      "name": "Formula: Libram of Invocation",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 249493,
+      "name": "Formula: Talons of Wrath",
+      "class": 9,
+      "favorCosts": [
+        120
+      ]
+    },
+    {
+      "id": 249485,
+      "name": "Formula: Orb of Souls",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 249484,
+      "name": "Formula: Orb of Mystic Insight",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 249483,
+      "name": "Formula: Soulstaff",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 249482,
+      "name": "Formula: Glimmering Staff",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 249481,
+      "name": "Formula: Enchant Weapon - Revelation",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 249480,
+      "name": "Formula: Enchant Weapon - Recovery",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 249479,
+      "name": "Formula: Enchant Weapon - Insight",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 249478,
+      "name": "Formula: Polished Driftwood Icon",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 249477,
+      "name": "Formula: Tenets of the Silver Hand",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    },
+    {
+      "id": 249476,
+      "name": "Formula: Mystic Mushroom",
+      "class": 9,
+      "favorCosts": [
+        45
+      ]
+    }
+  ],
+  "notes": "Published currency-for list; mark recipes only when a referenced recipe item has a verified cost in currency 3402. Do not infer currency from Vendor acquisition alone."
+}
