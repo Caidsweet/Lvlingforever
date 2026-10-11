@@ -1,0 +1,1508 @@
+{
+  "spells": [
+    {
+      "cat": 9,
+      "displayName": "First Aid",
+      "id": 3273,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "First Aid",
+      "nskillup": 1,
+      "rank": "Apprentice",
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 100,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 53
+    },
+    {
+      "cat": 9,
+      "displayName": "First Aid",
+      "id": 3274,
+      "learnedat": 50,
+      "level": 0,
+      "name": "First Aid",
+      "nskillup": 1,
+      "rank": "Journeyman",
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 500,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 48
+    },
+    {
+      "cat": 9,
+      "colors": [
+        1,
+        30,
+        45,
+        60
+      ],
+      "creates": [
+        1251,
+        1,
+        1
+      ],
+      "displayName": "Linen Bandage",
+      "id": 3275,
+      "learnedat": 1,
+      "level": 0,
+      "name": "Linen Bandage",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2589,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 58
+    },
+    {
+      "cat": 9,
+      "colors": [
+        40,
+        50,
+        75,
+        100
+      ],
+      "creates": [
+        2581,
+        1,
+        1
+      ],
+      "displayName": "Heavy Linen Bandage",
+      "id": 3276,
+      "learnedat": 40,
+      "level": 0,
+      "name": "Heavy Linen Bandage",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2589,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 100,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 63
+    },
+    {
+      "cat": 9,
+      "colors": [
+        80,
+        80,
+        115,
+        150
+      ],
+      "creates": [
+        3530,
+        1,
+        1
+      ],
+      "displayName": "Wool Bandage",
+      "id": 3277,
+      "learnedat": 80,
+      "level": 0,
+      "name": "Wool Bandage",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2592,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 250,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 62
+    },
+    {
+      "cat": 9,
+      "colors": [
+        115,
+        115,
+        150,
+        185
+      ],
+      "creates": [
+        3531,
+        1,
+        1
+      ],
+      "displayName": "Heavy Wool Bandage",
+      "id": 3278,
+      "learnedat": 115,
+      "level": 0,
+      "name": "Heavy Wool Bandage",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2592,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 1000,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 80
+    },
+    {
+      "cat": 9,
+      "displayName": "First Aid",
+      "id": 7924,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "First Aid",
+      "nskillup": 1,
+      "rank": "Expert",
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 59
+    },
+    {
+      "cat": 9,
+      "colors": [
+        150,
+        150,
+        180,
+        210
+      ],
+      "creates": [
+        6450,
+        1,
+        1
+      ],
+      "displayName": "Silk Bandage",
+      "id": 7928,
+      "learnedat": 150,
+      "level": 0,
+      "name": "Silk Bandage",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          4306,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 5000,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 178
+    },
+    {
+      "cat": 9,
+      "colors": [
+        180,
+        180,
+        210,
+        240
+      ],
+      "creates": [
+        6451,
+        1,
+        1
+      ],
+      "displayName": "Heavy Silk Bandage",
+      "id": 7929,
+      "learnedat": 180,
+      "level": 0,
+      "name": "Heavy Silk Bandage",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          4306,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 119
+    },
+    {
+      "cat": 9,
+      "colors": [
+        80,
+        80,
+        115,
+        150
+      ],
+      "creates": [
+        6452,
+        3,
+        3
+      ],
+      "displayName": "Anti-Venom",
+      "id": 7934,
+      "learnedat": 80,
+      "level": 0,
+      "name": "Anti-Venom",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1475,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 250,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 55
+    },
+    {
+      "cat": 9,
+      "colors": [
+        130,
+        130,
+        165,
+        200
+      ],
+      "creates": [
+        6453,
+        3,
+        3
+      ],
+      "displayName": "Strong Anti-Venom",
+      "id": 7935,
+      "learnedat": 130,
+      "level": 0,
+      "name": "Strong Anti-Venom",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1288,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 61
+    },
+    {
+      "cat": 9,
+      "colors": [
+        210,
+        210,
+        240,
+        270
+      ],
+      "creates": [
+        8544,
+        1,
+        1
+      ],
+      "displayName": "Mageweave Bandage",
+      "id": 10840,
+      "learnedat": 210,
+      "level": 0,
+      "name": "Mageweave Bandage",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          4338,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 73
+    },
+    {
+      "cat": 9,
+      "colors": [
+        240,
+        240,
+        270,
+        300
+      ],
+      "creates": [
+        8545,
+        1,
+        1
+      ],
+      "displayName": "Heavy Mageweave Bandage",
+      "id": 10841,
+      "learnedat": 240,
+      "level": 0,
+      "name": "Heavy Mageweave Bandage",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          4338,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 57
+    },
+    {
+      "cat": 9,
+      "displayName": "First Aid",
+      "id": 10846,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "First Aid",
+      "nskillup": 1,
+      "rank": "Artisan",
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        4
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 48
+    },
+    {
+      "cat": 9,
+      "colors": [
+        260,
+        260,
+        290,
+        320
+      ],
+      "creates": [
+        14529,
+        1,
+        1
+      ],
+      "displayName": "Runecloth Bandage",
+      "id": 18629,
+      "learnedat": 260,
+      "level": 0,
+      "name": "Runecloth Bandage",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          14047,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 26
+    },
+    {
+      "cat": 9,
+      "colors": [
+        290,
+        290,
+        320,
+        350
+      ],
+      "creates": [
+        14530,
+        1,
+        1
+      ],
+      "displayName": "Heavy Runecloth Bandage",
+      "id": 18630,
+      "learnedat": 290,
+      "level": 0,
+      "name": "Heavy Runecloth Bandage",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          14047,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 44
+    },
+    {
+      "cat": 9,
+      "colors": [
+        300,
+        300,
+        330,
+        360
+      ],
+      "creates": [
+        19440,
+        3,
+        3
+      ],
+      "displayName": "Powerful Anti-Venom",
+      "id": 23787,
+      "learnedat": 300,
+      "level": 0,
+      "name": "Powerful Anti-Venom",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          19441,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 32
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        315,
+        327,
+        340
+      ],
+      "creates": [
+        232433,
+        1,
+        1
+      ],
+      "displayName": "Dense Runecloth Bandage",
+      "id": 470349,
+      "learnedat": 315,
+      "level": 0,
+      "name": "Dense Runecloth Bandage",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          14530,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 25
+    },
+    {
+      "cat": 9,
+      "creates": [
+        279968,
+        1,
+        1
+      ],
+      "displayName": "First Aid Kit",
+      "id": 1230117,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "First Aid Kit",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 1",
+      "reagents": [
+        [
+          1251,
+          3
+        ],
+        [
+          159,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        4,
+        6
+      ],
+      "trainingcost": 100,
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 103
+    },
+    {
+      "cat": 9,
+      "displayName": "First Aid",
+      "id": 1240927,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "First Aid",
+      "nskillup": 1,
+      "rank": "Apprentice",
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 12
+    },
+    {
+      "cat": 9,
+      "displayName": "First Aid",
+      "id": 1240928,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "First Aid",
+      "nskillup": 1,
+      "rank": "Journeyman",
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 20
+    },
+    {
+      "cat": 9,
+      "displayName": "First Aid",
+      "id": 1240929,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "First Aid",
+      "nskillup": 1,
+      "rank": "Expert",
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 25
+    },
+    {
+      "cat": 9,
+      "displayName": "First Aid",
+      "id": 1240930,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "First Aid",
+      "nskillup": 1,
+      "rank": "Artisan",
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 26
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        55,
+        75,
+        95
+      ],
+      "creates": [
+        118,
+        1,
+        1
+      ],
+      "displayName": "Minor Healing Potion",
+      "id": 1244431,
+      "learnedat": 55,
+      "level": 0,
+      "name": "Minor Healing Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3371,
+          1
+        ],
+        [
+          2678,
+          1
+        ],
+        [
+          2447,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 100,
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 111
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        85,
+        105,
+        125
+      ],
+      "creates": [
+        858,
+        1,
+        1
+      ],
+      "displayName": "Lesser Healing Potion",
+      "id": 1244432,
+      "learnedat": 85,
+      "level": 0,
+      "name": "Lesser Healing Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3371,
+          1
+        ],
+        [
+          2678,
+          2
+        ],
+        [
+          2450,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 150,
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 86
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        135,
+        155,
+        175
+      ],
+      "creates": [
+        929,
+        1,
+        1
+      ],
+      "displayName": "Healing Potion",
+      "id": 1244433,
+      "learnedat": 135,
+      "level": 0,
+      "name": "Healing Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3372,
+          1
+        ],
+        [
+          2692,
+          1
+        ],
+        [
+          2453,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 800,
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 99
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        175,
+        195,
+        215
+      ],
+      "creates": [
+        1710,
+        1,
+        1
+      ],
+      "displayName": "Greater Healing Potion",
+      "id": 1244434,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Greater Healing Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3372,
+          1
+        ],
+        [
+          2692,
+          3
+        ],
+        [
+          3357,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 207
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        230,
+        250,
+        270
+      ],
+      "creates": [
+        3928,
+        1,
+        1
+      ],
+      "displayName": "Superior Healing Potion",
+      "id": 1244435,
+      "learnedat": 230,
+      "level": 0,
+      "name": "Superior Healing Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          8925,
+          1
+        ],
+        [
+          3713,
+          1
+        ],
+        [
+          8838,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 53
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        290,
+        310,
+        330
+      ],
+      "creates": [
+        13446,
+        1,
+        1
+      ],
+      "displayName": "Major Healing Potion",
+      "id": 1244436,
+      "learnedat": 290,
+      "level": 0,
+      "name": "Major Healing Potion",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          8925,
+          1
+        ],
+        [
+          3713,
+          3
+        ],
+        [
+          13464,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 60
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        230,
+        260,
+        290
+      ],
+      "creates": [
+        255715,
+        3,
+        3
+      ],
+      "displayName": "Potent Anti-Venom",
+      "id": 1259341,
+      "learnedat": 230,
+      "level": 0,
+      "name": "Potent Anti-Venom",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          255645,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 34
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        90,
+        125,
+        160
+      ],
+      "creates": [
+        255716,
+        3,
+        3
+      ],
+      "displayName": "Simple Poultice",
+      "id": 1259342,
+      "learnedat": 90,
+      "level": 0,
+      "name": "Simple Poultice",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3174,
+          1
+        ],
+        [
+          2678,
+          1
+        ],
+        [
+          2723,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 250,
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 122
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        160,
+        190,
+        220
+      ],
+      "creates": [
+        255717,
+        3,
+        3
+      ],
+      "displayName": "Clever Poultice",
+      "id": 1259343,
+      "learnedat": 160,
+      "level": 0,
+      "name": "Clever Poultice",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1468,
+          1
+        ],
+        [
+          3713,
+          1
+        ],
+        [
+          2686,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 75
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        225,
+        255,
+        285
+      ],
+      "creates": [
+        255718,
+        3,
+        3
+      ],
+      "displayName": "Superior Poultice",
+      "id": 1259344,
+      "learnedat": 225,
+      "level": 0,
+      "name": "Superior Poultice",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          7070,
+          1
+        ],
+        [
+          2692,
+          1
+        ],
+        [
+          2596,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 36
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        295,
+        325,
+        355
+      ],
+      "creates": [
+        255719,
+        3,
+        3
+      ],
+      "displayName": "Powerful Poultice",
+      "id": 1259345,
+      "learnedat": 295,
+      "level": 0,
+      "name": "Powerful Poultice",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          7080,
+          1
+        ],
+        [
+          2692,
+          1
+        ],
+        [
+          2594,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 32
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        120,
+        155,
+        190
+      ],
+      "creates": [
+        255720,
+        1,
+        1
+      ],
+      "displayName": "Woolen Tourniquet",
+      "id": 1259347,
+      "learnedat": 120,
+      "level": 0,
+      "name": "Woolen Tourniquet",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2592,
+          2
+        ],
+        [
+          2321,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 1200,
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 63
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        220,
+        250,
+        280
+      ],
+      "creates": [
+        255721,
+        1,
+        1
+      ],
+      "displayName": "Leather Tourniquet",
+      "id": 1259348,
+      "learnedat": 220,
+      "level": 0,
+      "name": "Leather Tourniquet",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          4304,
+          2
+        ],
+        [
+          4291,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 43
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        280,
+        310,
+        340
+      ],
+      "creates": [
+        255722,
+        1,
+        1
+      ],
+      "displayName": "Surgical Tourniquet",
+      "id": 1259349,
+      "learnedat": 280,
+      "level": 0,
+      "name": "Surgical Tourniquet",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          8170,
+          2
+        ],
+        [
+          14047,
+          2
+        ],
+        [
+          8343,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 32
+    },
+    {
+      "cat": 9,
+      "creates": [
+        279940,
+        1,
+        1
+      ],
+      "displayName": "Toxin Study",
+      "id": 1262996,
+      "learnedat": 140,
+      "level": 0,
+      "name": "Toxin Study",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 2",
+      "reagents": [
+        [
+          6452,
+          1
+        ],
+        [
+          8544,
+          2
+        ],
+        [
+          4470,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 79
+    },
+    {
+      "cat": 9,
+      "creates": [
+        279951,
+        1,
+        1
+      ],
+      "displayName": "Plague Doctor's Laboratory",
+      "id": 1263001,
+      "learnedat": 300,
+      "level": 0,
+      "name": "Plague Doctor's Laboratory",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 4",
+      "reagents": [
+        [
+          4470,
+          2
+        ],
+        [
+          6453,
+          2
+        ],
+        [
+          14530,
+          5
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        129
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 64
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/spells/secondary-skills/first-aid",
+  "checked": "2026-10-11"
+}

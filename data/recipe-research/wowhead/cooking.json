@@ -1,0 +1,5974 @@
+{
+  "spells": [
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        25,
+        50,
+        75
+      ],
+      "displayName": "Basic Campfire",
+      "id": 818,
+      "learnedat": 25,
+      "level": 1,
+      "name": "Basic Campfire",
+      "nskillup": 1,
+      "reagents": [
+        [
+          4470,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 60
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        45,
+        65,
+        85
+      ],
+      "creates": [
+        2679,
+        1,
+        1
+      ],
+      "displayName": "Charred Wolf Meat",
+      "id": 2538,
+      "learnedat": 0,
+      "level": 0,
+      "name": "Charred Wolf Meat",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2672,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 59
+    },
+    {
+      "cat": 9,
+      "colors": [
+        10,
+        50,
+        70,
+        90
+      ],
+      "creates": [
+        2680,
+        1,
+        1
+      ],
+      "displayName": "Spiced Wolf Meat",
+      "id": 2539,
+      "learnedat": 10,
+      "level": 0,
+      "name": "Spiced Wolf Meat",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2672,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 50,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 86
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        45,
+        65,
+        85
+      ],
+      "creates": [
+        2681,
+        1,
+        1
+      ],
+      "displayName": "Roasted Boar Meat",
+      "id": 2540,
+      "learnedat": 0,
+      "level": 0,
+      "name": "Roasted Boar Meat",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          769,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 92
+    },
+    {
+      "cat": 9,
+      "colors": [
+        50,
+        90,
+        110,
+        130
+      ],
+      "creates": [
+        2684,
+        1,
+        1
+      ],
+      "displayName": "Coyote Steak",
+      "id": 2541,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Coyote Steak",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2673,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 100,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 76
+    },
+    {
+      "cat": 9,
+      "colors": [
+        50,
+        90,
+        110,
+        130
+      ],
+      "creates": [
+        724,
+        1,
+        1
+      ],
+      "displayName": "Goretusk Liver Pie",
+      "id": 2542,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Goretusk Liver Pie",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          723,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 34
+    },
+    {
+      "cat": 9,
+      "colors": [
+        75,
+        115,
+        135,
+        155
+      ],
+      "creates": [
+        733,
+        1,
+        1
+      ],
+      "displayName": "Westfall Stew",
+      "id": 2543,
+      "learnedat": 75,
+      "level": 0,
+      "name": "Westfall Stew",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          729,
+          1
+        ],
+        [
+          730,
+          1
+        ],
+        [
+          731,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 55
+    },
+    {
+      "cat": 9,
+      "colors": [
+        75,
+        115,
+        135,
+        155
+      ],
+      "creates": [
+        2683,
+        1,
+        1
+      ],
+      "displayName": "Crab Cake",
+      "id": 2544,
+      "learnedat": 75,
+      "level": 0,
+      "name": "Crab Cake",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2674,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 200,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 121
+    },
+    {
+      "cat": 9,
+      "colors": [
+        85,
+        125,
+        145,
+        165
+      ],
+      "creates": [
+        2682,
+        1,
+        1
+      ],
+      "displayName": "Cooked Crab Claw",
+      "id": 2545,
+      "learnedat": 85,
+      "level": 0,
+      "name": "Cooked Crab Claw",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2675,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        2,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 87
+    },
+    {
+      "cat": 9,
+      "colors": [
+        80,
+        120,
+        140,
+        160
+      ],
+      "creates": [
+        2687,
+        1,
+        1
+      ],
+      "displayName": "Dry Pork Ribs",
+      "id": 2546,
+      "learnedat": 80,
+      "level": 0,
+      "name": "Dry Pork Ribs",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2677,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 150,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 123
+    },
+    {
+      "cat": 9,
+      "colors": [
+        100,
+        135,
+        155,
+        175
+      ],
+      "creates": [
+        1082,
+        1,
+        1
+      ],
+      "displayName": "Redridge Goulash",
+      "id": 2547,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Redridge Goulash",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1081,
+          1
+        ],
+        [
+          1080,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 136
+    },
+    {
+      "cat": 9,
+      "colors": [
+        110,
+        130,
+        150,
+        170
+      ],
+      "creates": [
+        2685,
+        1,
+        1
+      ],
+      "displayName": "Succulent Pork Ribs",
+      "id": 2548,
+      "learnedat": 110,
+      "level": 0,
+      "name": "Succulent Pork Ribs",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2677,
+          2
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        2,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 64
+    },
+    {
+      "cat": 9,
+      "colors": [
+        100,
+        140,
+        160,
+        180
+      ],
+      "creates": [
+        1017,
+        3,
+        3
+      ],
+      "displayName": "Seasoned Wolf Kabob",
+      "id": 2549,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Seasoned Wolf Kabob",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1015,
+          2
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 120
+    },
+    {
+      "cat": 9,
+      "displayName": "Cooking",
+      "id": 2550,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Cooking",
+      "nskillup": 1,
+      "rank": "Apprentice ",
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 100,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 64
+    },
+    {
+      "cat": 9,
+      "colors": [
+        25,
+        60,
+        80,
+        100
+      ],
+      "creates": [
+        2888,
+        1,
+        1
+      ],
+      "displayName": "Beer Basted Boar Ribs",
+      "id": 2795,
+      "learnedat": 25,
+      "level": 0,
+      "name": "Beer Basted Boar Ribs",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2886,
+          1
+        ],
+        [
+          2894,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 64
+    },
+    {
+      "cat": 9,
+      "displayName": "Cooking",
+      "id": 3102,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Cooking",
+      "nskillup": 1,
+      "rank": "Journeyman",
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 500,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 59
+    },
+    {
+      "cat": 9,
+      "colors": [
+        80,
+        120,
+        140,
+        160
+      ],
+      "creates": [
+        3662,
+        1,
+        1
+      ],
+      "displayName": "Crocolisk Steak",
+      "id": 3370,
+      "learnedat": 80,
+      "level": 0,
+      "name": "Crocolisk Steak",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2924,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 82
+    },
+    {
+      "cat": 9,
+      "colors": [
+        60,
+        100,
+        120,
+        140
+      ],
+      "creates": [
+        3220,
+        2,
+        2
+      ],
+      "displayName": "Blood Sausage",
+      "id": 3371,
+      "learnedat": 60,
+      "level": 0,
+      "name": "Blood Sausage",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3173,
+          1
+        ],
+        [
+          3172,
+          1
+        ],
+        [
+          3174,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 110
+    },
+    {
+      "cat": 9,
+      "colors": [
+        90,
+        130,
+        150,
+        170
+      ],
+      "creates": [
+        3663,
+        1,
+        1
+      ],
+      "displayName": "Murloc Fin Soup",
+      "id": 3372,
+      "learnedat": 90,
+      "level": 0,
+      "name": "Murloc Fin Soup",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1468,
+          2
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 42
+    },
+    {
+      "cat": 9,
+      "colors": [
+        120,
+        160,
+        180,
+        200
+      ],
+      "creates": [
+        3664,
+        1,
+        1
+      ],
+      "displayName": "Crocolisk Gumbo",
+      "id": 3373,
+      "learnedat": 120,
+      "level": 0,
+      "name": "Crocolisk Gumbo",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3667,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 92
+    },
+    {
+      "cat": 9,
+      "colors": [
+        130,
+        170,
+        190,
+        210
+      ],
+      "creates": [
+        3665,
+        1,
+        1
+      ],
+      "displayName": "Curiously Tasty Omelet",
+      "id": 3376,
+      "learnedat": 130,
+      "level": 0,
+      "name": "Curiously Tasty Omelet",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3685,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 177
+    },
+    {
+      "cat": 9,
+      "colors": [
+        110,
+        150,
+        170,
+        190
+      ],
+      "creates": [
+        3666,
+        1,
+        1
+      ],
+      "displayName": "Gooey Spider Cake",
+      "id": 3377,
+      "learnedat": 110,
+      "level": 0,
+      "name": "Gooey Spider Cake",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2251,
+          2
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 123
+    },
+    {
+      "cat": 9,
+      "colors": [
+        110,
+        150,
+        170,
+        190
+      ],
+      "creates": [
+        3726,
+        1,
+        1
+      ],
+      "displayName": "Big Bear Steak",
+      "id": 3397,
+      "learnedat": 110,
+      "level": 0,
+      "name": "Big Bear Steak",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3730,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 123
+    },
+    {
+      "cat": 9,
+      "colors": [
+        125,
+        175,
+        195,
+        215
+      ],
+      "creates": [
+        3727,
+        1,
+        1
+      ],
+      "displayName": "Hot Lion Chops",
+      "id": 3398,
+      "learnedat": 125,
+      "level": 0,
+      "name": "Hot Lion Chops",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3731,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 95
+    },
+    {
+      "cat": 9,
+      "colors": [
+        150,
+        190,
+        210,
+        230
+      ],
+      "creates": [
+        3728,
+        1,
+        1
+      ],
+      "displayName": "Tasty Lion Steak",
+      "id": 3399,
+      "learnedat": 150,
+      "level": 0,
+      "name": "Tasty Lion Steak",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3731,
+          2
+        ],
+        [
+          3713,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 88
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        215,
+        235,
+        255
+      ],
+      "creates": [
+        3729,
+        1,
+        1
+      ],
+      "displayName": "Soothing Turtle Bisque",
+      "id": 3400,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Soothing Turtle Bisque",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3712,
+          1
+        ],
+        [
+          3713,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 68
+    },
+    {
+      "cat": 9,
+      "displayName": "Cooking",
+      "id": 3413,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Cooking",
+      "nskillup": 1,
+      "rank": "Expert",
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 96
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        215,
+        235,
+        255
+      ],
+      "creates": [
+        4457,
+        1,
+        1
+      ],
+      "displayName": "Barbecued Buzzard Wing",
+      "id": 4094,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Barbecued Buzzard Wing",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3404,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5,
+        6
+      ],
+      "trainingcost": 500,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 48
+    },
+    {
+      "cat": 9,
+      "colors": [
+        10,
+        50,
+        70,
+        90
+      ],
+      "creates": [
+        5472,
+        1,
+        1
+      ],
+      "displayName": "Kaldorei Spider Kabob",
+      "id": 6412,
+      "learnedat": 10,
+      "level": 0,
+      "name": "Kaldorei Spider Kabob",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          5465,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 299
+    },
+    {
+      "cat": 9,
+      "colors": [
+        20,
+        60,
+        80,
+        100
+      ],
+      "creates": [
+        5473,
+        1,
+        1
+      ],
+      "displayName": "Scorpid Surprise",
+      "id": 6413,
+      "learnedat": 20,
+      "level": 0,
+      "name": "Scorpid Surprise",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          5466,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 111
+    },
+    {
+      "cat": 9,
+      "colors": [
+        35,
+        75,
+        95,
+        115
+      ],
+      "creates": [
+        5474,
+        2,
+        2
+      ],
+      "displayName": "Roasted Kodo Meat",
+      "id": 6414,
+      "learnedat": 35,
+      "level": 0,
+      "name": "Roasted Kodo Meat",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          5467,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 43
+    },
+    {
+      "cat": 9,
+      "colors": [
+        50,
+        90,
+        110,
+        130
+      ],
+      "creates": [
+        5476,
+        2,
+        2
+      ],
+      "displayName": "Fillet of Frenzy",
+      "id": 6415,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Fillet of Frenzy",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          5468,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 63
+    },
+    {
+      "cat": 9,
+      "colors": [
+        50,
+        90,
+        110,
+        130
+      ],
+      "creates": [
+        5477,
+        2,
+        2
+      ],
+      "displayName": "Strider Stew",
+      "id": 6416,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Strider Stew",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          5469,
+          1
+        ],
+        [
+          4536,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 195
+    },
+    {
+      "cat": 9,
+      "colors": [
+        90,
+        130,
+        150,
+        170
+      ],
+      "creates": [
+        5478,
+        2,
+        2
+      ],
+      "displayName": "Dig Rat Stew",
+      "id": 6417,
+      "learnedat": 90,
+      "level": 0,
+      "name": "Dig Rat Stew",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          5051,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 31
+    },
+    {
+      "cat": 9,
+      "colors": [
+        100,
+        140,
+        160,
+        180
+      ],
+      "creates": [
+        5479,
+        2,
+        2
+      ],
+      "displayName": "Crispy Lizard Tail",
+      "id": 6418,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Crispy Lizard Tail",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          5470,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 104
+    },
+    {
+      "cat": 9,
+      "colors": [
+        110,
+        150,
+        170,
+        190
+      ],
+      "creates": [
+        5480,
+        2,
+        2
+      ],
+      "displayName": "Lean Venison",
+      "id": 6419,
+      "learnedat": 110,
+      "level": 0,
+      "name": "Lean Venison",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          5471,
+          1
+        ],
+        [
+          2678,
+          4
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 109
+    },
+    {
+      "cat": 9,
+      "colors": [
+        50,
+        90,
+        110,
+        130
+      ],
+      "creates": [
+        5525,
+        1,
+        1
+      ],
+      "displayName": "Boiled Clams",
+      "id": 6499,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Boiled Clams",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          5503,
+          1
+        ],
+        [
+          159,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 100,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 150
+    },
+    {
+      "cat": 9,
+      "colors": [
+        125,
+        165,
+        185,
+        205
+      ],
+      "creates": [
+        5527,
+        1,
+        1
+      ],
+      "displayName": "Goblin Deviled Clams",
+      "id": 6500,
+      "learnedat": 125,
+      "level": 0,
+      "name": "Goblin Deviled Clams",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          5504,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 300,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 193
+    },
+    {
+      "cat": 9,
+      "colors": [
+        90,
+        130,
+        150,
+        170
+      ],
+      "creates": [
+        5526,
+        1,
+        1
+      ],
+      "displayName": "Clam Chowder",
+      "id": 6501,
+      "learnedat": 90,
+      "level": 0,
+      "name": "Clam Chowder",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          5503,
+          1
+        ],
+        [
+          1179,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 101
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        215,
+        235,
+        255
+      ],
+      "creates": [
+        6038,
+        1,
+        1
+      ],
+      "displayName": "Giant Clam Scorcho",
+      "id": 7213,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Giant Clam Scorcho",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          4655,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 60
+    },
+    {
+      "cat": 9,
+      "colors": [
+        1,
+        45,
+        65,
+        85
+      ],
+      "creates": [
+        6290,
+        1,
+        1
+      ],
+      "displayName": "Brilliant Smallfish",
+      "id": 7751,
+      "learnedat": 1,
+      "level": 0,
+      "name": "Brilliant Smallfish",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          6291,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 316
+    },
+    {
+      "cat": 9,
+      "colors": [
+        1,
+        45,
+        65,
+        85
+      ],
+      "creates": [
+        787,
+        1,
+        1
+      ],
+      "displayName": "Slitherskin Mackerel",
+      "id": 7752,
+      "learnedat": 1,
+      "level": 0,
+      "name": "Slitherskin Mackerel",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          6303,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 168
+    },
+    {
+      "cat": 9,
+      "colors": [
+        50,
+        90,
+        110,
+        130
+      ],
+      "creates": [
+        4592,
+        1,
+        1
+      ],
+      "displayName": "Longjaw Mud Snapper",
+      "id": 7753,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Longjaw Mud Snapper",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          6289,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 391
+    },
+    {
+      "cat": 9,
+      "colors": [
+        50,
+        90,
+        110,
+        130
+      ],
+      "creates": [
+        6316,
+        1,
+        1
+      ],
+      "displayName": "Loch Frenzy Delight",
+      "id": 7754,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Loch Frenzy Delight",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          6317,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 57
+    },
+    {
+      "cat": 9,
+      "colors": [
+        100,
+        140,
+        160,
+        180
+      ],
+      "creates": [
+        4593,
+        1,
+        1
+      ],
+      "displayName": "Bristle Whisker Catfish",
+      "id": 7755,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Bristle Whisker Catfish",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          6308,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 352
+    },
+    {
+      "cat": 9,
+      "colors": [
+        50,
+        90,
+        110,
+        130
+      ],
+      "creates": [
+        5095,
+        1,
+        1
+      ],
+      "displayName": "Rainbow Fin Albacore",
+      "id": 7827,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Rainbow Fin Albacore",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          6361,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 154
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        190,
+        210,
+        230
+      ],
+      "creates": [
+        4594,
+        1,
+        1
+      ],
+      "displayName": "Rockscale Cod",
+      "id": 7828,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Rockscale Cod",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          6362,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 89
+    },
+    {
+      "cat": 9,
+      "colors": [
+        85,
+        125,
+        145,
+        165
+      ],
+      "creates": [
+        6657,
+        1,
+        1
+      ],
+      "displayName": "Savory Deviate Delight",
+      "id": 8238,
+      "learnedat": 85,
+      "level": 0,
+      "name": "Savory Deviate Delight",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          6522,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 132
+    },
+    {
+      "cat": 9,
+      "colors": [
+        1,
+        45,
+        65,
+        85
+      ],
+      "creates": [
+        6888,
+        1,
+        1
+      ],
+      "displayName": "Herb Baked Egg",
+      "id": 8604,
+      "learnedat": 1,
+      "level": 0,
+      "name": "Herb Baked Egg",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          6889,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 77
+    },
+    {
+      "cat": 9,
+      "colors": [
+        40,
+        80,
+        100,
+        120
+      ],
+      "creates": [
+        6890,
+        1,
+        1
+      ],
+      "displayName": "Smoked Bear Meat",
+      "id": 8607,
+      "learnedat": 40,
+      "level": 0,
+      "name": "Smoked Bear Meat",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3173,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 142
+    },
+    {
+      "cat": 9,
+      "colors": [
+        60,
+        100,
+        120,
+        140
+      ],
+      "creates": [
+        7676,
+        1,
+        1
+      ],
+      "displayName": "Thistle Tea",
+      "id": 9513,
+      "learnedat": 60,
+      "level": 0,
+      "name": "Thistle Tea",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2452,
+          1
+        ],
+        [
+          159,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4,
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 155
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        215,
+        235,
+        255
+      ],
+      "creates": [
+        10841,
+        4,
+        4
+      ],
+      "displayName": "Goldthorn Tea",
+      "id": 13028,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Goldthorn Tea",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3821,
+          1
+        ],
+        [
+          159,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 76
+    },
+    {
+      "cat": 9,
+      "colors": [
+        125,
+        165,
+        185,
+        205
+      ],
+      "creates": [
+        12209,
+        1,
+        1
+      ],
+      "displayName": "Lean Wolf Steak",
+      "id": 15853,
+      "learnedat": 125,
+      "level": 0,
+      "name": "Lean Wolf Steak",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1015,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 120
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        215,
+        235,
+        255
+      ],
+      "creates": [
+        12210,
+        1,
+        1
+      ],
+      "displayName": "Roast Raptor",
+      "id": 15855,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Roast Raptor",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12184,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 61
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        215,
+        235,
+        255
+      ],
+      "creates": [
+        13851,
+        1,
+        1
+      ],
+      "displayName": "Hot Wolf Ribs",
+      "id": 15856,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Hot Wolf Ribs",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12203,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 117
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        215,
+        235,
+        255
+      ],
+      "creates": [
+        12212,
+        2,
+        2
+      ],
+      "displayName": "Jungle Stew",
+      "id": 15861,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Jungle Stew",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12202,
+          1
+        ],
+        [
+          159,
+          1
+        ],
+        [
+          4536,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 80
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        215,
+        235,
+        255
+      ],
+      "creates": [
+        12213,
+        1,
+        1
+      ],
+      "displayName": "Carrion Surprise",
+      "id": 15863,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Carrion Surprise",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12037,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 31
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        215,
+        235,
+        255
+      ],
+      "creates": [
+        12214,
+        1,
+        1
+      ],
+      "displayName": "Mystery Stew",
+      "id": 15865,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Mystery Stew",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12037,
+          1
+        ],
+        [
+          2596,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 28
+    },
+    {
+      "cat": 9,
+      "colors": [
+        200,
+        240,
+        260,
+        280
+      ],
+      "creates": [
+        12217,
+        1,
+        1
+      ],
+      "displayName": "Dragonbreath Chili",
+      "id": 15906,
+      "learnedat": 200,
+      "level": 0,
+      "name": "Dragonbreath Chili",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12037,
+          1
+        ],
+        [
+          4402,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 120
+    },
+    {
+      "cat": 9,
+      "colors": [
+        200,
+        240,
+        260,
+        280
+      ],
+      "creates": [
+        12215,
+        2,
+        2
+      ],
+      "displayName": "Heavy Kodo Stew",
+      "id": 15910,
+      "learnedat": 200,
+      "level": 0,
+      "name": "Heavy Kodo Stew",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12204,
+          2
+        ],
+        [
+          3713,
+          1
+        ],
+        [
+          159,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 82
+    },
+    {
+      "cat": 9,
+      "colors": [
+        225,
+        265,
+        285,
+        305
+      ],
+      "creates": [
+        12216,
+        1,
+        1
+      ],
+      "displayName": "Spiced Chili Crab",
+      "id": 15915,
+      "learnedat": 225,
+      "level": 0,
+      "name": "Spiced Chili Crab",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12206,
+          1
+        ],
+        [
+          2692,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 46
+    },
+    {
+      "cat": 9,
+      "colors": [
+        225,
+        265,
+        285,
+        305
+      ],
+      "creates": [
+        12218,
+        1,
+        1
+      ],
+      "displayName": "Monster Omelet",
+      "id": 15933,
+      "learnedat": 225,
+      "level": 0,
+      "name": "Monster Omelet",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12207,
+          1
+        ],
+        [
+          3713,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 41
+    },
+    {
+      "cat": 9,
+      "colors": [
+        1,
+        45,
+        65,
+        85
+      ],
+      "creates": [
+        12224,
+        1,
+        1
+      ],
+      "displayName": "Crispy Bat Wing",
+      "id": 15935,
+      "learnedat": 1,
+      "level": 0,
+      "name": "Crispy Bat Wing",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12223,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 108
+    },
+    {
+      "cat": 9,
+      "colors": [
+        225,
+        265,
+        285,
+        305
+      ],
+      "creates": [
+        6887,
+        1,
+        1
+      ],
+      "displayName": "Spotted Yellowtail",
+      "id": 18238,
+      "learnedat": 225,
+      "level": 0,
+      "name": "Spotted Yellowtail",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          4603,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 70
+    },
+    {
+      "cat": 9,
+      "colors": [
+        225,
+        265,
+        285,
+        305
+      ],
+      "creates": [
+        13927,
+        1,
+        1
+      ],
+      "displayName": "Cooked Glossy Mightfish",
+      "id": 18239,
+      "learnedat": 225,
+      "level": 0,
+      "name": "Cooked Glossy Mightfish",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          13754,
+          1
+        ],
+        [
+          3713,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 33
+    },
+    {
+      "cat": 9,
+      "colors": [
+        240,
+        280,
+        300,
+        320
+      ],
+      "creates": [
+        13928,
+        1,
+        1
+      ],
+      "displayName": "Grilled Squid",
+      "id": 18240,
+      "learnedat": 240,
+      "level": 0,
+      "name": "Grilled Squid",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          13755,
+          1
+        ],
+        [
+          3713,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 40
+    },
+    {
+      "cat": 9,
+      "colors": [
+        225,
+        265,
+        285,
+        305
+      ],
+      "creates": [
+        13930,
+        1,
+        1
+      ],
+      "displayName": "Filet of Redgill",
+      "id": 18241,
+      "learnedat": 225,
+      "level": 0,
+      "name": "Filet of Redgill",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          13758,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 65
+    },
+    {
+      "cat": 9,
+      "colors": [
+        240,
+        280,
+        300,
+        320
+      ],
+      "creates": [
+        13929,
+        1,
+        1
+      ],
+      "displayName": "Hot Smoked Bass",
+      "id": 18242,
+      "learnedat": 240,
+      "level": 0,
+      "name": "Hot Smoked Bass",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          13756,
+          1
+        ],
+        [
+          2692,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 35
+    },
+    {
+      "cat": 9,
+      "colors": [
+        250,
+        290,
+        310,
+        330
+      ],
+      "creates": [
+        13931,
+        1,
+        1
+      ],
+      "displayName": "Nightfin Soup",
+      "id": 18243,
+      "learnedat": 250,
+      "level": 0,
+      "name": "Nightfin Soup",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          13759,
+          1
+        ],
+        [
+          159,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 62
+    },
+    {
+      "cat": 9,
+      "colors": [
+        250,
+        290,
+        310,
+        330
+      ],
+      "creates": [
+        13932,
+        1,
+        1
+      ],
+      "displayName": "Poached Sunscale Salmon",
+      "id": 18244,
+      "learnedat": 250,
+      "level": 0,
+      "name": "Poached Sunscale Salmon",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          13760,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 59
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        315,
+        335,
+        355
+      ],
+      "creates": [
+        13933,
+        1,
+        1
+      ],
+      "displayName": "Lobster Stew",
+      "id": 18245,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Lobster Stew",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          13888,
+          1
+        ],
+        [
+          159,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 27
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        315,
+        335,
+        355
+      ],
+      "creates": [
+        13934,
+        1,
+        1
+      ],
+      "displayName": "Mightfish Steak",
+      "id": 18246,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Mightfish Steak",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          13893,
+          1
+        ],
+        [
+          2692,
+          1
+        ],
+        [
+          3713,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 38
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        315,
+        335,
+        355
+      ],
+      "creates": [
+        13935,
+        1,
+        1
+      ],
+      "displayName": "Baked Salmon",
+      "id": 18247,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Baked Salmon",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          13889,
+          1
+        ],
+        [
+          3713,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 41
+    },
+    {
+      "cat": 9,
+      "displayName": "Cooking",
+      "id": 18260,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Cooking",
+      "nskillup": 1,
+      "rank": "Artisan",
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 66
+    },
+    {
+      "cat": 9,
+      "colors": [
+        225,
+        265,
+        285,
+        305
+      ],
+      "creates": [
+        16766,
+        2,
+        2
+      ],
+      "displayName": "Undermine Clam Chowder",
+      "id": 20626,
+      "learnedat": 225,
+      "level": 0,
+      "name": "Undermine Clam Chowder",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          7974,
+          2
+        ],
+        [
+          2692,
+          1
+        ],
+        [
+          1179,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 43
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        215,
+        235,
+        255
+      ],
+      "creates": [
+        8364,
+        1,
+        1
+      ],
+      "displayName": "Mithril Headed Trout",
+      "id": 20916,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Mithril Headed Trout",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          8365,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 263
+    },
+    {
+      "cat": 9,
+      "colors": [
+        1,
+        45,
+        65,
+        85
+      ],
+      "creates": [
+        17197,
+        1,
+        1
+      ],
+      "displayName": "Gingerbread Cookie",
+      "id": 21143,
+      "learnedat": 1,
+      "level": 0,
+      "name": "Gingerbread Cookie",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          6889,
+          1
+        ],
+        [
+          17194,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 24
+    },
+    {
+      "cat": 9,
+      "colors": [
+        35,
+        75,
+        95,
+        115
+      ],
+      "creates": [
+        17198,
+        1,
+        1
+      ],
+      "displayName": "Egg Nog",
+      "id": 21144,
+      "learnedat": 35,
+      "level": 0,
+      "name": "Egg Nog",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          6889,
+          1
+        ],
+        [
+          1179,
+          1
+        ],
+        [
+          17196,
+          1
+        ],
+        [
+          17194,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 27
+    },
+    {
+      "cat": 9,
+      "colors": [
+        200,
+        240,
+        260,
+        280
+      ],
+      "creates": [
+        17222,
+        1,
+        1
+      ],
+      "displayName": "Spider Sausage",
+      "id": 21175,
+      "learnedat": 200,
+      "level": 0,
+      "name": "Spider Sausage",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12205,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 4000,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 43
+    },
+    {
+      "cat": 9,
+      "colors": [
+        225,
+        265,
+        285,
+        305
+      ],
+      "creates": [
+        18045,
+        1,
+        1
+      ],
+      "displayName": "Tender Wolf Steak",
+      "id": 22480,
+      "learnedat": 225,
+      "level": 0,
+      "name": "Tender Wolf Steak",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12208,
+          1
+        ],
+        [
+          3713,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 57
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        315,
+        335,
+        355
+      ],
+      "creates": [
+        18254,
+        1,
+        1
+      ],
+      "displayName": "Runn Tum Tuber Surprise",
+      "id": 22761,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Runn Tum Tuber Surprise",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          18255,
+          1
+        ],
+        [
+          3713,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 20
+    },
+    {
+      "cat": 9,
+      "colors": [
+        150,
+        160,
+        180,
+        200
+      ],
+      "creates": [
+        20074,
+        1,
+        1
+      ],
+      "displayName": "Heavy Crocolisk Stew",
+      "id": 24418,
+      "learnedat": 150,
+      "level": 0,
+      "name": "Heavy Crocolisk Stew",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3667,
+          2
+        ],
+        [
+          3713,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 147
+    },
+    {
+      "cat": 9,
+      "colors": [
+        285,
+        325,
+        345,
+        365
+      ],
+      "creates": [
+        20452,
+        1,
+        1
+      ],
+      "displayName": "Smoked Desert Dumplings",
+      "id": 24801,
+      "learnedat": 285,
+      "level": 0,
+      "name": "Smoked Desert Dumplings",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          20424,
+          1
+        ],
+        [
+          3713,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "updated",
+        "labels": [
+          "new_icon",
+          "hidden_change"
+        ],
+        "lines": [
+          "New icon"
+        ],
+        "before": {
+          "name": "Smoked Desert Dumplings",
+          "rank": "",
+          "cost": "",
+          "range": "",
+          "cast": "3 sec cast",
+          "cooldown": "",
+          "text": ""
+        },
+        "after": {
+          "name": "Smoked Desert Dumplings",
+          "rank": "",
+          "cost": "",
+          "range": "",
+          "cast": "3 sec cast",
+          "cooldown": "",
+          "text": "",
+          "notShown": [
+            "New icon"
+          ]
+        }
+      },
+      "popularity": 35
+    },
+    {
+      "cat": 9,
+      "colors": [
+        300,
+        325,
+        345,
+        365
+      ],
+      "creates": [
+        21023,
+        5,
+        5
+      ],
+      "displayName": "Dirge's Kickin' Chimaerok Chops",
+      "id": 25659,
+      "learnedat": 300,
+      "level": 0,
+      "name": "Dirge's Kickin' Chimaerok Chops",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2692,
+          1
+        ],
+        [
+          9061,
+          1
+        ],
+        [
+          8150,
+          1
+        ],
+        [
+          21024,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 29
+    },
+    {
+      "cat": 9,
+      "colors": [
+        80,
+        120,
+        140,
+        160
+      ],
+      "creates": [
+        21072,
+        1,
+        1
+      ],
+      "displayName": "Smoked Sagefish",
+      "id": 25704,
+      "learnedat": 80,
+      "level": 0,
+      "name": "Smoked Sagefish",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          21071,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 150
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        215,
+        235,
+        255
+      ],
+      "creates": [
+        21217,
+        1,
+        1
+      ],
+      "displayName": "Sagefish Delight",
+      "id": 25954,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Sagefish Delight",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          21153,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 145
+    },
+    {
+      "cat": 9,
+      "colors": [
+        300,
+        325,
+        345,
+        365
+      ],
+      "creates": [
+        232436,
+        1,
+        1
+      ],
+      "displayName": "Darkclaw Bisque",
+      "id": 470359,
+      "learnedat": 300,
+      "level": 0,
+      "name": "Darkclaw Bisque",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          13888,
+          1
+        ],
+        [
+          227813,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 30
+    },
+    {
+      "cat": 9,
+      "colors": [
+        300,
+        325,
+        345,
+        365
+      ],
+      "creates": [
+        232438,
+        1,
+        1
+      ],
+      "displayName": "Smoked Redgill",
+      "id": 470370,
+      "learnedat": 300,
+      "level": 0,
+      "name": "Smoked Redgill",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          13758,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 41
+    },
+    {
+      "cat": 9,
+      "colors": [
+        250,
+        260,
+        270,
+        280
+      ],
+      "creates": [
+        238637,
+        2,
+        2
+      ],
+      "displayName": "Prowler Steak",
+      "id": 1225758,
+      "learnedat": 250,
+      "level": 0,
+      "name": "Prowler Steak",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12202,
+          2
+        ],
+        [
+          239016,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 33
+    },
+    {
+      "cat": 9,
+      "colors": [
+        250,
+        260,
+        270,
+        280
+      ],
+      "creates": [
+        238638,
+        2,
+        2
+      ],
+      "displayName": "Filet o' Flank",
+      "id": 1225759,
+      "learnedat": 250,
+      "level": 0,
+      "name": "Filet o' Flank",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12203,
+          2
+        ],
+        [
+          239016,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 34
+    },
+    {
+      "cat": 9,
+      "colors": [
+        250,
+        260,
+        270,
+        280
+      ],
+      "creates": [
+        238639,
+        2,
+        2
+      ],
+      "displayName": "Sunrise Omelette",
+      "id": 1225760,
+      "learnedat": 250,
+      "level": 0,
+      "name": "Sunrise Omelette",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12207,
+          2
+        ],
+        [
+          239016,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 29
+    },
+    {
+      "cat": 9,
+      "colors": [
+        280,
+        290,
+        300,
+        310
+      ],
+      "creates": [
+        238641,
+        1,
+        1
+      ],
+      "displayName": "Specklefin Feast",
+      "id": 1225762,
+      "learnedat": 280,
+      "level": 0,
+      "name": "Specklefin Feast",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+        [
+          4603,
+          12
+        ],
+        [
+          12184,
+          4
+        ],
+        [
+          6362,
+          3
+        ],
+        [
+          239017,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 42
+    },
+    {
+      "cat": 9,
+      "colors": [
+        280,
+        290,
+        300,
+        310
+      ],
+      "creates": [
+        238642,
+        1,
+        1
+      ],
+      "displayName": "Grand Lobster Banquet",
+      "id": 1225763,
+      "learnedat": 280,
+      "level": 0,
+      "name": "Grand Lobster Banquet",
+      "nskillup": 1,
+      "quality": 2,
+      "reagents": [
+        [
+          13888,
+          12
+        ],
+        [
+          3712,
+          4
+        ],
+        [
+          3404,
+          3
+        ],
+        [
+          239017,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 32
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        0,
+        0,
+        20
+      ],
+      "creates": [
+        279981,
+        0,
+        0
+      ],
+      "displayName": "Basic Campfire",
+      "id": 1229737,
+      "learnedat": 20,
+      "level": 0,
+      "name": "Basic Campfire",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 1",
+      "reagents": [
+        [
+          4470,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 100,
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 151
+    },
+    {
+      "cat": 9,
+      "displayName": "Cooking",
+      "id": 1240945,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Cooking",
+      "nskillup": 1,
+      "rank": "Apprentice",
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 14
+    },
+    {
+      "cat": 9,
+      "displayName": "Cooking",
+      "id": 1240956,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Cooking",
+      "nskillup": 1,
+      "rank": "Journeyman",
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 19
+    },
+    {
+      "cat": 9,
+      "displayName": "Cooking",
+      "id": 1240967,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Cooking",
+      "nskillup": 1,
+      "rank": "Expert",
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 33
+    },
+    {
+      "cat": 9,
+      "displayName": "Cooking",
+      "id": 1240980,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Cooking",
+      "nskillup": 1,
+      "rank": "Artisan",
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 14
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        210,
+        215,
+        220
+      ],
+      "creates": [
+        8957,
+        1,
+        1
+      ],
+      "displayName": "Spinefin Halibut",
+      "id": 1247741,
+      "learnedat": 210,
+      "level": 0,
+      "name": "Spinefin Halibut",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          8959,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 53
+    },
+    {
+      "cat": 9,
+      "colors": [
+        25,
+        30,
+        37,
+        45
+      ],
+      "creates": [
+        249865,
+        1,
+        1
+      ],
+      "displayName": "Peace Tea",
+      "id": 1249957,
+      "learnedat": 25,
+      "level": 0,
+      "name": "Peace Tea",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          159,
+          1
+        ],
+        [
+          2447,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 210
+    },
+    {
+      "cat": 9,
+      "colors": [
+        100,
+        105,
+        115,
+        125
+      ],
+      "creates": [
+        249866,
+        1,
+        1
+      ],
+      "displayName": "Royal Tea",
+      "id": 1249958,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Royal Tea",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1179,
+          1
+        ],
+        [
+          785,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 106
+    },
+    {
+      "cat": 9,
+      "colors": [
+        125,
+        155,
+        170,
+        185
+      ],
+      "creates": [
+        249867,
+        1,
+        1
+      ],
+      "displayName": "Root Tea",
+      "id": 1249959,
+      "learnedat": 125,
+      "level": 0,
+      "name": "Root Tea",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1205,
+          1
+        ],
+        [
+          3357,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 154
+    },
+    {
+      "cat": 9,
+      "colors": [
+        180,
+        195,
+        215,
+        235
+      ],
+      "creates": [
+        249868,
+        1,
+        1
+      ],
+      "displayName": "Triage Tea",
+      "id": 1249960,
+      "learnedat": 180,
+      "level": 0,
+      "name": "Triage Tea",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1708,
+          1
+        ],
+        [
+          3818,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 182
+    },
+    {
+      "cat": 9,
+      "colors": [
+        200,
+        220,
+        235,
+        250
+      ],
+      "creates": [
+        249869,
+        1,
+        1
+      ],
+      "displayName": "Sunny Tea",
+      "id": 1249961,
+      "learnedat": 200,
+      "level": 0,
+      "name": "Sunny Tea",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1645,
+          1
+        ],
+        [
+          8838,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 55
+    },
+    {
+      "cat": 9,
+      "colors": [
+        250,
+        260,
+        275,
+        290
+      ],
+      "creates": [
+        249870,
+        1,
+        1
+      ],
+      "displayName": "Sage's Tea",
+      "id": 1249962,
+      "learnedat": 250,
+      "level": 0,
+      "name": "Sage's Tea",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          8766,
+          1
+        ],
+        [
+          13465,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 55
+    },
+    {
+      "cat": 9,
+      "colors": [
+        25,
+        30,
+        37,
+        45
+      ],
+      "creates": [
+        249871,
+        1,
+        1
+      ],
+      "displayName": "Venomous Smoothie",
+      "id": 1249963,
+      "learnedat": 25,
+      "level": 0,
+      "name": "Venomous Smoothie",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          159,
+          1
+        ],
+        [
+          2678,
+          1
+        ],
+        [
+          1475,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 105
+    },
+    {
+      "cat": 9,
+      "colors": [
+        100,
+        105,
+        112,
+        120
+      ],
+      "creates": [
+        249872,
+        1,
+        1
+      ],
+      "displayName": "Slimy Smoothie",
+      "id": 1249964,
+      "learnedat": 100,
+      "level": 0,
+      "name": "Slimy Smoothie",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1179,
+          1
+        ],
+        [
+          2678,
+          2
+        ],
+        [
+          3174,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 113
+    },
+    {
+      "cat": 9,
+      "colors": [
+        125,
+        135,
+        140,
+        145
+      ],
+      "creates": [
+        249873,
+        1,
+        1
+      ],
+      "displayName": "Mrrggl Smrrthle",
+      "id": 1249965,
+      "learnedat": 125,
+      "level": 0,
+      "name": "Mrrggl Smrrthle",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1205,
+          1
+        ],
+        [
+          2692,
+          2
+        ],
+        [
+          1468,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 82
+    },
+    {
+      "cat": 9,
+      "colors": [
+        180,
+        185,
+        190,
+        195
+      ],
+      "creates": [
+        249874,
+        1,
+        1
+      ],
+      "displayName": "Calcified Smoothie",
+      "id": 1249966,
+      "learnedat": 180,
+      "level": 0,
+      "name": "Calcified Smoothie",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1708,
+          1
+        ],
+        [
+          2692,
+          3
+        ],
+        [
+          5637,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 77
+    },
+    {
+      "cat": 9,
+      "colors": [
+        200,
+        215,
+        220,
+        225
+      ],
+      "creates": [
+        249875,
+        1,
+        1
+      ],
+      "displayName": "Spicy Smoothie",
+      "id": 1249967,
+      "learnedat": 200,
+      "level": 0,
+      "name": "Spicy Smoothie",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          1645,
+          1
+        ],
+        [
+          3713,
+          3
+        ],
+        [
+          4402,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 48
+    },
+    {
+      "cat": 9,
+      "colors": [
+        250,
+        255,
+        262,
+        270
+      ],
+      "creates": [
+        249876,
+        1,
+        1
+      ],
+      "displayName": "Wicked Smoothie",
+      "id": 1249968,
+      "learnedat": 250,
+      "level": 0,
+      "name": "Wicked Smoothie",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          8766,
+          1
+        ],
+        [
+          3713,
+          4
+        ],
+        [
+          8146,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 55
+    },
+    {
+      "cat": 9,
+      "colors": [
+        225,
+        230,
+        237,
+        245
+      ],
+      "creates": [
+        250065,
+        1,
+        1
+      ],
+      "displayName": "Savory Stag Sliders",
+      "id": 1250142,
+      "learnedat": 225,
+      "level": 0,
+      "name": "Savory Stag Sliders",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          5471,
+          2
+        ],
+        [
+          2692,
+          3
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 72
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        280,
+        295,
+        310
+      ],
+      "creates": [
+        250066,
+        1,
+        1
+      ],
+      "displayName": "Soaring Pamplona",
+      "id": 1250143,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Soaring Pamplona",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3404,
+          3
+        ],
+        [
+          3713,
+          3
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 45
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        280,
+        295,
+        310
+      ],
+      "creates": [
+        250067,
+        1,
+        1
+      ],
+      "displayName": "Bat Hachee",
+      "id": 1250144,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Bat Hachee",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12223,
+          3
+        ],
+        [
+          3713,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 36
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        280,
+        295,
+        310
+      ],
+      "creates": [
+        250068,
+        1,
+        1
+      ],
+      "displayName": "Savory Turtle Stew",
+      "id": 1250145,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Savory Turtle Stew",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3712,
+          3
+        ],
+        [
+          3713,
+          3
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 46
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        285,
+        300,
+        315
+      ],
+      "creates": [
+        250069,
+        1,
+        1
+      ],
+      "displayName": "Flank au Poivre",
+      "id": 1250146,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Flank au Poivre",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12203,
+          3
+        ],
+        [
+          3713,
+          3
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 49
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        280,
+        295,
+        310
+      ],
+      "creates": [
+        250070,
+        1,
+        1
+      ],
+      "displayName": "Bear Bruscitti",
+      "id": 1250147,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Bear Bruscitti",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3730,
+          3
+        ],
+        [
+          3713,
+          3
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 54
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        280,
+        295,
+        310
+      ],
+      "creates": [
+        250071,
+        1,
+        1
+      ],
+      "displayName": "Steaming Stag Steak",
+      "id": 1250148,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Steaming Stag Steak",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          5471,
+          3
+        ],
+        [
+          3713,
+          4
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 63
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        280,
+        295,
+        310
+      ],
+      "creates": [
+        250072,
+        1,
+        1
+      ],
+      "displayName": "Swiftstrike Steak",
+      "id": 1250149,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Swiftstrike Steak",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12202,
+          3
+        ],
+        [
+          3713,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 52
+    },
+    {
+      "cat": 9,
+      "colors": [
+        180,
+        280,
+        295,
+        310
+      ],
+      "creates": [
+        250073,
+        1,
+        1
+      ],
+      "displayName": "Raging Raptor Ribs",
+      "id": 1250150,
+      "learnedat": 180,
+      "level": 0,
+      "name": "Raging Raptor Ribs",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12184,
+          2
+        ],
+        [
+          2692,
+          3
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 65
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        200,
+        210,
+        220
+      ],
+      "creates": [
+        250074,
+        1,
+        1
+      ],
+      "displayName": "Bear Brisket",
+      "id": 1250151,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Bear Brisket",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3730,
+          2
+        ],
+        [
+          2692,
+          3
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 143
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        280,
+        295,
+        310
+      ],
+      "creates": [
+        250075,
+        1,
+        1
+      ],
+      "displayName": "Prehistoric Pulled Raptor",
+      "id": 1250152,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Prehistoric Pulled Raptor",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12184,
+          3
+        ],
+        [
+          3713,
+          4
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 33
+    },
+    {
+      "cat": 9,
+      "colors": [
+        225,
+        230,
+        237,
+        245
+      ],
+      "creates": [
+        250076,
+        1,
+        1
+      ],
+      "displayName": "Raptor Rouladen",
+      "id": 1250153,
+      "learnedat": 225,
+      "level": 0,
+      "name": "Raptor Rouladen",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12184,
+          2
+        ],
+        [
+          2692,
+          4
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 62
+    },
+    {
+      "cat": 9,
+      "colors": [
+        75,
+        115,
+        132,
+        150
+      ],
+      "creates": [
+        250077,
+        1,
+        1
+      ],
+      "displayName": "Twice-Spiced Raptor Slice",
+      "id": 1250154,
+      "learnedat": 75,
+      "level": 0,
+      "name": "Twice-Spiced Raptor Slice",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12184,
+          1
+        ],
+        [
+          2678,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 56
+    },
+    {
+      "cat": 9,
+      "colors": [
+        175,
+        195,
+        207,
+        220
+      ],
+      "creates": [
+        250078,
+        1,
+        1
+      ],
+      "displayName": "Giant Scrambled Eggs",
+      "id": 1250155,
+      "learnedat": 175,
+      "level": 0,
+      "name": "Giant Scrambled Eggs",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          12207,
+          2
+        ],
+        [
+          2692,
+          4
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 76
+    },
+    {
+      "cat": 9,
+      "colors": [
+        25,
+        35,
+        55,
+        75
+      ],
+      "creates": [
+        250079,
+        1,
+        1
+      ],
+      "displayName": "Tasty Raptor Bites",
+      "id": 1250156,
+      "learnedat": 25,
+      "level": 0,
+      "name": "Tasty Raptor Bites",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          3685,
+          1
+        ],
+        [
+          2678,
+          4
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 70
+    },
+    {
+      "cat": 9,
+      "colors": [
+        75,
+        80,
+        87,
+        95
+      ],
+      "creates": [
+        250080,
+        1,
+        1
+      ],
+      "displayName": "Breakfast Omelette",
+      "id": 1250157,
+      "learnedat": 75,
+      "level": 0,
+      "name": "Breakfast Omelette",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          6889,
+          1
+        ],
+        [
+          2678,
+          4
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 55
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        280,
+        295,
+        310
+      ],
+      "creates": [
+        250081,
+        1,
+        1
+      ],
+      "displayName": "Clam Linguine",
+      "id": 1250158,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Clam Linguine",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          7974,
+          3
+        ],
+        [
+          3713,
+          4
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 35
+    },
+    {
+      "cat": 9,
+      "colors": [
+        85,
+        125,
+        145,
+        165
+      ],
+      "creates": [
+        251525,
+        1,
+        1
+      ],
+      "displayName": "Savory Whimsyfin Delight",
+      "id": 1252566,
+      "learnedat": 85,
+      "level": 0,
+      "name": "Savory Whimsyfin Delight",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          251524,
+          1
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 258
+    },
+    {
+      "cat": 9,
+      "displayName": "Cleansing Stew",
+      "id": 1255241,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Cleansing Stew",
+      "nskillup": 1,
+      "reagents": [
+        [
+          252948,
+          1
+        ],
+        [
+          5471,
+          1
+        ],
+        [
+          12207,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 54
+    },
+    {
+      "cat": 9,
+      "colors": [
+        140,
+        145,
+        147,
+        150
+      ],
+      "creates": [
+        279957,
+        1,
+        1
+      ],
+      "displayName": "Cookie's Feast",
+      "id": 1262978,
+      "learnedat": 140,
+      "level": 0,
+      "name": "Cookie's Feast",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 2",
+      "reagents": [
+        [
+          12037,
+          2
+        ],
+        [
+          12204,
+          1
+        ],
+        [
+          3713,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 177
+    },
+    {
+      "cat": 9,
+      "colors": [
+        300,
+        300,
+        300,
+        300
+      ],
+      "creates": [
+        279982,
+        1,
+        1
+      ],
+      "displayName": "Iron Oven",
+      "id": 1263067,
+      "learnedat": 300,
+      "level": 0,
+      "name": "Iron Oven",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 4",
+      "reagents": [
+        [
+          10284,
+          10
+        ],
+        [
+          159,
+          5
+        ],
+        [
+          3713,
+          4
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 76
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        80,
+        82,
+        85
+      ],
+      "displayName": "Critter Cookie",
+      "id": 1270632,
+      "learnedat": 80,
+      "level": 0,
+      "name": "Critter Cookie",
+      "nskillup": 1,
+      "reagents": [
+        [
+          10284,
+          5
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 63
+    },
+    {
+      "cat": 9,
+      "colors": [
+        25,
+        30,
+        37,
+        45
+      ],
+      "creates": [
+        263509,
+        1,
+        1
+      ],
+      "displayName": "Skywall Souffle",
+      "id": 1270633,
+      "learnedat": 25,
+      "level": 0,
+      "name": "Skywall Souffle",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          6889,
+          2
+        ],
+        [
+          10284,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 81
+    },
+    {
+      "cat": 9,
+      "colors": [
+        35,
+        40,
+        47,
+        55
+      ],
+      "creates": [
+        263512,
+        1,
+        1
+      ],
+      "displayName": "Pincer Bites",
+      "id": 1270635,
+      "learnedat": 35,
+      "level": 0,
+      "name": "Pincer Bites",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          2675,
+          1
+        ],
+        [
+          10284,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        4
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 83
+    },
+    {
+      "cat": 9,
+      "colors": [
+        90,
+        95,
+        100,
+        105
+      ],
+      "creates": [
+        279961,
+        1,
+        1
+      ],
+      "displayName": "Journeyman Campfire",
+      "id": 1283400,
+      "learnedat": 90,
+      "level": 0,
+      "name": "Journeyman Campfire",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 2",
+      "reagents": [
+        [
+          11291,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 315
+    },
+    {
+      "cat": 9,
+      "colors": [
+        200,
+        205,
+        212,
+        220
+      ],
+      "creates": [
+        279974,
+        1,
+        1
+      ],
+      "displayName": "Expert Campfire",
+      "id": 1291341,
+      "learnedat": 200,
+      "level": 0,
+      "name": "Expert Campfire",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 3",
+      "reagents": [
+        [
+          272941,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 163
+    },
+    {
+      "cat": 9,
+      "colors": [
+        275,
+        280,
+        282,
+        285
+      ],
+      "creates": [
+        267341,
+        1,
+        1
+      ],
+      "displayName": "Sweetpaw Jam",
+      "id": 1294014,
+      "learnedat": 275,
+      "level": 0,
+      "name": "Sweetpaw Jam",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          249796,
+          3
+        ],
+        [
+          3713,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 55
+    },
+    {
+      "cat": 9,
+      "colors": [
+        200,
+        220,
+        230,
+        240
+      ],
+      "creates": [
+        274971,
+        1,
+        1
+      ],
+      "displayName": "Briny Seafood Stew",
+      "id": 1295805,
+      "learnedat": 200,
+      "level": 0,
+      "name": "Briny Seafood Stew",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          730,
+          2
+        ],
+        [
+          12206,
+          1
+        ],
+        [
+          2692,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 173
+    },
+    {
+      "cat": 9,
+      "colors": [
+        185,
+        200,
+        215,
+        230
+      ],
+      "creates": [
+        274976,
+        1,
+        1
+      ],
+      "displayName": "Plain Ol' Paletusk",
+      "id": 1295834,
+      "learnedat": 185,
+      "level": 0,
+      "name": "Plain Ol' Paletusk",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          769,
+          2
+        ],
+        [
+          2678,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "source": [
+        5
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 127
+    },
+    {
+      "cat": 9,
+      "colors": [
+        225,
+        245,
+        250,
+        255
+      ],
+      "creates": [
+        286152,
+        1,
+        1
+      ],
+      "displayName": "Plated Armorfish",
+      "id": 1319313,
+      "learnedat": 225,
+      "level": 0,
+      "name": "Plated Armorfish",
+      "nskillup": 1,
+      "quality": 1,
+      "reagents": [
+        [
+          13890,
+          1
+        ],
+        [
+          3713,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        185
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 51
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/spells/secondary-skills/cooking",
+  "checked": "2026-10-11"
+}

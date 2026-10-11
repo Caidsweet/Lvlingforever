@@ -3,6 +3,9 @@ import json, subprocess, sys, re, base64
 from html.parser import HTMLParser
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
+TEMPLATE=ROOT/'assets/ui/guide-template.html'
+OUTPUT=ROOT/'.pages-build/standalone.html'
+OUTPUT.parent.mkdir(parents=True,exist_ok=True)
 snapshot_path=ROOT/'data/research-snapshot.json'
 map_path=ROOT/'data/map-snapshot.json'
 map_snapshot=json.loads(map_path.read_text()) if map_path.exists() else {'quests':{},'maps':{}}
@@ -153,30 +156,39 @@ for id,key,name,lo,hi,zone,tint in config:
 research={'catalogue':[x for x in cat if any(d in [a[1] for a in config] for d in x.get('dungeons',[]))],'walkthroughs':used_nodes,'itemStats':{str(r['id']):items.get(str(r['id']),{}) for d in output for q in d['quests'] for r in q['rewards']},'sourceCommits':commits,'questFactions':factions,'entrances':entrances}
 (ROOT/'data/research-snapshot.json').write_text(json.dumps(research,ensure_ascii=False,indent=2)+'\n')
 (ROOT/'data/guide.json').write_text(json.dumps({'dungeons':output},ensure_ascii=False,indent=2)+'\n')
-html=(ROOT/'index.html').read_text();start=html.index('let dungeons=');end=html.index('\nlet stage=',start)
-html=html[:start]+'let dungeons='+json.dumps(output,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+';'+html[end:];(ROOT/'index.html').write_text(html)
+html=TEMPLATE.read_text();start=html.index('let dungeons=');end=html.index('\nlet stage=',start)
+html=html[:start]+'let dungeons='+json.dumps(output,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+';'+html[end:];OUTPUT.write_text(html)
 if 'const RESEARCH=' in html:
  research_notes=json.loads((ROOT/'data/leveling-research.json').read_text())
  start=html.index('const RESEARCH=');end=html.index('\nconst LEVEL_CAP=',start)
  html=html[:start]+'const RESEARCH='+json.dumps(research_notes,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+';'+html[end:]
- (ROOT/'index.html').write_text(html)
+ OUTPUT.write_text(html)
 if 'const ITEM_TOOLTIPS=' in html:
  start=html.index('const ITEM_TOOLTIPS=');end=html.index('\nconst itemCache=',start)
  html=html[:start]+'const ITEM_TOOLTIPS='+json.dumps(item_tooltips,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+';'+html[end:]
- (ROOT/'index.html').write_text(html)
+ OUTPUT.write_text(html)
 used_zones={point['zoneId'] for dungeon in output for quest in dungeon['quests'] for point in quest.get('mapPoints',[])}
 map_assets={zone:map_snapshot['maps'][zone] for zone in sorted(used_zones) if zone in map_snapshot['maps'] and map_snapshot['maps'][zone].get('image')}
-html=(ROOT/'index.html').read_text()
+html=OUTPUT.read_text()
 if 'const MAPS=' in html:
  start=html.index('const MAPS=');end=html.index('\nconst MAP_STATE=',start)
  html=html[:start]+'const MAPS='+json.dumps(map_assets,ensure_ascii=False,separators=(',',':'))+';'+html[end:]
- (ROOT/'index.html').write_text(html)
+ OUTPUT.write_text(html)
 theme_path=ROOT/'assets/ui/classic.css'
+if '// PROFESSIONS_UI_START' in html:
+ start=html.index('// PROFESSIONS_UI_START');end=html.index('// PROFESSIONS_UI_END',start)+len('// PROFESSIONS_UI_END')
+ html=html[:start]+'// PROFESSIONS_UI_START\n'+(ROOT/'assets/ui/professions.js').read_text()+'\n// PROFESSIONS_UI_END'+html[end:]
+if 'const CRAFTING=' in html:
+ from build_recipes import build_recipe_catalogue
+ crafting=build_recipe_catalogue()
+ start=html.index('const CRAFTING=');end=html.index('\nconst PROFESSIONS=',start)
+ html=html[:start]+'const CRAFTING='+json.dumps(crafting,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+';'+html[end:]
+ OUTPUT.write_text(html)
 if 'const PROFESSIONS=' in html:
  professions=json.loads((ROOT/'data/professions.json').read_text())
  start=html.index('const PROFESSIONS=');end=html.index('\nlet professionSection=',start)
  html=html[:start]+'const PROFESSIONS='+json.dumps(professions,ensure_ascii=False,separators=(',',':')).replace('</','<\\/')+';'+html[end:]
- (ROOT/'index.html').write_text(html)
+ OUTPUT.write_text(html)
 if theme_path.exists():
  css=theme_path.read_text()
  def embed_asset(match):
@@ -189,5 +201,8 @@ if theme_path.exists():
   start=html.index('<!-- CLASSIC_THEME_START -->');end=html.index('<!-- CLASSIC_THEME_END -->',start)+len('<!-- CLASSIC_THEME_END -->')
   html=html[:start]+block+html[end:]
  else:html=html.replace('</head>',block+'</head>',1)
- (ROOT/'index.html').write_text(html)
+ OUTPUT.write_text(html)
 print('Built',len(output),'dungeons,',sum(len(d['quests']) for d in output),'quests,',sum(len(q['rewards']) for d in output for q in d['quests']),'rewards')
+
+from build_site import build_site
+build_site(html)

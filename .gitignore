@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 .pages-build/
 forever-guide-*.html
+forever-guide-*.png
+data/recipe-research/*.html

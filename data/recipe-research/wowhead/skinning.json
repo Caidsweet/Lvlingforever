@@ -1,0 +1,343 @@
+{
+  "spells": [
+    {
+      "cat": 11,
+      "displayName": "Skinning",
+      "id": 8613,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Skinning",
+      "nskillup": 1,
+      "rank": "Apprentice",
+      "schools": 1,
+      "skill": [
+        393
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 10,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 118
+    },
+    {
+      "cat": 11,
+      "displayName": "Skinning",
+      "id": 8617,
+      "learnedat": 50,
+      "level": 0,
+      "name": "Skinning",
+      "nskillup": 1,
+      "rank": "Journeyman",
+      "schools": 1,
+      "skill": [
+        393
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 500,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 78
+    },
+    {
+      "cat": 11,
+      "displayName": "Skinning",
+      "id": 8618,
+      "learnedat": 125,
+      "level": 0,
+      "name": "Skinning",
+      "nskillup": 1,
+      "rank": "Expert",
+      "schools": 1,
+      "skill": [
+        393
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 5000,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 108
+    },
+    {
+      "cat": 11,
+      "displayName": "Skinning",
+      "id": 10768,
+      "learnedat": 200,
+      "level": 0,
+      "name": "Skinning",
+      "nskillup": 1,
+      "rank": "Artisan",
+      "schools": 1,
+      "skill": [
+        393
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 50000,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 122
+    },
+    {
+      "cat": 11,
+      "creates": [
+        279979,
+        1,
+        1
+      ],
+      "displayName": "Camp Chair",
+      "id": 1229517,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Camp Chair",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 1",
+      "reagents": [
+        [
+          2318,
+          3
+        ],
+        [
+          4470,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        393
+      ],
+      "source": [
+        4,
+        6
+      ],
+      "trainingcost": 100,
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 122
+    },
+    {
+      "cat": 11,
+      "displayName": "Skinning",
+      "id": 1240952,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Skinning",
+      "nskillup": 1,
+      "rank": "Apprentice",
+      "schools": 1,
+      "skill": [
+        393
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 22
+    },
+    {
+      "cat": 11,
+      "displayName": "Skinning",
+      "id": 1240963,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Skinning",
+      "nskillup": 1,
+      "rank": "Journeyman",
+      "schools": 1,
+      "skill": [
+        393
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 13
+    },
+    {
+      "cat": 11,
+      "displayName": "Skinning",
+      "id": 1240974,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Skinning",
+      "nskillup": 1,
+      "rank": "Expert",
+      "schools": 1,
+      "skill": [
+        393
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 15
+    },
+    {
+      "cat": 11,
+      "displayName": "Skinning",
+      "id": 1240987,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Skinning",
+      "nskillup": 1,
+      "rank": "Artisan",
+      "schools": 1,
+      "skill": [
+        393
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 20
+    },
+    {
+      "cat": 11,
+      "colors": [
+        300,
+        300,
+        300,
+        300
+      ],
+      "creates": [
+        279938,
+        1,
+        1
+      ],
+      "displayName": "Trapper's Workbench",
+      "id": 1262982,
+      "learnedat": 300,
+      "level": 0,
+      "name": "Trapper's Workbench",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 3",
+      "reagents": [
+        [
+          4470,
+          2
+        ],
+        [
+          4234,
+          4
+        ],
+        [
+          3575,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        393
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 54
+    },
+    {
+      "cat": 11,
+      "creates": [
+        279969,
+        1,
+        1
+      ],
+      "displayName": "Field Guide",
+      "id": 1262985,
+      "learnedat": 140,
+      "level": 0,
+      "name": "Field Guide",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 2",
+      "reagents": [
+        [
+          2319,
+          3
+        ],
+        [
+          5784,
+          2
+        ],
+        [
+          2321,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        393
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 107
+    },
+    {
+      "cat": 11,
+      "displayName": "Tanning",
+      "id": 1278068,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Tanning",
+      "nskillup": 1,
+      "schools": 1,
+      "skill": [
+        393
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 53
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/spells/professions/skinning",
+  "checked": "2026-10-11"
+}

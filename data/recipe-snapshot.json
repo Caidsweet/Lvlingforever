@@ -1,0 +1,41 @@
+{
+  "checked": "2026-10-11",
+  "sources": [
+    "https://foreverdb.net/data/professions.json",
+    "https://foreverdb.net/data/professions/{slug}.json",
+    "https://www.wowhead.com/forever/spells/professions/{slug}",
+    "https://www.wowhead.com/forever/spells/secondary-skills/{slug}",
+    "https://foreverdb.net/icons/{id}.webp"
+  ],
+  "snapshots": {
+    "data/recipe-research/foreverdb/alchemy.json": "84d7b11d58a5e25bf901e31ef511f0f0eed6a89056e44dc620decaa5b0f2a260",
+    "data/recipe-research/foreverdb/blacksmithing.json": "587730d29a9337301cc8333a55cdef7948a92c2d8fef5412bcebc9caa0381e45",
+    "data/recipe-research/foreverdb/cooking.json": "cf0ce6d92d41ce8dd73cfbfeb671a78811268ed29216a3a9157e805036e04ee4",
+    "data/recipe-research/foreverdb/enchanting.json": "f69024764bb7483d95a443349d69e4cec4fb225e7b27102e353c3cbee2ce99b8",
+    "data/recipe-research/foreverdb/engineering.json": "006c8dd6b223f6313d32c40ac62d9d617cf7f1b8a016515c9c4f9e93f599de09",
+    "data/recipe-research/foreverdb/first-aid.json": "8739081e2ad47c29253408d9e3f4314953108a2c4a6f90ed10cdc5598b697b00",
+    "data/recipe-research/foreverdb/fishing.json": "ab9e2b3486a3094a050233bc1daa0191ccab93eae3750984ee354dfac2b32293",
+    "data/recipe-research/foreverdb/herbalism.json": "83bd67ae84e9fbcbceb2f10ac60bfe0c1473f1a5e7f95015019f7e5d72480ef8",
+    "data/recipe-research/foreverdb/index.json": "76729ce56b965a3838690c011491297d4ea8764f906d3f12e96c8715633a4f7a",
+    "data/recipe-research/foreverdb/leatherworking.json": "d246f8e1ccf47fed9f1092c6d6c198ee5877f7df625549619d62ce5bb47382d1",
+    "data/recipe-research/foreverdb/mining.json": "ea29ff8a7d1a4268e3264752cd41c6ea07eb18ff503dc066b0568c9ea99e3061",
+    "data/recipe-research/foreverdb/skinning.json": "544836f0dd5b0d4f9d2977d177f306808e46a7f5884319fa9547f1a08dff605f",
+    "data/recipe-research/foreverdb/tailoring.json": "223111fd695571689fbca9b82425335cebcd4f01587d97d79fda805f90bce230",
+    "data/recipe-research/wowhead/alchemy.json": "7c689d07bc3d2a03fb1bff6f1f9e98b4472cef622c5ac2029e7a74607c2ec411",
+    "data/recipe-research/wowhead/blacksmithing.json": "012b559bc16ea30dbba9d6c7b59e9e9100e30d7881fe821da54334f8d729d820",
+    "data/recipe-research/wowhead/cooking.json": "ec8652e9d96fc6cd35b502c2244170cdaec3a68bbaafb65d61399970e591850f",
+    "data/recipe-research/wowhead/enchanting.json": "9ba16a60971342d764970704860ebb4642e85fdd3d5a6e36c7cb0d0ddf761833",
+    "data/recipe-research/wowhead/engineering.json": "afe162f2f90fd8ad57e3f37d97c2a853ae6c3c844b2eb48d7808485d94e8c437",
+    "data/recipe-research/wowhead/first-aid.json": "237403d46da98301f6802982c568574689dc2a8505bc73132289fc8208ae3014",
+    "data/recipe-research/wowhead/fishing.json": "9e0496b9b7ae64c2f8624a2b460aba234e3bf116b66caa032215e772d37bec37",
+    "data/recipe-research/wowhead/herbalism.json": "cae62f47322dd0bcadb99098ca4d154e90392880b6455a433c2f1f629d702ace",
+    "data/recipe-research/wowhead/leatherworking.json": "5fdcc8d2d1eddadeb4267d260a428048114a8df7f59b1c248575be543d07efc8",
+    "data/recipe-research/wowhead/mining.json": "60b4bea1f4e321579d5a60a3e1bb0f8949caa718d7bbfe979f0882a2e5492178",
+    "data/recipe-research/wowhead/skinning.json": "d3d6df6556c5594fbcd24c72c2fde36d8940f73432d2393c76663d6fbe272810",
+    "data/recipe-research/wowhead/tailoring.json": "8234d35d01d2b67e4978f365efd66215651b1b87ec8e25ed3a81a0ec82314b83"
+  },
+  "icons": {
+    "count": 1368
+  },
+  "learnAtPolicy": "Use Wowhead learnedat; ForeverDB req is the orange skill-up field. Missing/zero/9999 learnedat is not a confirmed learning requirement."
+}

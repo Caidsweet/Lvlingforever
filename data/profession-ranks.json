@@ -1,0 +1,47 @@
+{
+  "checked": "2026-10-11",
+  "status": "Classic reference · Forever rank requirements unverified",
+  "sources": [
+    {"name": "Wowhead Classic profession overview", "url": "https://www.wowhead.com/classic/guide/professions-overview-wow-classic", "note": "Production character levels and gathering exceptions. The overview's Fishing row differs from actual book/quest gates; use the book and quest references for those ranks."},
+    {"name": "Expert Fishing — The Bass and You", "url": "https://www.wowhead.com/classic/item=16083", "note": "Classic item tooltip requires character level 20 and Fishing 125."},
+    {"name": "Expert Cookbook", "url": "https://www.wowhead.com/classic/item=16072", "note": "Classic item tooltip requires Cooking 125; no character level listed."},
+    {"name": "Expert First Aid — Under Wraps", "url": "https://www.wowhead.com/classic/item=16084", "note": "Classic item tooltip requires First Aid 125; no character level listed."}
+  ],
+  "groups": {
+    "production": {
+      "professions": ["alchemy", "blacksmithing", "enchanting", "engineering", "leatherworking", "tailoring"],
+      "characterLevels": [5, 10, 20, 35],
+      "learnAtSkills": [0, 50, 125, 200],
+      "methods": ["Trainer", "Trainer", "Trainer", "Specialist trainer"],
+      "note": "Some Forever baseline learning may be available at character level 1. The Classic production reference begins at level 5; the current Forever training gates have not been confirmed."
+    },
+    "gathering": {
+      "professions": ["herbalism", "mining", "skinning"],
+      "characterLevels": [1, 1, 10, 25],
+      "learnAtSkills": [0, 50, 125, 200],
+      "methods": ["Trainer", "Trainer", "Trainer", "Trainer"],
+      "note": "Apprentice and Journeyman have no character-level gate in the Classic reference; level 1 is shown as the lowest playable level."
+    },
+    "fishing": {
+      "professions": ["fishing"],
+      "characterLevels": [5, 10, 20, 35],
+      "learnAtSkills": [0, 50, 125, 225],
+      "methods": ["Trainer", "Trainer", "Expert Fishing — The Bass and You", "Nat Pagle, Angler Extreme quest"],
+      "note": "Classic Expert Fishing is learned from a book requiring character level 20 and Fishing 125. Artisan is unlocked through Nat Pagle's quest at character level 35 and Fishing 225. Forever may use different training methods."
+    },
+    "cooking": {
+      "professions": ["cooking"],
+      "characterLevels": [1, 1, 1, 35],
+      "learnAtSkills": [0, 50, 125, 225],
+      "methods": ["Trainer", "Trainer", "Expert Cookbook", "Clamlette Surprise quest"],
+      "note": "Classic Cooking has no character-level gate for Apprentice, Journeyman or the Expert book. Artisan requires the level-35 quest at Cooking 225. Forever training methods are unverified."
+    },
+    "first-aid": {
+      "professions": ["first-aid"],
+      "characterLevels": [1, 1, 1, 35],
+      "learnAtSkills": [0, 50, 125, 225],
+      "methods": ["Trainer", "Trainer", "Expert First Aid — Under Wraps", "Triage quest"],
+      "note": "Classic First Aid has no character-level gate for Apprentice, Journeyman or the Expert book. Artisan requires the level-35 Triage quest at First Aid 225. Forever training methods are unverified."
+    }
+  }
+}

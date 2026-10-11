@@ -1,0 +1,355 @@
+{
+  "spells": [
+    {
+      "cat": 9,
+      "displayName": "Fishing",
+      "id": 7620,
+      "learnedat": 9999,
+      "level": 1,
+      "name": "Fishing",
+      "nskillup": 1,
+      "rank": "Apprentice",
+      "schools": 1,
+      "skill": [
+        356
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 100,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 137
+    },
+    {
+      "cat": 9,
+      "displayName": "Fishing",
+      "id": 7731,
+      "learnedat": 50,
+      "level": 1,
+      "name": "Fishing",
+      "nskillup": 1,
+      "rank": "Journeyman",
+      "schools": 1,
+      "skill": [
+        356
+      ],
+      "source": [
+        6
+      ],
+      "trainingcost": 500,
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 62
+    },
+    {
+      "cat": 9,
+      "displayName": "Fishing",
+      "id": 7732,
+      "learnedat": 9999,
+      "level": 1,
+      "name": "Fishing",
+      "nskillup": 1,
+      "rank": "Expert",
+      "schools": 1,
+      "skill": [
+        356
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 147
+    },
+    {
+      "cat": 9,
+      "displayName": "Fishing",
+      "id": 18248,
+      "learnedat": 9999,
+      "level": 1,
+      "name": "Fishing",
+      "nskillup": 1,
+      "rank": "Artisan",
+      "schools": 1,
+      "skill": [
+        356
+      ],
+      "source": [
+        4
+      ],
+      "envChange": {
+        "status": "unchanged",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 64
+    },
+    {
+      "cat": 9,
+      "colors": [
+        0,
+        1,
+        1,
+        1
+      ],
+      "displayName": "Find Fish",
+      "id": 43308,
+      "learnedat": 1,
+      "level": 0,
+      "name": "Find Fish",
+      "nskillup": 1,
+      "schools": 1,
+      "skill": [
+        356
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 94
+    },
+    {
+      "cat": 9,
+      "creates": [
+        279967,
+        1,
+        1
+      ],
+      "displayName": "Fish Bowl",
+      "id": 1229745,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Fish Bowl",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 1",
+      "reagents": [
+        [
+          6291,
+          1
+        ],
+        [
+          3371,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        356
+      ],
+      "source": [
+        4,
+        6
+      ],
+      "trainingcost": 100,
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 183
+    },
+    {
+      "cat": 9,
+      "displayName": "Fishing",
+      "id": 1240948,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Fishing",
+      "nskillup": 1,
+      "rank": "Apprentice",
+      "schools": 1,
+      "skill": [
+        356
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 14
+    },
+    {
+      "cat": 9,
+      "displayName": "Fishing",
+      "id": 1240959,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Fishing",
+      "nskillup": 1,
+      "rank": "Journeyman",
+      "schools": 1,
+      "skill": [
+        356
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 22
+    },
+    {
+      "cat": 9,
+      "displayName": "Fishing",
+      "id": 1240970,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Fishing",
+      "nskillup": 1,
+      "rank": "Expert",
+      "schools": 1,
+      "skill": [
+        356
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 28
+    },
+    {
+      "cat": 9,
+      "displayName": "Fishing",
+      "id": 1240983,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Fishing",
+      "nskillup": 1,
+      "rank": "Artisan",
+      "schools": 1,
+      "skill": [
+        356
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 14
+    },
+    {
+      "cat": 9,
+      "creates": [
+        279965,
+        1,
+        1
+      ],
+      "displayName": "Fishing Rack",
+      "id": 1262990,
+      "learnedat": 140,
+      "level": 0,
+      "name": "Fishing Rack",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 2",
+      "reagents": [
+        [
+          4470,
+          2
+        ],
+        [
+          8925,
+          1
+        ],
+        [
+          8365,
+          2
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        356
+      ],
+      "source": [
+        2
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 402
+    },
+    {
+      "cat": 9,
+      "creates": [
+        279966,
+        1,
+        1
+      ],
+      "displayName": "Fishing Hut",
+      "id": 1262998,
+      "learnedat": 300,
+      "level": 0,
+      "name": "Fishing Hut",
+      "nskillup": 1,
+      "quality": 1,
+      "rank": "Tier 3",
+      "reagents": [
+        [
+          4470,
+          5
+        ],
+        [
+          14048,
+          2
+        ],
+        [
+          273295,
+          1
+        ]
+      ],
+      "schools": 1,
+      "skill": [
+        356
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "popularity": 109
+    },
+    {
+      "cat": 9,
+      "displayName": "Bait and Tackle",
+      "id": 1278067,
+      "learnedat": 9999,
+      "level": 0,
+      "name": "Bait and Tackle",
+      "nskillup": 1,
+      "schools": 1,
+      "skill": [
+        356
+      ],
+      "envChange": {
+        "status": "new",
+        "labels": [],
+        "lines": []
+      },
+      "quality": -1,
+      "popularity": 21
+    }
+  ],
+  "source": "https://www.wowhead.com/forever/spells/secondary-skills/fishing",
+  "checked": "2026-10-11"
+}

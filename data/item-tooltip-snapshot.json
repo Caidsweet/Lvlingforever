@@ -847,24 +847,312 @@
       "tooltip": "<table><tr><td><!--nstart--><b class=\"q3\">Dual Reinforced Leggings</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q\"><br>Item Level <!--ilvl-->37</span><!--bo--><br>Binds when picked up<!--ue--><!--ue--><table width=\"100%\"><tr><td>Legs</td><th><!--scstart4:3--><span class=\"q1\">Mail</span><!--scend--></th></tr></table><!--rf--><span><!--amr-->211 Armor</span><br><span><!--stat4-->+12 Strength</span><br><span><!--stat50-->+120 Armor</span><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><!--rs--><!--e--><!--ps--><br>Durability 90 / 90</td></tr></table><table><tr><td><!--rr--><span class=\"q2\">Equip: Increased Defense +<!--rtg12-->5.</span><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-sellprice\">Sell Price: <span class=\"moneysilver\">63</span> <span class=\"moneycopper\">3</span></div></td></tr></table><!--i?9625:1:60:25-->",
       "checked": "2026-10-10",
       "source": "https://www.wowhead.com/forever/item=9625"
+    },
+    "279938": {
+      "name": "Trapper's Workbench",
+      "quality": 1,
+      "icon": "inv_misc_kobysstools_knifetrap_color3",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Trapper's Workbench</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=393/skinning\" class=\"q1\">Skinning</a> (300)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307397/trappers-workbench\" class=\"q2\">Places a Trapper's Workbench containing 1 trap, and provides all the benefits of a Camp Chair. Requires a Campfire nearby. <br /><br />May be placed over a Camp Chair to replace it.<br /><br />All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279938"
+    },
+    "279940": {
+      "name": "Toxin Study",
+      "quality": 1,
+      "icon": "inv_misc_potiona3",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Toxin Study</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=129/first-aid\" class=\"q1\">First Aid</a> (140)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307396/toxin-study\" class=\"q2\">Places a Toxin Study that contains healing potions and anti-venom, and provides all of the benefits of a First Aid Kit. Requires a Campfire nearby. <br /><br />May be placed over a First Aid Kit to replace it.<br />All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279940"
+    },
+    "279941": {
+      "name": "Tanning Rack",
+      "quality": 1,
+      "icon": "inv_10_skinning_leather_rarehide_color1",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Tanning Rack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=165/leatherworking\" class=\"q1\">Leatherworking</a> (140)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307395/tanning-rack\" class=\"q2\">Places a Tanning Rack that allows the creation of certain reagents, and provides all of the benefits of a Camp Tent. Requires a Campfire nearby. <br /><br />May be placed over a Camp Tent to replace it. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279941"
+    },
+    "279943": {
+      "name": "Spinning Wheel",
+      "quality": 1,
+      "icon": "10prof_table_tailoring01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Spinning Wheel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=197/tailoring\" class=\"q1\">Tailoring</a> (140)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307393/spinning-wheel\" class=\"q2\">Places a Spinning Wheel that allows the creation of certain reagents, and provides all the benefits of a Faction Banner. Requires a Campfire nearby. <br /><br />May be placed over a Faction Banner to replace it. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279943"
+    },
+    "279944": {
+      "name": "Sharpening Wheel",
+      "quality": 1,
+      "icon": "inv_stone_grindingstone_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sharpening Wheel</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=164/blacksmithing\" class=\"q1\">Blacksmithing</a> (20)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307392/sharpening-wheel\" class=\"q2\">Constructs a sharpening wheel that grants you and others sitting nearby [(<!--pl1307392:1:60-->60 < 24 ? 6 : (<!--pl1307392:1:60-->60 < 38 ? 11 : (<!--pl1307392:1:60-->60 < 52 ? 20 : 34)))] increased Strength, mutually exclusive with Strength of Earth Totem.<br /><br />Requires a Campfire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279944"
+    },
+    "279945": {
+      "name": "Sewing Machine",
+      "quality": 1,
+      "icon": "inv_tailoring_modifiedcraftingreagent_orange",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Sewing Machine</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=165/leatherworking\" class=\"q1\">Leatherworking</a> (300)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307391/sewing-machine\" class=\"q2\">Places a Sewing Machine usable for recipes that require it, and provides all of the benefits of a Camp Tent. Requires a Campfire nearby. <br /><br />May be placed over a Camp Tent to replace it. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279945"
+    },
+    "279947": {
+      "name": "Seed Hybridizer",
+      "quality": 1,
+      "icon": "inv_farm_herbseed",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Seed Hybridizer</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=182/herbalism\" class=\"q1\">Herbalism</a> (300)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307387/seed-hybridizer\" class=\"q2\">Places a Seed Hybridizer that allows seeds to be multiplied or combined into rarer tiers, and provides all of the benefits of an Incense Candle. Requires a Campfire nearby. <br /><br />May be placed over an Incense Candle to replace it.<br /> All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279947"
+    },
+    "279948": {
+      "name": "Rock Garden",
+      "quality": 1,
+      "icon": "inv_misc_powder_iron",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Rock Garden</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=186/mining\" class=\"q1\">Mining</a> (140)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307386/rock-garden\" class=\"q2\">Places a Rock Garden that spawns a common mining node over time, and provides all the benefits of a Lodestone. Requires a Campfire nearby. <br /><br />May be placed over a Lodestone to replace it. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279948"
+    },
+    "279949": {
+      "name": "Repair Bot",
+      "quality": 1,
+      "icon": "inv_robotpet",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Repair Bot</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=202/engineering\" class=\"q1\">Engineering</a> (140)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307385/repair-bot\" class=\"q2\">Summons a Repair Bot that allows you and others nearby to buy reagents and repair gear. Requires a Campfire nearby. <br /><br />May be placed over a Reagent Bot to replace it. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279949"
+    },
+    "279950": {
+      "name": "Reagent Bot",
+      "quality": 1,
+      "icon": "inv_misc_enggizmos_13",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Reagent Bot</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=202/engineering\" class=\"q1\">Engineering</a> (20)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307266/reagent-bot\" class=\"q2\">Summons a Reagent Bot that allows you and others nearby to purchase reagents. Requires a Campfire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279950"
+    },
+    "279951": {
+      "name": "Plague Doctor's Laboratory",
+      "quality": 1,
+      "icon": "inv_10_alchemy_incenseholder_color1",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Plague Doctor's Laboratory</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=129/first-aid\" class=\"q1\">First Aid</a> (300)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307265/plague-doctors-laboratory\" class=\"q2\">Places a Plague Doctor's Laboratory that contains healing potions and poultices, and provides all of the benefits of a First Aid Kit. Requires a Campfire nearby.<br /><br />May be placed over a First Aid Kit to replace it. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279951"
+    },
+    "279952": {
+      "name": "Molten Foundry",
+      "quality": 1,
+      "icon": "inv_blacksmithingalloys_red",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Molten Foundry</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=186/mining\" class=\"q1\">Mining</a> (300)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307264/molten-foundry\" class=\"q2\">Places a Molten Foundry usable for recipes that require it, and provides all the benefits of a Lodestone. Requires a Campfire nearby. <br /><br />May be placed over a Lodestone to replace it. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279952"
+    },
+    "279955": {
+      "name": "Master Forge",
+      "quality": 1,
+      "icon": "inv_mace_1h_blacksmithing_b_01_black",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Master Forge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=164/blacksmithing\" class=\"q1\">Blacksmithing</a> (300)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307261/master-forge\" class=\"q2\">Places a Master Forge usable for recipes that require it, and provides all of the benefits of a Sharpening Wheel. Requires a Campfire nearby. <br /><br />May be placed over a Sharpening Wheel to replace it. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279955"
+    },
+    "279956": {
+      "name": "Mana Well",
+      "quality": 1,
+      "icon": "spell_arcane_manatap",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Mana Well</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=171/alchemy\" class=\"q1\">Alchemy</a> (20)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307259/mana-well\" class=\"q2\">Constructs a mana well that allows you and others sitting nearby to regenerate [(<!--pl1307259:1:60-->60 < 24 ? 10 : (<!--pl1307259:1:60-->60 < 34 ? 15 : (<!--pl1307259:1:60-->60 < 44 ? 20 : (<!--pl1307259:1:60-->60 < 54 ? 24 : 29))))] Mana every 5 sec, muutally exclusive with Blessing of Wisdom.<br /><br />Requires a Campfire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279956"
+    },
+    "279957": {
+      "name": "Cookie's Feast",
+      "quality": 1,
+      "icon": "inv_cooking_80_majorfeast",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Cookie's Feast</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=185/cooking\" class=\"q1\">Cooking</a> (140)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307257/cookies-feast\" class=\"q2\">Lay out Cookie's Feast that contains Stamina-boosting food. Requires a Cooking Fire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279957"
+    },
+    "279959": {
+      "name": "Loom",
+      "quality": 1,
+      "icon": "inv_tailoring_80_tidespraylinen",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Loom</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=197/tailoring\" class=\"q1\">Tailoring</a> (300)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307255/loom\" class=\"q2\">Places a Loom usable for recipes that require it, and provides all the benefits of a Faction Banner. Requires a Campfire nearby. <br /><br />May be placed over a Faction Banner to replace it. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279959"
+    },
+    "279960": {
+      "name": "Lodestone",
+      "quality": 1,
+      "icon": "inv_misc_rune_06",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Lodestone</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=186/mining\" class=\"q1\">Mining</a> (20)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307254/lodestone\" class=\"q2\">Erects a lodestone that allows you and others sitting nearby to gain [(<!--pl1307254:1:60-->60 < 12 ? 12 : (<!--pl1307254:1:60-->60 < 22 ? 20 : (<!--pl1307254:1:60-->60 < 32 ? 32 : (<!--pl1307254:1:60-->60 < 42 ? 49 : (<!--pl1307254:1:60-->60 < 52 ? 67 : 90)))))] increased melee Attack Power, mutually exclusive with Blessing of Might.<br /><br />Requires a Campfire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279960"
+    },
+    "279961": {
+      "name": "Journeyman Campfire Kit",
+      "quality": 1,
+      "icon": "inv_camelot_camping_welcomingcampfire",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Journeyman Campfire Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->18</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=185/cooking\" class=\"q1\">Cooking</a> (140)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307252/journeyman-campfire\" class=\"q2\">Builds a journeyman campfire that allows cooking and the placement of up to 5 additional camp features. Players sitting or crafting nearby for 1 min will gain benefits from other camp features.</a> (5 Min Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279961"
+    },
+    "279962": {
+      "name": "Incense Candle",
+      "quality": 1,
+      "icon": "inv_misc_candle_02",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Incense Candle</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=182/herbalism\" class=\"q1\">Herbalism</a> (20)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307251/incense-candle\" class=\"q2\">Ignites an incense candle that allows you and others sitting nearby to gain [(<!--pl1307251:1:60-->60 < 14 ? 2 : (<!--pl1307251:1:60-->60 < 28 ? 6 : (<!--pl1307251:1:60-->60 < 42 ? 12 : (<!--pl1307251:1:60-->60 < 56 ? 18 : 25))))] increased Intellect, mutually exclusive with Arcane Intellect.<br /><br />Requires a Campfire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279962"
+    },
+    "279964": {
+      "name": "Greenhouse",
+      "quality": 1,
+      "icon": "inv_misc_herb_08",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Greenhouse</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=182/herbalism\" class=\"q1\">Herbalism</a> (140)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307248/greenhouse\" class=\"q2\">Places a Greenhouse that will grow herbs over time from seeds planted, and provides all of the benefits of an Incense Candle. Requires a Campfire nearby. <br /><br />May be placed over an Incense Candle to replace it.<br /> All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279964"
+    },
+    "279965": {
+      "name": "Fishing Rack",
+      "quality": 1,
+      "icon": "inv_misc_2h_draenorfishingpole_a_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fishing Rack</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=356/fishing\" class=\"q1\">Fishing</a> (140)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307247/fishing-rack\" class=\"q2\">Places a Fishing Rack that grants the ability to catch uncommon fish for 1 hour, provides Fishing Skill lures, and provides all of the benefits of a Fish Bowl. Requires a Campfire nearby.<br /><br />May be placed over a Fish Bowl to replace it. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279965"
+    },
+    "279966": {
+      "name": "Fishing Hut",
+      "quality": 1,
+      "icon": "inv_fishingchair",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fishing Hut</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=356/fishing\" class=\"q1\">Fishing</a> (300)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307246/fishing-hut\" class=\"q2\">Places a Fishing Hut that grants the ability to catch rare fish for 1 hour, provides Fishing Skill lures, and provides all of the benefits of a Fish Bowl. Requires a Campfire nearby.<br /><br />May be placed over a Fish Bowl to replace it.<br />All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279966"
+    },
+    "279967": {
+      "name": "Fish Bowl",
+      "quality": 1,
+      "icon": "inv_magicalfishpet",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fish Bowl</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=356/fishing\" class=\"q1\">Fishing</a> (20)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307245/fish-bowl\" class=\"q2\">Places a small fish bowl that allows you and others sitting nearby to gain 8% increased stats, mutually exclusive with Blessing of Kings.<br /><br />Requires a Campfire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279967"
+    },
+    "279968": {
+      "name": "First Aid Kit",
+      "quality": 1,
+      "icon": "inv_misc_bandage_11",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">First Aid Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=129/first-aid\" class=\"q1\">First Aid</a> (20)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307244/first-aid-kit\" class=\"q2\">Unpacks a first aid kit that allows you and others sitting nearby to gain [(<!--pl1307244:1:60-->60 < 12 ? 3 : (<!--pl1307244:1:60-->60 < 24 ? 8 : (<!--pl1307244:1:60-->60 < 36 ? 21 : (<!--pl1307244:1:60-->60 < 48 ? 34 : (<!--pl1307244:1:60-->60 < 60 ? 45 : 56)))))] increased Stamina, mutually exclusive with Power Word: Fortitude.<br /><br />Requires a Campfire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279968"
+    },
+    "279969": {
+      "name": "Field Guide",
+      "quality": 1,
+      "icon": "inv_misc_book_03",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Field Guide</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=393/skinning\" class=\"q1\">Skinning</a> (140)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307243/field-guide\" class=\"q2\">Places a Field Guide that allows players to read it and gain Track Beasts, and provides all the benefits of a Camp Chair. Requires a Campfire nearby. <br /><br />May be placed over a Camp Chair to replace it.<br /><br />All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279969"
+    },
+    "279970": {
+      "name": "Fermenter",
+      "quality": 1,
+      "icon": "inv_alchemy_90_cauldron",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Fermenter</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=171/alchemy\" class=\"q1\">Alchemy</a> (140)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307242/fermenter\" class=\"q2\">Places a fermenter that allows the creation of certain reagents, and provides all of the benefits of a Mana Well. Requires a Campfire nearby. May be placed over a Mana Well to replace it. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279970"
+    },
+    "279972": {
+      "name": "Faction Banner",
+      "quality": 1,
+      "icon": "inv_banner_03",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Faction Banner</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--><div class=\"wowhead-tooltip-item-races\">Requires any Horde race</div></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=197/tailoring\" class=\"q1\">Tailoring</a> (20)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307240/faction-banner\" class=\"q2\">Unrolls a banner that allows you and other members of the Horde sitting nearby to gain [(<!--pl1307240:1:60-->60 < 40 ? 14 : (<!--pl1307240:1:60-->60 < 50 ? 19 : (<!--pl1307240:1:60-->60 < 60 ? 27 : 32)))] increased Spirit, mutually exclusive with Divine Spirit.<br /><br />Requires a Campfire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279972"
+    },
+    "279974": {
+      "name": "Expert Campfire Kit",
+      "quality": 1,
+      "icon": "inv_camelot_camping_welcomingcampfire",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Expert Campfire Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->40</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=185/cooking\" class=\"q1\">Cooking</a> (220)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307237/expert-campfire\" class=\"q2\">Builds an expert campfire that allows cooking and the placement of up to 10 additional camp features. Players sitting or crafting nearby for 1 min will gain benefits from other camp features.</a> (5 Min Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279974"
+    },
+    "279976": {
+      "name": "Enchanted Lute",
+      "quality": 1,
+      "icon": "inv_10_enchanting2_magicswirl_bronze",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Enchanted Lute</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=333/enchanting\" class=\"q1\">Enchanting</a> (20)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307234/enchanted-lute\" class=\"q2\">Summons an enchanted lute that allows you and others sitting nearby to gain [(<!--pl1307234:1:60-->60 < 10 ? 28 : (<!--pl1307234:1:60-->60 < 20 ? 71 : (<!--pl1307234:1:60-->60 < 30 ? 114 : (<!--pl1307234:1:60-->60 < 40 ? 163 : (<!--pl1307234:1:60-->60 < 50 ? 211 : (<!--pl1307234:1:60-->60 < 60 ? 260 : 308 ))))))] Armor[(<!--pl1307234:1:60-->60 < 10 ? &nbsp;: (<!--pl1307234:1:60-->60 < 30 ? &nbsp;and &nbsp;: , ))][(<!--pl1307234:1:60-->60 > 59 ? 13 : (<!--pl1307234:1:60-->60 > 49 ? 12 : (<!--pl1307234:1:60-->60 > 39 ? 9 : (<!--pl1307234:1:60-->60 > 29 ? 7 : (<!--pl1307234:1:60-->60 > 19 ? 4 : (<!--pl1307234:1:60-->60 > 9 ? 2 : ))))))][(<!--pl1307234:1:60-->60 > 9 ? &nbsp;increase to all stats : )][(<!--pl1307234:1:60-->60 > 59 ? &nbsp;: &nbsp;and 22, (<!--pl1307234:1:60-->60 > 49 ? &nbsp;: &nbsp;and 16, (<!--pl1307234:1:60-->60 > 39 ? &nbsp;: &nbsp;and 12, (<!--pl1307234:1:60-->60 > 29 ? &nbsp;: &nbsp;and 6, ))))][(<!--pl1307234:1:60-->60 > 29 ? &nbsp;increase to all resistances : )], mutually exclusive with Mark of the Wild.<br /><br />Requires a Campfire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279976"
+    },
+    "279978": {
+      "name": "Camp Tent",
+      "quality": 1,
+      "icon": "inv_misc_leatherscrap_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Camp Tent</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=165/leatherworking\" class=\"q1\">Leatherworking</a> (20)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307230/camp-tent\" class=\"q2\">Builds a tent that allows you and others sitting nearby to increase Rested experience to 5% of a level. No effect if Rested experience already exceeds that value.<br /><br />Requires a Campfire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279978"
+    },
+    "279979": {
+      "name": "Camp Chair",
+      "quality": 1,
+      "icon": "inv_crate_01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Camp Chair</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=393/skinning\" class=\"q1\">Skinning</a> (20)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307229/camp-chair\" class=\"q2\">Assembles a camp chair that allows you and others sitting nearby to gain 2% increased critical strike chance with all spells and attacks, mutually exclusive with Moonkin Aura.<br /><br />Requires a Campfire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279979"
+    },
+    "279981": {
+      "name": "Basic Campfire Kit",
+      "quality": 1,
+      "icon": "inv_camelot_camping_welcomingcampfire",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Basic Campfire Kit</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->4</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=185/cooking\" class=\"q1\">Cooking</a> (1)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307227/basic-campfire\" class=\"q2\">Builds a basic campfire that allows cooking and the placement of up to 3 additional camp features. Players sitting or crafting nearby for 1 min will gain benefits from other camp features.</a> (5 Min Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279981"
+    },
+    "279982": {
+      "name": "Iron Oven",
+      "quality": 1,
+      "icon": "achievement_cooking_masteroftheoven",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Iron Oven</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=185/cooking\" class=\"q1\">Cooking</a> (300)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307226/iron-oven\" class=\"q2\">Places an Iron Oven required for the most advanced cooking recipes. Requires a Cooking Fire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279982"
+    },
+    "279985": {
+      "name": "Arcane Salvager",
+      "quality": 1,
+      "icon": "inv_eng_bottledelements",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Arcane Salvager</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=333/enchanting\" class=\"q1\">Enchanting</a> (140)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307223/arcane-salvager\" class=\"q2\">Places an Arcane Salvager that enables more efficient disenchanting, and provides all the benefits of an Enchanted Lute. Requires a Campfire nearby. <br /><br />May be placed over an Enchanted Lute to replace it.<br /> All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279985"
+    },
+    "279987": {
+      "name": "Arcane Forge",
+      "quality": 1,
+      "icon": "inv_enchanting_modifiedcraftingreagent_indigo",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Arcane Forge</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=333/enchanting\" class=\"q1\">Enchanting</a> (300)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307176/arcane-forge\" class=\"q2\">Places an Arcane Forge usable for recipes that require it, and provides all the benefits of an Enchanted Lute. Requires a Campfire nearby. <br /><br />May be placed over an Enchanted Lute to replace it. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279987"
+    },
+    "279988": {
+      "name": "Anvil",
+      "quality": 1,
+      "icon": "inv_blacksmith_anvil",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Anvil</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->28</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=164/blacksmithing\" class=\"q1\">Blacksmithing</a> (140)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307175/anvil\" class=\"q2\">Places an anvil, and provides all of the benefits of a Sharpening Wheel. Requires a Campfire nearby. <br /><br />May be placed over a Sharpening Wheel to replace it. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279988"
+    },
+    "279989": {
+      "name": "Anarchist's Workbench",
+      "quality": 1,
+      "icon": "inv_10_specialization_professionbook_engineering_color1",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Anarchist's Workbench</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=202/engineering\" class=\"q1\">Engineering</a> (300)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307174/anarchists-workbench\" class=\"q2\">Places an Anarchist's Workbench usable for recipes that require it. Requires a Campfire nearby. All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279989"
+    },
+    "279990": {
+      "name": "Alchemy Laboratory",
+      "quality": 1,
+      "icon": "10prof_portabletable_alchemy01",
+      "tooltip": "<table><tr><td><!--nstart--><b class=\"q1\">Alchemy Laboratory</b><!--nend--><!--ndstart--><!--ndend--><span class=\"q whtt-extra whtt-ilvl\"><br>Item Level <!--ilvl-->60</span><!--bo--><!--ue--><!--ue--><!--ebstats--><!--egstats--><!--eistats--><!--nameDescStats--></td></tr></table><table><tr><td>Requires <a href=\"/forever/skill=171/alchemy\" class=\"q1\">Alchemy</a> (300)<br><br><!--useText:0:1--><span id=\"useText1\" class=\"q2\">Use: <!--useEffect:0:1--><a href=\"/forever/spell=1307172/alchemy-laboratory\" class=\"q2\">Places an Alchemy Laboratory usable for recipes that require it, and provides all of the benefits of a Mana Well. Requires a Campfire nearby. <br /><br />May be placed over a Mana Well to replace it.<br /> All camping features share a cooldown of 1 hour.</a> (1 Hour Cooldown)<!--useEffect:1--></span><!--useText:1--><!--itemEffects:1--><br><!--pvpEquip--><!--pvpEquip--><div class=\"whtt-extra whtt-maxstack\">Max Stack: 20</div></td></tr></table>",
+      "checked": "2026-10-11",
+      "source": "https://www.wowhead.com/forever/item=279990"
     }
   },
-  "lastAttempt": "2026-10-10",
-  "failures": [
-    {
-      "id": "211449",
-      "error": "HTTP Error 404: Not Found",
-      "retained": false
-    },
-    {
-      "id": "211450",
-      "error": "HTTP Error 404: Not Found",
-      "retained": false
-    },
-    {
-      "id": "211451",
-      "error": "HTTP Error 404: Not Found",
-      "retained": false
-    }
-  ]
+  "lastAttempt": "2026-10-11",
+  "failures": []
 }

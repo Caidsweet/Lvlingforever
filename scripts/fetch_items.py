@@ -15,6 +15,9 @@ args = parser.parse_args()
 snapshot = json.loads(CACHE.read_text()) if CACHE.exists() else {'items': {}}
 guide = json.loads((ROOT / 'data/guide.json').read_text())
 ids = sorted({str(item['id']) for dungeon in guide['dungeons'] for quest in dungeon['quests'] for item in quest['rewards']})
+camp_index = ROOT/'data/recipe-research/foreverdb/index.json'
+if camp_index.exists():
+    ids = sorted(set(ids) | {str(c['id']) for c in json.loads(camp_index.read_text()).get('camp', []) if c['id'] != 279973})
 today = datetime.datetime.now(datetime.timezone.utc).date().isoformat()
 
 def download(url):
