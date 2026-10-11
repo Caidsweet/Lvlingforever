@@ -1,5 +1,6 @@
 """Build GitHub Pages with same-origin assets and deferred recipe loading."""
 import json
+import hashlib
 import os
 import re
 from pathlib import Path
@@ -63,9 +64,10 @@ function ensureCraftingData(){
         asset = checked_asset(match.group(1))
         return Path(os.path.relpath(ROOT/asset, css_path.parent)).as_posix()
     css_path.write_text(re.sub(r'asset://([A-Za-z0-9_./-]+)', css_asset, css))
+    css_version = hashlib.sha256(css_path.read_bytes()).hexdigest()[:12]
     start = html.index('<!-- CLASSIC_THEME_START -->')
     end = html.index('<!-- CLASSIC_THEME_END -->', start)+len('<!-- CLASSIC_THEME_END -->')
-    html = html[:start]+'<!-- CLASSIC_THEME_START -->\n<link rel="stylesheet" href="assets/ui/site-classic.css">\n<!-- CLASSIC_THEME_END -->'+html[end:]
+    html = html[:start]+'<!-- CLASSIC_THEME_START -->\n<link rel="stylesheet" href="assets/ui/site-classic.css?v='+css_version+'">\n<!-- CLASSIC_THEME_END -->'+html[end:]
     html = html.replace('</title>', '</title><link rel="icon" href="'+checked_asset('assets/ui/UI-QuestLog-BookIcon.png')+'">', 1)
     assert len(html.encode()) < 600_000, 'Site entry point unexpectedly large'
     (ROOT/'index.html').write_text(html)
