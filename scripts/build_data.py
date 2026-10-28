@@ -41,7 +41,7 @@ intro={
  'blackfathom':'Collect quests in Ironforge, Darnassus and Auberdine. Thaelrid offers a quest inside the dungeon. Separate paladin and warlock quests are labelled with their class requirements.',
  'stockades':'Collect quests in Stormwind, Lakeshire and Wetlands. After Deadmines, VanCleef’s letter leads to The Stockade Riots. Complete The Dark Iron War before taking The Fury Runs Deep.',
  'excavation':'Prepare Rethiel’s three outdoor quests, Daily Delivery and the Caitlin chain. Pick up Songblade Search in Lakeshire. Several follow-ups start inside the dungeon and may require a return trip.',
- 'dalaran':'Optional late-20s beta planning. The supplied research reports that Dalaran opened for testing on October 8; the official post has not been independently read here. Alliance quests are listed from level 24, but a full run before 30 has not been established. Use nearby outdoor quests if the current build or your group is not ready.',
+ 'dalaran':'Saved for level 30 and later. Heart of Disruption lists level 24, but its Alliance prerequisite An Alarming Request requires level 30. Do not plan this chain as a late-20s dungeon objective.',
  'razorfen':'Optional level-29–30 planning if already travelling through Kalimdor; a full run before the cap has not been established. Alliance and neutral quests: prepare Blueleaf Tubers in Ratchet. Willix and Mortality Wanes start inside the dungeon.',
  'gnomeregan':'Saved planning for after the level-30 route. Collect quests in Ironforge and Kharanos when convenient. Turn in Gnogaine to unlock its follow-up, so plan a return trip. Remember Gyrodrillmatic Excavationators, the escort and the ring chain.',
  'scarlet':'Saved planning at the level-30 boundary and beyond. Evaluate Graveyard separately; this catalogue also includes quests for later wings. In the Name of the Light requires Armory and Cathedral, so its completion is outside the 1–30 route. Past Due is a Forever quest with an unconfirmed pickup location.'}
@@ -105,7 +105,7 @@ output=[]
 for id,key,name,lo,hi,zone,tint in config:
  entries=[x for x in cat if key in x.get('dungeons',[]) and not is_horde(x)]
  # Keep dependency-only quests within the chain rather than duplicate checklist rows.
- skip={96391,92819,6981,95663,95682,95737,95647,95810,2923,2927,2925,2931,2947,1442}
+ skip={96391,92819,3366,95663,95682,95737,95647,95810,2923,2927,2925,2931,2947,1442}
  entries=[x for x in entries if x['id'] not in skip]
  quests=[]
  for x in entries:
@@ -114,16 +114,15 @@ for id,key,name,lo,hi,zone,tint in config:
    if x.get(field) or w.get(field):notes.append(x.get(field) or w[field])
   if x.get('restrictionUnknown'):notes.append('The source does not confirm faction restrictions; check in game. Your screenshots confirm Alliance availability for the quests shown.')
   if w.get('unverifiedChain'):notes.append('The source does not fully verify this pickup location or quest chain.')
-  if x['id']==98423:notes.append('Your screenshot shows minimum level 9; the database lists 16. Both are noted until the launch version is confirmed.')
   if x['id']==378:notes.append('Your screenshot shows minimum level 25; the beta catalogue lists 22. Plan to pick up the quest at 25.')
   if x['id']==1275:notes.append('Your screenshot marks a prerequisite. The beta source does not confirm the link; check Gershala’s earlier quests in Auberdine before leaving.')
   if x['id']==92753:
    chain.append('After the run: rear exit → Alba Fairmoon → Destruction in Deadmines [#92819] → use the detonator. Do not hearth before completing this step.')
   if x['id']==1053:
    chain=[s.replace('Brother Anton - The Barrens','Brother Anton — Nijel’s Point, Desolace (the source’s Classic reference pin is misplaced)') for s in chain]
-  if x['id']==3366:notes.append('Defeat all four Fanglords, start the Disciple of Naralex escort at the entrance and defeat Mutanus. Loot the shard from Mutanus. Continue through Ratchet / Falla Sagewind. Check your quest log for the Alliance follow-up.')
+  if x['id']==6981:notes.append('Defeat all four Fanglords, escort the Disciple of Naralex and loot the shard from Mutanus. Speak to Sputtervalve in Ratchet, then Falla Sagewind above Wailing Caverns.')
   if x['id']==1740:notes.append('Requires a warlock; collect fragments in both Blackfathom Deeps and Shadowfang Keep.')
-  if x['id']==1654:notes.append('Requires a paladin. Gather materials from Deadmines, Shadowfang Keep, Blackfathom Deeps and Loch Modan. In Auberdine, take Seeking the Kor Gem while The Test of Righteousness is active.')
+  if x['id']==1654:notes.append('Requires a paladin. Gather materials from Deadmines, Shadowfang Keep, Blackfathom Deeps and Loch Modan. In Auberdine, take Seeking the Kor Gem while The Test of Righteousness is active. After turning in this quest, take the final step (#1806) from Jordan Stilwell to receive Verigan’s Fist.')
   class_name=x.get('class') or w.get('class') or {2:'PALADIN',128:'MAGE',256:'WARLOCK'}.get(w.get('classMask'))
   pickup=x.get('pickup') or w.get('pickup') or 'The source does not list a pickup location.'
   quests.append({'id':str(x['id']),'name':x['name'],'npc':pickup,'location':'','minLevel':25 if x['id']==378 else (x.get('minLevel') or w.get('minLevel') or 0),'objective':'; '.join(x.get('objectives') or w.get('objectives') or ['Follow the objectives in your in-game quest log. The source does not list them.']),'chain':chain,'notes':notes,'turnin':w.get('turnin') or '; '.join(s for s in x.get('people',[]) if s.startswith('Turned in')) or 'Check your quest log.','rewards':[reward(r) for r in x.get('rewards',[])],'evidence':x.get('evidence','Reference data'),'source':x.get('source',w.get('source','')),'checked':x.get('checked',w.get('checked','')),'class':class_name,'inside':bool(x.get('pickupInside') or w.get('pickupInside')),'uncertain':bool(w.get('unverifiedChain'))})
@@ -151,7 +150,7 @@ for id,key,name,lo,hi,zone,tint in config:
      source_node=node(int(related_id))
      location=(quest['npc'] if kind=='pickup' else quest['turnin']) if relation=='Dungeon Quest' else source_node.get('pickup' if kind=='pickup' else 'turnin','Check your quest log.')
      quest['mapGaps'].append({'questId':related_id,'questName':quest_name,'relation':relation,'kind':kind,'location':str(location),'npc':info.get('npc'),'zone':info.get('zone'),'reason':'No world-map coordinates published by Wowhead Forever.'})
- plan_scope='after30' if id in ['gnomeregan','scarlet'] else 'boundary' if id in ['dalaran','razorfen'] else 'route'
+ plan_scope='after30' if id in ['dalaran','gnomeregan','scarlet'] else 'boundary' if id in ['razorfen'] else 'route'
  output.append({'id':id,'name':name,'min':lo,'max':hi,'zone':zone,'tint':tint,'intro':intro[id],'planScope':plan_scope,'verified':False,'quests':quests,'entrances':entrances.get(name,[])})
 research={'catalogue':[x for x in cat if any(d in [a[1] for a in config] for d in x.get('dungeons',[]))],'walkthroughs':used_nodes,'itemStats':{str(r['id']):items.get(str(r['id']),{}) for d in output for q in d['quests'] for r in q['rewards']},'sourceCommits':commits,'questFactions':factions,'entrances':entrances}
 (ROOT/'data/research-snapshot.json').write_text(json.dumps(research,ensure_ascii=False,indent=2)+'\n')

@@ -1414,9 +1414,9 @@
       "dungeons": [
         "Wailing Caverns"
       ],
-      "source": "https://wowforevertalents.com/quests/the-glowing-shard-6981/",
-      "evidence": "Beta cache report",
-      "checked": "2026-10-09",
+      "source": "https://www.wowhead.com/forever/quest=6981/the-glowing-shard",
+      "evidence": "Forever database",
+      "checked": "2026-10-28",
       "level": 26,
       "minLevel": 15,
       "objectives": [
@@ -1424,11 +1424,11 @@
       ],
       "rewards": [],
       "people": [
-        "Turned in to: Creature #8418"
+        "Turned in to: Falla Sagewind"
       ],
       "chain": [],
-      "pickup": "Glowing Shard variant; check the current quest offered by the item.",
-      "notes": "Reported from a beta quest cache; availability and rewards may change. NPC names read from quest text are not proof of a pickup location.",
+      "pickup": "Glowing Shard dropped by Mutanus the Devourer in Wailing Caverns.",
+      "notes": "Forever quest #6981; speak to Sputtervalve in Ratchet, then Falla Sagewind above Wailing Caverns.",
       "prereqs": [],
       "personEvidence": [
         {
@@ -1439,7 +1439,8 @@
       ],
       "sourceDetails": [
         "Source: the WFT Beta Log addon, 8 October 2026"
-      ]
+      ],
+      "pickupInside": true
     },
     {
       "id": 1098,
@@ -2889,7 +2890,7 @@
       "dungeons": [
         "The Hall of Thanes"
       ],
-      "minLevel": 16,
+      "minLevel": 9,
       "faction": "Alliance",
       "pickup": "Interact with the treaty vault in the Reliquary of Kings inside the dungeon.",
       "prereqs": [],
@@ -2900,7 +2901,7 @@
       "source": "https://www.wowhead.com/forever/quest=98423",
       "evidence": "Forever database",
       "checked": "2026-10-01",
-      "notes": "Bring the treaty to King Magni Bronzebeard. Pickup level is guide-reported.",
+      "notes": "The tablet starts this quest in the Reliquary of Kings; turn it in to King Magni Bronzebeard.",
       "pickupInside": true
     },
     {
@@ -5175,7 +5176,7 @@
       ],
       "locationSource": "https://wowforevertalents.com/quests/heart-of-disruption-92458/",
       "locationEvidence": "Beta log pickup coordinates, 8 October 2026; NPC name from quest text",
-      "preparationNote": "Reported earlier step: An Alarming Request. Its quest ID and full chain are not yet verified.",
+      "preparationNote": "Requires An Alarming Request (#92432), which currently requires level 30 for Alliance. Save this chain until level 30; Heart of Disruption itself lists level 24.",
       "pin": {
         "map": 1421,
         "x": 68.6,
@@ -5630,9 +5631,10 @@
       "unverifiedChain": true,
       "pickup": "Interact with the treaty vault in the Reliquary of Kings inside the dungeon.",
       "pickupInside": true,
-      "minLevel": 16,
+      "minLevel": 9,
       "faction": "Alliance",
-      "checked": "2026-10-01"
+      "checked": "2026-10-01",
+      "turnin": "King Magni Bronzebeard, Ironforge"
     },
     "95250": {
       "id": 95250,
@@ -7231,7 +7233,7 @@
         "zone": "Silverpine Forest",
         "title": "Archmage Modera (creature 269127)"
       },
-      "preparationNote": "Reported earlier step: An Alarming Request. Its quest ID and full chain are not yet verified.",
+      "preparationNote": "Requires An Alarming Request (#92432), which currently requires level 30 for Alliance. Save this chain until level 30; Heart of Disruption itself lists level 24.",
       "minLevel": 24,
       "faction": "Alliance",
       "objectives": [

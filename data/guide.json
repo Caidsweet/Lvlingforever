@@ -443,14 +443,13 @@
           "name": "The Treaty of Understanding",
           "npc": "Interact with the treaty vault in the Reliquary of Kings inside the dungeon.",
           "location": "",
-          "minLevel": 16,
+          "minLevel": 9,
           "objective": "Follow the objectives in your in-game quest log. The source does not list them.",
           "chain": [],
           "notes": [
-            "The source does not fully verify this pickup location or quest chain.",
-            "Your screenshot shows minimum level 9; the database lists 16. Both are noted until the launch version is confirmed."
+            "The source does not fully verify this pickup location or quest chain."
           ],
-          "turnin": "Check your quest log.",
+          "turnin": "King Magni Bronzebeard, Ironforge",
           "rewards": [],
           "evidence": "Forever database",
           "source": "https://www.wowhead.com/forever/quest=98423",
@@ -2396,7 +2395,7 @@
             "The Test of Righteousness [#1653] — Duthorian Rall - Stormwind City"
           ],
           "notes": [
-            "Requires a paladin. Gather materials from Deadmines, Shadowfang Keep, Blackfathom Deeps and Loch Modan. In Auberdine, take Seeking the Kor Gem while The Test of Righteousness is active."
+            "Requires a paladin. Gather materials from Deadmines, Shadowfang Keep, Blackfathom Deeps and Loch Modan. In Auberdine, take Seeking the Kor Gem while The Test of Righteousness is active. After turning in this quest, take the final step (#1806) from Jordan Stilwell to receive Verigan’s Fist."
           ],
           "turnin": "Jordan Stilwell",
           "rewards": [],
@@ -2959,43 +2958,42 @@
           ]
         },
         {
-          "id": "3366",
+          "id": "6981",
           "name": "The Glowing Shard",
-          "npc": "Glowing Shard dropped by Mutanus in Wailing Caverns.",
+          "npc": "Glowing Shard dropped by Mutanus the Devourer in Wailing Caverns.",
           "location": "",
           "minLevel": 15,
           "objective": "Glowing Shard",
           "chain": [],
           "notes": [
-            "The source does not fully verify this pickup location or quest chain.",
-            "Defeat all four Fanglords, start the Disciple of Naralex escort at the entrance and defeat Mutanus. Loot the shard from Mutanus. Continue through Ratchet / Falla Sagewind. Check your quest log for the Alliance follow-up."
+            "Defeat all four Fanglords, escort the Disciple of Naralex and loot the shard from Mutanus. Speak to Sputtervalve in Ratchet, then Falla Sagewind above Wailing Caverns."
           ],
-          "turnin": "Check your quest log.",
+          "turnin": "Turned in to: Falla Sagewind",
           "rewards": [],
-          "evidence": "Beta cache report",
-          "source": "https://wowforevertalents.com/quests/the-glowing-shard-3366/",
-          "checked": "2026-10-09",
+          "evidence": "Forever database",
+          "source": "https://www.wowhead.com/forever/quest=6981/the-glowing-shard",
+          "checked": "2026-10-28",
           "class": null,
           "inside": true,
-          "uncertain": true,
+          "uncertain": false,
           "mapPoints": [],
           "mapGaps": [
             {
-              "questId": "3366",
+              "questId": "6981",
               "questName": "The Glowing Shard",
               "relation": "Dungeon Quest",
               "kind": "pickup",
-              "location": "Glowing Shard dropped by Mutanus in Wailing Caverns.",
+              "location": "Glowing Shard dropped by Mutanus the Devourer in Wailing Caverns.",
               "npc": null,
               "zone": null,
               "reason": "No world-map coordinates published by Wowhead Forever."
             },
             {
-              "questId": "3366",
+              "questId": "6981",
               "questName": "The Glowing Shard",
               "relation": "Dungeon Quest",
               "kind": "turnin",
-              "location": "Check your quest log.",
+              "location": "Turned in to: Falla Sagewind",
               "npc": null,
               "zone": null,
               "reason": "No world-map coordinates published by Wowhead Forever."
@@ -3133,7 +3131,7 @@
             "The Test of Righteousness [#1653] — Duthorian Rall - Stormwind City"
           ],
           "notes": [
-            "Requires a paladin. Gather materials from Deadmines, Shadowfang Keep, Blackfathom Deeps and Loch Modan. In Auberdine, take Seeking the Kor Gem while The Test of Righteousness is active."
+            "Requires a paladin. Gather materials from Deadmines, Shadowfang Keep, Blackfathom Deeps and Loch Modan. In Auberdine, take Seeking the Kor Gem while The Test of Righteousness is active. After turning in this quest, take the final step (#1806) from Jordan Stilwell to receive Verigan’s Fist."
           ],
           "turnin": "Jordan Stilwell",
           "rewards": [],
@@ -4005,7 +4003,7 @@
             "The Test of Righteousness [#1653] — Duthorian Rall - Stormwind City"
           ],
           "notes": [
-            "Requires a paladin. Gather materials from Deadmines, Shadowfang Keep, Blackfathom Deeps and Loch Modan. In Auberdine, take Seeking the Kor Gem while The Test of Righteousness is active."
+            "Requires a paladin. Gather materials from Deadmines, Shadowfang Keep, Blackfathom Deeps and Loch Modan. In Auberdine, take Seeking the Kor Gem while The Test of Righteousness is active. After turning in this quest, take the final step (#1806) from Jordan Stilwell to receive Verigan’s Fist."
           ],
           "turnin": "Jordan Stilwell",
           "rewards": [],
@@ -5799,8 +5797,8 @@
       "max": 35,
       "zone": "Hillsbrad / Dalaran",
       "tint": "#55416d",
-      "intro": "Optional late-20s beta planning. The supplied research reports that Dalaran opened for testing on October 8; the official post has not been independently read here. Alliance quests are listed from level 24, but a full run before 30 has not been established. Use nearby outdoor quests if the current build or your group is not ready.",
-      "planScope": "boundary",
+      "intro": "Saved for level 30 and later. Heart of Disruption lists level 24, but its Alliance prerequisite An Alarming Request requires level 30. Do not plan this chain as a late-20s dungeon objective.",
+      "planScope": "after30",
       "verified": false,
       "quests": [
         {
@@ -5910,7 +5908,7 @@
           "objective": "Arcane Mote",
           "chain": [],
           "notes": [
-            "Reported earlier step: An Alarming Request. Its quest ID and full chain are not yet verified.",
+            "Requires An Alarming Request (#92432), which currently requires level 30 for Alliance. Save this chain until level 30; Heart of Disruption itself lists level 24.",
             "The source does not fully verify this pickup location or quest chain."
           ],
           "turnin": "Turned in to: Creature #269127",
